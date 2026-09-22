@@ -1,0 +1,16 @@
+{
+    "name": "Ajay Rai",
+    "party": "INC",
+    "state": "Uttar Pradesh",
+    "constituency": "Varanasi",
+    "position": "Lok Sabha MP Candidate",
+    "age": 55,
+    "education": "Graduate",
+    "experience": "Congress leader and MLA",
+    "achievements": [
+        "Former MLA",
+        "Senior Congress leader",
+        "Represented Varanasi multiple times"
+    ],
+    "image": "ajay_rai.jpg"
+}

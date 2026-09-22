@@ -1,0 +1,183 @@
+{
+  "name": "Biju Janata Dal",
+  "shortName": "BJD",
+
+  "description": "The Biju Janata Dal (BJD) is a regional political party based in Odisha. Founded in 1997 by Naveen Patnaik in memory of his father Biju Patnaik, the party follows principles of regional development, good governance, secularism, social welfare and economic progress. BJD dominated Odisha politics for over two decades, forming the state government continuously from 2000 to 2024 under the leadership of Naveen Patnaik.",
+
+  "assets": {
+    "logo": "/logos/bjd.png",
+    "flag": "/flags/bjd_flag.png",
+    "symbol": "/symbols/conch_shell.png",
+    "gallery": [
+      "/gallery/bjd1.jpg",
+      "/gallery/bjd2.jpg",
+      "/gallery/bjd3.jpg"
+    ],
+    "manifesto": "/manifestos/bjd2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Conch Shell",
+
+  "founded": "26 December 1997",
+
+  "founders": [
+    "Naveen Patnaik"
+  ],
+
+  "headquarters": "Bhubaneswar, Odisha, India",
+
+  "website": "https://www.bjdodisha.org.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Naveen Patnaik",
+
+  "alliance": "Independent (Previously supported NDA on several occasions)",
+
+  "ideology": [
+    "Regionalism",
+    "Odia Identity and Culture",
+    "Secularism",
+    "Good Governance",
+    "Social Welfare",
+    "Economic Development",
+    "Women Empowerment",
+    "Inclusive Growth"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {}
+  },
+
+  "achievements": [
+    "Governed Odisha continuously for 24 years from 2000 to 2024.",
+    "Improved Odisha's disaster management system and cyclone preparedness.",
+    "Implemented extensive welfare programmes for women, farmers and vulnerable communities.",
+    "Introduced Mission Shakti to empower women through self-help groups.",
+    "Expanded healthcare access through schemes like Biju Swasthya Kalyan Yojana.",
+    "Improved Odisha's infrastructure, industrial investment and economic growth.",
+    "Promoted Odisha's sports development, especially hockey infrastructure.",
+    "Improved transparency and digital governance initiatives.",
+    "Focused on poverty reduction and rural development."
+  ],
+
+  "criticisms": [
+    "Opposition parties criticised the long-term concentration of power under Naveen Patnaik's leadership.",
+    "Critics questioned the influence of bureaucrats in government decision-making.",
+    "Opponents raised concerns regarding unemployment and industrial development challenges.",
+    "The party faced criticism regarding limited organisational expansion outside Odisha.",
+    "Political rivals accused the party of being overly dependent on one leader."
+  ],
+
+  "protests": [
+    "Campaigns for Odisha's special category state status.",
+    "Movements supporting farmers and agricultural welfare.",
+    "Protests regarding Odisha's rights over natural resources.",
+    "Campaigns for regional development and Odia interests.",
+    "Demonstrations on issues related to unemployment and inflation."
+  ],
+
+  "majorSchemes": [
+    "Mission Shakti",
+    "Biju Swasthya Kalyan Yojana (BSKY)",
+    "KALIA Scheme (Krushak Assistance for Livelihood and Income Augmentation)",
+    "Mo Sarkar Initiative",
+    "Biju Pucca Ghar Yojana",
+    "Madhu Babu Pension Yojana",
+    "Mission Zero Casualty Disaster Management",
+    "Ama Odisha Nabin Odisha Scheme"
+  ],
+
+  "timeline": [
+    "1997 - Biju Janata Dal founded by Naveen Patnaik after the death of his father Biju Patnaik.",
+    "1998 - BJD entered alliance with BJP-led NDA.",
+    "2000 - BJD-BJP alliance won Odisha Assembly election; Naveen Patnaik became Chief Minister.",
+    "2009 - BJD ended alliance with BJP before Odisha Assembly elections.",
+    "2014 - BJD won Odisha Assembly election and continued government under Naveen Patnaik.",
+    "2019 - BJD retained power in Odisha for a fifth consecutive term.",
+    "2024 - BJD lost Odisha Assembly election; BJP formed government in Odisha for the first time."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 20,
+      "voteShare": 21.15,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 12,
+      "voteShare": 13.37,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 3.4,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Odisha",
+      "status": "Governed from 2000 to 2024 under Naveen Patnaik"
+    }
+  ],
+
+  "gallery": [
+    "bjd1.jpg",
+    "bjd2.jpg",
+    "bjd3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "governance.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was BJD founded?",
+      "answer": "Biju Janata Dal was founded on 26 December 1997."
+    },
+    {
+      "question": "Who founded BJD?",
+      "answer": "Naveen Patnaik founded the Biju Janata Dal."
+    },
+    {
+      "question": "What is the election symbol of BJD?",
+      "answer": "The Conch Shell."
+    },
+    {
+      "question": "Who is the current leader of BJD?",
+      "answer": "Naveen Patnaik is the current president and leader of BJD."
+    },
+    {
+      "question": "Which state is the main base of BJD?",
+      "answer": "Odisha."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.bjdodisha.org.in",
+    "twitter": "https://x.com/bjd_odisha",
+    "facebook": "https://www.facebook.com/bjdodisha",
+    "instagram": "https://www.instagram.com/bjd_odisha",
+    "youtube": "https://www.youtube.com/@BJDOfficial"
+  }
+}

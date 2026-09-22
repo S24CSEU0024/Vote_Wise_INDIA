@@ -1,0 +1,18 @@
+{
+  "name": "Arvind Kejriwal",
+  "party": "AAP",
+  "state": "Delhi",
+  "constituency": "New Delhi",
+  "position": "National Convenor",
+  "age": 58,
+  "education": "B.Tech (Mechanical Engineering), IIT Kharagpur",
+  "experience": "Former Chief Minister of Delhi",
+  "achievements": [
+    "Mohalla Clinics",
+    "Delhi Education Reforms",
+    "Free electricity scheme",
+    "Doorstep government services",
+    "Happiness Curriculum"
+  ],
+  "image": "arvind_kejriwal.jpg"
+}

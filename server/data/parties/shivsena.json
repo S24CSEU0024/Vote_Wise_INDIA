@@ -1,0 +1,189 @@
+{
+  "name": "Shiv Sena",
+  "shortName": "SHS",
+
+  "description": "Shiv Sena is a regional political party founded in Maharashtra in 1966 by Bal Thackeray. The party was established to advocate for the rights of Marathi-speaking people and promote Marathi identity. Over time, Shiv Sena expanded its ideology to include Hindutva, nationalism, regional development and social welfare. The party has played a major role in Maharashtra politics and has formed governments multiple times, including coalition governments at the state and national levels.",
+
+  "assets": {
+    "logo": "/logos/shivsena.png",
+    "flag": "/flags/shivsena_flag.png",
+    "symbol": "/symbols/bow_and_arrow.png",
+    "gallery": [
+      "/gallery/shivsena1.jpg",
+      "/gallery/shivsena2.jpg",
+      "/gallery/shivsena3.jpg"
+    ],
+    "manifesto": "/manifestos/shivsena2024.pdf"
+  },
+
+  "themeColor": "#FF6600",
+
+  "symbolName": "Bow and Arrow",
+
+  "founded": "19 June 1966",
+
+  "founders": [
+    "Bal Thackeray"
+  ],
+
+  "headquarters": "Mumbai, Maharashtra, India",
+
+  "website": "https://www.shivsena.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Eknath Shinde (Shiv Sena faction) / Uddhav Thackeray (Shiv Sena UBT faction)",
+
+  "alliance": "NDA (Shiv Sena faction led by Eknath Shinde); INDIA Alliance (Shiv Sena UBT faction)",
+
+  "ideology": [
+    "Marathi Regionalism",
+    "Hindutva",
+    "Cultural Nationalism",
+    "Maharashtra Development",
+    "Social Welfare",
+    "Regional Identity Protection"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Former Union Minister": "Anant Geete"
+    },
+    "State Ministers": {
+      "Former Chief Minister of Maharashtra": [
+        "Uddhav Thackeray",
+        "Eknath Shinde"
+      ]
+    }
+  },
+
+  "achievements": [
+    "Established a strong political presence in Maharashtra since the 1960s.",
+    "Controlled the Brihanmumbai Municipal Corporation (BMC) for several decades.",
+    "Formed Maharashtra government multiple times through alliances.",
+    "Bal Thackeray played a major role in shaping Maharashtra's regional politics.",
+    "Participated in NDA governments at the Centre.",
+    "Implemented welfare and infrastructure initiatives during periods of government.",
+    "Focused on Mumbai infrastructure, urban development and local governance.",
+    "Eknath Shinde-led Shiv Sena formed Maharashtra government in 2022."
+  ],
+
+  "criticisms": [
+    "Critics have accused Shiv Sena of promoting aggressive regional identity politics.",
+    "The party has faced criticism regarding its stance on religious and cultural issues.",
+    "Internal split between Uddhav Thackeray and Eknath Shinde factions created controversy.",
+    "Opposition parties have criticised the party's alliance changes.",
+    "Critics have raised concerns regarding governance and municipal administration in Mumbai."
+  ],
+
+  "protests": [
+    "Campaigns for protection of Marathi language and culture.",
+    "Movements supporting employment opportunities for local residents of Maharashtra.",
+    "Protests regarding issues affecting Mumbai and Maharashtra.",
+    "Campaigns on farmers' issues and regional development.",
+    "Public demonstrations on cultural and political issues."
+  ],
+
+  "majorSchemes": [
+    "Mumbai Urban Development Initiatives",
+    "Local Employment Promotion Campaigns",
+    "Maharashtra Infrastructure Projects",
+    "Farmer Welfare Initiatives",
+    "Urban Housing Development Programmes",
+    "Public Transport Development Projects"
+  ],
+
+  "timeline": [
+    "1966 - Shiv Sena founded by Bal Thackeray in Mumbai.",
+    "1970s - Expanded influence through campaigns supporting Marathi identity.",
+    "1980s - Shifted towards Hindutva politics.",
+    "1989 - Shiv Sena formed alliance with BJP in Maharashtra.",
+    "1995 - Shiv Sena-BJP alliance won Maharashtra Assembly election; Manohar Joshi became Chief Minister.",
+    "2004 - Continued alliance with BJP while remaining a major Maharashtra political force.",
+    "2014 - Shiv Sena and BJP contested Maharashtra elections with alliance differences.",
+    "2019 - Shiv Sena separated from BJP and formed Maha Vikas Aghadi government with Congress and NCP.",
+    "2022 - Eknath Shinde split from Shiv Sena and formed government with BJP support.",
+    "2023 - Election Commission recognised Eknath Shinde faction as the official Shiv Sena.",
+    "2024 - Shiv Sena factions contested Lok Sabha elections under different alliances."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 18,
+      "voteShare": 1.85,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 18,
+      "voteShare": 1.44,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Shiv Sena factions contested separately",
+      "seatsWon": 7,
+      "voteShare": 0.7,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Maharashtra",
+      "status": "Governed multiple times through alliances (1995–1999, 2019–2022, 2022–present through different factions)"
+    }
+  ],
+
+  "gallery": [
+    "shivsena1.jpg",
+    "shivsena2.jpg",
+    "shivsena3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "maharashtra_politics.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was Shiv Sena founded?",
+      "answer": "Shiv Sena was founded on 19 June 1966."
+    },
+    {
+      "question": "Who founded Shiv Sena?",
+      "answer": "Bal Thackeray founded Shiv Sena."
+    },
+    {
+      "question": "What is the election symbol of Shiv Sena?",
+      "answer": "The Bow and Arrow symbol is used by the Eknath Shinde-led Shiv Sena."
+    },
+    {
+      "question": "Who is the current leader of Shiv Sena?",
+      "answer": "Eknath Shinde leads the official Shiv Sena faction, while Uddhav Thackeray leads Shiv Sena (UBT)."
+    },
+    {
+      "question": "Which state is the main base of Shiv Sena?",
+      "answer": "Maharashtra."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.shivsena.org",
+    "twitter": "https://x.com/ShivSena",
+    "facebook": "https://www.facebook.com/ShivSena",
+    "instagram": "https://www.instagram.com/shivsenaofficial",
+    "youtube": "https://www.youtube.com/@ShivSenaOfficial"
+  }
+}

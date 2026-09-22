@@ -1,0 +1,169 @@
+{
+  "name": "National People's Party",
+  "shortName": "NPP",
+
+  "description": "The National People's Party (NPP) is a national political party founded in 2013 by Purno Agitok Sangma. It primarily represents the interests of the North Eastern states of India while advocating inclusive development, federalism, tribal rights, good governance and sustainable development. It is the first political party from the North-East to be recognized as a National Party by the Election Commission of India.",
+
+  "assets": {
+    "logo": "/logos/npp.png",
+    "flag": "/flags/npp_flag.png",
+    "symbol": "/symbols/book.png",
+    "gallery": [
+      "/gallery/npp1.jpg",
+      "/gallery/npp2.jpg",
+      "/gallery/npp3.jpg"
+    ],
+    "manifesto": "/manifestos/npp2024.pdf"
+  },
+
+  "themeColor": "#F4C430",
+
+  "symbolName": "Book",
+
+  "founded": "6 January 2013",
+
+  "founders": [
+    "P. A. Sangma"
+  ],
+
+  "headquarters": "New Delhi, India",
+
+  "website": "https://www.nppindia.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Conrad K. Sangma",
+
+  "alliance": "Varies by state and election",
+
+  "ideology": [
+    "Federalism",
+    "Regional Development",
+    "Tribal Rights",
+    "Inclusive Growth",
+    "Democracy",
+    "Good Governance"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "First political party from North-East India to receive National Party status.",
+    "Led the Government in Meghalaya.",
+    "Focused on infrastructure development in North-Eastern states.",
+    "Promoted tourism and sustainable development initiatives.",
+    "Worked on healthcare and education improvements in Meghalaya.",
+    "Advocated greater representation for tribal communities."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised aspects of governance in Meghalaya.",
+    "Critics have raised concerns regarding implementation of certain development projects.",
+    "Political opponents have questioned coalition arrangements in some elections.",
+    "The party has faced criticism over administrative decisions during its tenure."
+  ],
+
+  "protests": [
+    "Campaigns supporting tribal rights.",
+    "Advocacy for greater development of North-Eastern states.",
+    "Public demonstrations on environmental and regional development issues."
+  ],
+
+  "majorSchemes": [
+    "Meghalaya Infrastructure Development",
+    "Tourism Promotion",
+    "Youth Employment Initiatives",
+    "Healthcare Improvement Programmes",
+    "Education Development Projects",
+    "Women's Empowerment Programmes"
+  ],
+
+  "timeline": [
+    "2013 - National People's Party founded by P. A. Sangma.",
+    "2014 - Won representation in the Lok Sabha.",
+    "2018 - Formed the Government in Meghalaya.",
+    "2022 - Retained leadership in Meghalaya after Assembly elections.",
+    "2023 - Recognized as a National Party by the Election Commission of India.",
+    "2024 - Contested the Lok Sabha elections."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent/Regional",
+      "seatsWon": 1,
+      "voteShare": 0.08,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Regional",
+      "seatsWon": 1,
+      "voteShare": 0.10,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Regional",
+      "seatsWon": 1,
+      "voteShare": 0.10,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Meghalaya",
+      "status": "Led the state government"
+    }
+  ],
+
+  "gallery": [
+    "npp1.jpg",
+    "npp2.jpg",
+    "npp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "development.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was the National People's Party founded?",
+      "answer": "The National People's Party was founded on 6 January 2013."
+    },
+    {
+      "question": "Who founded the National People's Party?",
+      "answer": "Purno Agitok (P. A.) Sangma founded the party."
+    },
+    {
+      "question": "What is the election symbol of NPP?",
+      "answer": "The Book."
+    },
+    {
+      "question": "Which state is primarily governed by NPP?",
+      "answer": "The party has led the government in Meghalaya."
+    },
+    {
+      "question": "Why is NPP significant in Indian politics?",
+      "answer": "It is the first political party from North-East India to receive National Party status from the Election Commission of India."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.nppindia.in",
+    "twitter": "https://x.com/NPP4India",
+    "facebook": "https://www.facebook.com/NPP4India",
+    "instagram": "",
+    "youtube": ""
+  }
+}

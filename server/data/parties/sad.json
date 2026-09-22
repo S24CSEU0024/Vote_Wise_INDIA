@@ -1,0 +1,192 @@
+{
+  "name": "Shiromani Akali Dal",
+  "shortName": "SAD",
+
+  "description": "The Shiromani Akali Dal (SAD) is one of India's oldest regional political parties, primarily based in Punjab. Founded in 1920 during the Gurdwara Reform Movement, the party has historically represented Sikh interests, Punjabi identity, farmers' issues and regional autonomy. SAD has played a major role in Punjab politics and has formed the state government multiple times. The party follows principles of Sikh values, federalism, social justice, agricultural welfare and regional development.",
+
+  "assets": {
+    "logo": "/logos/sad.png",
+    "flag": "/flags/sad_flag.png",
+    "symbol": "/symbols/scales.png",
+    "gallery": [
+      "/gallery/sad1.jpg",
+      "/gallery/sad2.jpg",
+      "/gallery/sad3.jpg"
+    ],
+    "manifesto": "/manifestos/sad2024.pdf"
+  },
+
+  "themeColor": "#1B5E20",
+
+  "symbolName": "Scales",
+
+  "founded": "14 December 1920",
+
+  "founders": [
+    "Sikh leaders associated with the Gurdwara Reform Movement"
+  ],
+
+  "headquarters": "Chandigarh, India",
+
+  "website": "https://akalidal.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Sukhbir Singh Badal",
+
+  "alliance": "Independent (Previously part of NDA alliance)",
+
+  "ideology": [
+    "Punjabi Regionalism",
+    "Sikh Political Representation",
+    "Federalism",
+    "Agricultural Welfare",
+    "Social Justice",
+    "Rural Development",
+    "Religious and Cultural Identity Protection"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Former Union Minister": "Harsimrat Kaur Badal"
+    },
+    "State Ministers": {
+      "Former Chief Minister of Punjab": [
+        "Parkash Singh Badal"
+      ]
+    }
+  },
+
+  "achievements": [
+    "One of India's oldest regional political parties with over a century of history.",
+    "Played a central role in Punjab's political development.",
+    "Formed Punjab governments multiple times under Parkash Singh Badal.",
+    "Implemented welfare programmes for farmers, rural communities and economically weaker sections.",
+    "Advocated for greater state autonomy and federal rights.",
+    "Supported agricultural interests and farmers' welfare policies.",
+    "Introduced infrastructure and development projects during its governments.",
+    "Represented Punjab's regional issues at the national level.",
+    "Participated in NDA governments at the Centre."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised SAD over allegations of corruption and governance issues.",
+    "The party faced criticism over handling of religious and law-and-order issues.",
+    "Critics have accused the party of family-based leadership.",
+    "The party lost support after controversies related to farmers' protests and agricultural laws.",
+    "Opponents have questioned the party's declining influence in Punjab politics."
+  ],
+
+  "protests": [
+    "Participated in movements related to Sikh religious institutions and community issues.",
+    "Led campaigns supporting farmers' rights.",
+    "Opposed agricultural reform laws during the farmers' protests.",
+    "Raised issues related to Punjab's water sharing and river rights.",
+    "Campaigns for greater autonomy and Punjab's regional interests."
+  ],
+
+  "majorSchemes": [
+    "Atta-Dal Scheme",
+    "Shagun Scheme for Women",
+    "Farmer Welfare Initiatives",
+    "Punjab Infrastructure Development Projects",
+    "Rural Development Programmes",
+    "Free Power Support for Farmers",
+    "Social Security Pension Schemes"
+  ],
+
+  "timeline": [
+    "1920 - Shiromani Akali Dal founded during the Gurdwara Reform Movement.",
+    "1947 - Played an important role in post-independence Sikh and Punjab politics.",
+    "1966 - Supported creation of Punjabi-speaking state of Punjab.",
+    "1977 - SAD formed Punjab government in alliance with Janata Party.",
+    "1997 - SAD-BJP alliance formed Punjab government under Parkash Singh Badal.",
+    "2007 - SAD-BJP alliance returned to power in Punjab.",
+    "2012 - SAD-BJP alliance won Punjab Assembly election for a second consecutive term.",
+    "2015 - Faced criticism during religious and law-and-order controversies in Punjab.",
+    "2017 - Lost Punjab Assembly election to Congress.",
+    "2020 - SAD left NDA alliance over agricultural laws.",
+    "2022 - Lost Punjab Assembly election and became a marginal opposition force.",
+    "2024 - SAD contested Lok Sabha elections independently."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 4,
+      "voteShare": 0.7,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 2,
+      "voteShare": 0.5,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 1,
+      "voteShare": 0.3,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Punjab",
+      "status": "Governed multiple times (1967, 1977, 1997–2002, 2007–2017)"
+    }
+  ],
+
+  "gallery": [
+    "sad1.jpg",
+    "sad2.jpg",
+    "sad3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "punjab_politics.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was SAD founded?",
+      "answer": "Shiromani Akali Dal was founded on 14 December 1920."
+    },
+    {
+      "question": "Who founded Shiromani Akali Dal?",
+      "answer": "It was founded by Sikh leaders during the Gurdwara Reform Movement."
+    },
+    {
+      "question": "What is the election symbol of SAD?",
+      "answer": "The Scales."
+    },
+    {
+      "question": "Who is the current leader of SAD?",
+      "answer": "Sukhbir Singh Badal is the current president of Shiromani Akali Dal."
+    },
+    {
+      "question": "Which state is the main base of SAD?",
+      "answer": "Punjab."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://akalidal.org",
+    "twitter": "https://x.com/officeofssbadal",
+    "facebook": "https://www.facebook.com/shrimoniakalidal",
+    "instagram": "https://www.instagram.com/akalidalofficial",
+    "youtube": "https://www.youtube.com/@ShiromaniAkaliDal"
+  }
+}

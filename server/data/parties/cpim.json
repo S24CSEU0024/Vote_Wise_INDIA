@@ -1,0 +1,211 @@
+{
+  "name": "Communist Party of India (Marxist)",
+  "shortName": "CPI(M)",
+
+  "description": "The Communist Party of India (Marxist), commonly known as CPI(M), is a national political party founded in 1964 following a split in the Communist Party of India. The party follows Marxist-Leninist principles and advocates democratic governance, workers' rights, land reforms, secularism and social justice. CPI(M) has governed several Indian states, particularly Kerala, West Bengal and Tripura.",
+
+  "assets": {
+    "logo": "/logos/cpim.png",
+    "flag": "/flags/cpim_flag.png",
+    "symbol": "/symbols/hammer_sickle_star.png",
+    "gallery": [
+      "/gallery/cpim1.jpg",
+      "/gallery/cpim2.jpg",
+      "/gallery/cpim3.jpg"
+    ],
+    "manifesto": "/manifestos/cpim2024.pdf"
+  },
+
+  "themeColor": "#C62828",
+
+  "symbolName": "Hammer, Sickle and Star",
+
+  "founded": "7 November 1964",
+
+  "founders": [
+    "E. M. S. Namboodiripad",
+    "P. Sundarayya",
+    "B. T. Ranadive",
+    "Jyoti Basu",
+    "Harkishan Singh Surjeet"
+  ],
+
+  "headquarters": "A. K. Gopalan Bhavan, New Delhi, India",
+
+  "website": "https://cpim.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "M. A. Baby",
+
+  "alliance": "Left Front / INDIA Alliance (varies by state and election)",
+
+  "ideology": [
+    "Marxism",
+    "Marxism-Leninism",
+    "Democratic Socialism",
+    "Secularism",
+    "Workers' Rights",
+    "Land Reforms",
+    "Social Equality"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Led Left Front governments in West Bengal for over three decades.",
+    "Implemented land reform initiatives in West Bengal and Kerala.",
+    "Strengthened Panchayati Raj institutions in states it governed.",
+    "Expanded literacy and public education initiatives in Kerala.",
+    "Supported universal public healthcare and welfare programmes.",
+    "Played an active role in parliamentary committees and legislative debates."
+  ],
+
+  "criticisms": [
+    "Critics have argued that the party's electoral influence has declined nationally.",
+    "Industrial policy decisions in West Bengal have been debated by supporters and critics.",
+    "Land acquisition controversies, including Singur and Nandigram, attracted significant public attention.",
+    "Political opponents have criticised aspects of governance during Left Front administrations."
+  ],
+
+  "protests": [
+    "Labour rights demonstrations.",
+    "Farmer movements.",
+    "Campaigns against privatisation.",
+    "Protests regarding unemployment, inflation and public welfare.",
+    "Participation in nationwide opposition demonstrations on constitutional and economic issues."
+  ],
+
+  "majorSchemes": [
+    "Land Reform Programmes",
+    "Decentralised Local Governance",
+    "Public Distribution System Strengthening",
+    "Public Healthcare Expansion",
+    "Government School Improvement",
+    "Agricultural Welfare Initiatives"
+  ],
+
+  "timeline": [
+    "1964 - CPI(M) formed after splitting from CPI.",
+    "1967 - Participated in coalition governments.",
+    "1977 - Left Front formed government in West Bengal.",
+    "1978 - Expansion of land reform initiatives.",
+    "1996 - Jyoti Basu was proposed as Prime Minister by the United Front but did not assume the office.",
+    "2011 - Left Front government in West Bengal ended after 34 years.",
+    "2021 - Left Democratic Front returned to power in Kerala.",
+    "2024 - Contested Lok Sabha election as part of Left Front and allied arrangements in different states."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Left Front",
+      "seatsWon": 9,
+      "voteShare": 3.25,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Left Front",
+      "seatsWon": 3,
+      "voteShare": 1.75,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Left Front / INDIA Alliance",
+      "seatsWon": 4,
+      "voteShare": 1.76,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Kerala",
+      "status": "Currently leads the Left Democratic Front government"
+    },
+    {
+      "state": "West Bengal",
+      "status": "Governed from 1977 to 2011"
+    },
+    {
+      "state": "Tripura",
+      "status": "Governed for multiple terms"
+    }
+  ],
+
+  "gallery": [
+    "cpim1.jpg",
+    "cpim2.jpg",
+    "cpim3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "ideology.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was CPI(M) founded?",
+      "answer": "The Communist Party of India (Marxist) was founded on 7 November 1964."
+    },
+    {
+      "question": "Why was CPI(M) formed?",
+      "answer": "It was formed after a split in the Communist Party of India due to ideological and organisational differences."
+    },
+    {
+      "question": "What is CPI(M)'s election symbol?",
+      "answer": "Hammer, Sickle and Star."
+    },
+    {
+      "question": "Which states has CPI(M) governed?",
+      "answer": "Kerala, West Bengal and Tripura."
+    },
+    {
+      "question": "What ideology does CPI(M) follow?",
+      "answer": "Marxism, Marxism-Leninism, democratic socialism, secularism and workers' rights."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://cpim.org",
+    "twitter": "https://x.com/cpimspeak",
+    "facebook": "https://www.facebook.com/cpimspeak",
+    "instagram": "",
+    "youtube": "https://www.youtube.com/@cpimspeak"
+  },
+
+  "recognition": {
+    "type": "National Party",
+    "recognizedBy": "Election Commission of India"
+  },
+
+  "membership": "",
+
+  "officialColor": "Red",
+
+  "youthWing": "Democratic Youth Federation of India (DYFI)",
+
+  "studentWing": "Students' Federation of India (SFI)",
+
+  "womenWing": "All India Democratic Women's Association (AIDWA)",
+
+  "labourWing": "Centre of Indian Trade Unions (CITU)",
+
+  "thinkTank": "",
+
+  "slogan": "People, Democracy, Socialism",
+
+  "motto": "",
+
+  "officialPublication": "People's Democracy"
+}

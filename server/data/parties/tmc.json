@@ -1,0 +1,173 @@
+{
+  "name": "All India Trinamool Congress",
+  "shortName": "AITC",
+
+  "description": "The All India Trinamool Congress (AITC), commonly known as the Trinamool Congress (TMC), is a national political party founded in 1998 by Mamata Banerjee after splitting from the Indian National Congress. The party is headquartered in West Bengal and focuses on social welfare, federalism, secularism, inclusive development and regional interests. It has governed West Bengal since 2011.",
+
+  "assets": {
+    "logo": "/logos/tmc.png",
+    "flag": "/flags/tmc_flag.png",
+    "symbol": "/symbols/flowers_grass.png",
+    "gallery": [
+      "/gallery/tmc1.jpg",
+      "/gallery/tmc2.jpg",
+      "/gallery/tmc3.jpg"
+    ],
+    "manifesto": "/manifestos/tmc2024.pdf"
+  },
+
+  "themeColor": "#00843D",
+
+  "symbolName": "Flowers and Grass",
+
+  "founded": "1 January 1998",
+
+  "founders": [
+    "Mamata Banerjee"
+  ],
+
+  "headquarters": "Kolkata, West Bengal, India",
+
+  "website": "https://aitcofficial.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Mamata Banerjee",
+
+  "alliance": "INDIA Alliance (varies by election)",
+
+  "ideology": [
+    "Centre",
+    "Regionalism",
+    "Federalism",
+    "Secularism",
+    "Social Welfare",
+    "Inclusive Development"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Formed the Government of West Bengal in 2011, ending 34 years of Left Front rule.",
+    "Returned to power in West Bengal in the 2016 and 2021 Assembly elections.",
+    "Implemented welfare programmes such as Kanyashree, Sabuj Sathi and Lakshmir Bhandar.",
+    "Expanded road, healthcare and education infrastructure in West Bengal.",
+    "Promoted women's empowerment through state welfare initiatives.",
+    "Received national and international recognition for some social welfare programmes."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised the government's handling of law and order in certain instances.",
+    "The party has faced allegations of corruption involving some leaders.",
+    "Political violence during elections has been a subject of criticism by opponents and observers.",
+    "Critics have questioned governance and administrative decisions in various sectors."
+  ],
+
+  "protests": [
+    "Campaigns supporting greater fiscal autonomy for states.",
+    "Demonstrations against selected central government policies.",
+    "Participation in nationwide opposition programmes.",
+    "Public rallies on issues such as inflation, unemployment and federal relations."
+  ],
+
+  "majorSchemes": [
+    "Kanyashree Prakalpa",
+    "Lakshmir Bhandar",
+    "Sabuj Sathi",
+    "Swasthya Sathi",
+    "Duare Sarkar",
+    "Krishak Bandhu",
+    "Rupashree Prakalpa",
+    "Karma Sathi"
+  ],
+
+  "timeline": [
+    "1998 - All India Trinamool Congress founded.",
+    "1999 - Joined the National Democratic Alliance.",
+    "2009 - Became part of the Union Government.",
+    "2011 - Won West Bengal Assembly election and formed the government.",
+    "2016 - Re-elected in West Bengal.",
+    "2021 - Won a third consecutive Assembly election in West Bengal.",
+    "2024 - Contested the Lok Sabha elections."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 34,
+      "voteShare": 3.84,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 22,
+      "voteShare": 4.07,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance (state-specific arrangements)",
+      "seatsWon": 29,
+      "voteShare": 4.37,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "West Bengal",
+      "status": "Currently governing since 2011"
+    }
+  ],
+
+  "gallery": [
+    "tmc1.jpg",
+    "tmc2.jpg",
+    "tmc3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "governance.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was the Trinamool Congress founded?",
+      "answer": "The party was founded on 1 January 1998."
+    },
+    {
+      "question": "Who founded the Trinamool Congress?",
+      "answer": "Mamata Banerjee founded the party after separating from the Indian National Congress."
+    },
+    {
+      "question": "What is the election symbol of TMC?",
+      "answer": "Flowers and Grass."
+    },
+    {
+      "question": "Which state is governed by TMC?",
+      "answer": "The party has governed West Bengal since 2011."
+    },
+    {
+      "question": "What are some major welfare programmes associated with TMC governments?",
+      "answer": "Kanyashree Prakalpa, Lakshmir Bhandar, Sabuj Sathi, Swasthya Sathi, Duare Sarkar and Krishak Bandhu."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://aitcofficial.org",
+    "twitter": "https://x.com/AITCofficial",
+    "facebook": "https://www.facebook.com/AITCofficial",
+    "instagram": "https://www.instagram.com/aitcofficial",
+    "youtube": "https://www.youtube.com/@AITCofficial"
+  }
+}

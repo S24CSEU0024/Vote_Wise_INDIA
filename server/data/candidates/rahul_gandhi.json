@@ -1,0 +1,18 @@
+{
+  "name": "Rahul Gandhi",
+  "party": "INC",
+  "state": "Kerala",
+  "constituency": "Raebareli",
+  "position": "Leader of Opposition",
+  "age": 56,
+  "education": "M.Phil., Trinity College, Cambridge",
+  "experience": "Member of Parliament since 2004",
+  "achievements": [
+    "Bharat Jodo Yatra",
+    "Bharat Jodo Nyay Yatra",
+    "Strengthening Congress organisation",
+    "Promoting social justice campaigns",
+    "Parliamentary debates on unemployment and economy"
+  ],
+  "image": "rahul_gandhi.jpg"
+}

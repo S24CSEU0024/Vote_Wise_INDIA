@@ -1,0 +1,189 @@
+{
+  "name": "Dravida Munnetra Kazhagam",
+  "shortName": "DMK",
+
+  "description": "The Dravida Munnetra Kazhagam (DMK) is a major regional political party based in Tamil Nadu. Founded in 1949 by C. N. Annadurai after splitting from the Dravidar Kazhagam, the party follows the principles of the Dravidian movement, focusing on social justice, state autonomy, Tamil identity, secularism, welfare policies and inclusive development. DMK has played a dominant role in Tamil Nadu politics and has formed the state government several times.",
+
+  "assets": {
+    "logo": "/logos/dmk.png",
+    "flag": "/flags/dmk_flag.png",
+    "symbol": "/symbols/rising_sun.png",
+    "gallery": [
+      "/gallery/dmk1.jpg",
+      "/gallery/dmk2.jpg",
+      "/gallery/dmk3.jpg"
+    ],
+    "manifesto": "/manifestos/dmk2024.pdf"
+  },
+
+  "themeColor": "#8B0000",
+
+  "symbolName": "Rising Sun",
+
+  "founded": "17 September 1949",
+
+  "founders": [
+    "C. N. Annadurai"
+  ],
+
+  "headquarters": "Chennai, Tamil Nadu, India",
+
+  "website": "https://www.dmk.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "M. K. Stalin",
+
+  "alliance": "INDIA Alliance",
+
+  "ideology": [
+    "Dravidian Ideology",
+    "Social Justice",
+    "Secularism",
+    "Tamil Identity and Regional Autonomy",
+    "Welfare State Policies",
+    "Federalism",
+    "Rationalism"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Chief Minister": "M. K. Stalin"
+    }
+  },
+
+  "achievements": [
+    "Established a strong Dravidian model of governance in Tamil Nadu.",
+    "Expanded reservation policies and social justice programmes.",
+    "Implemented welfare schemes focused on education, healthcare and women empowerment.",
+    "Introduced the Kalaignar Magalir Urimai Thogai scheme providing financial assistance to eligible women.",
+    "Expanded government healthcare initiatives including the Tamil Nadu health insurance model.",
+    "Promoted industrial development and investment in Tamil Nadu.",
+    "Supported Tamil language development and cultural initiatives.",
+    "Improved public transport, education and social welfare infrastructure."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised the party over allegations of corruption involving some leaders.",
+    "Critics have accused the party of promoting dynasty politics due to leadership succession within the Karunanidhi family.",
+    "Political opponents have questioned certain policies related to regional identity and language issues.",
+    "The party has faced criticism regarding governance decisions and administrative issues."
+  ],
+
+  "protests": [
+    "Protests supporting Tamil rights and state autonomy.",
+    "Movements against the imposition of Hindi language policies.",
+    "Campaigns for social justice and reservation policies.",
+    "Demonstrations on farmers' issues, unemployment and economic concerns.",
+    "Protests against central government policies affecting Tamil Nadu."
+  ],
+
+  "majorSchemes": [
+    "Kalaignar Magalir Urimai Thogai Scheme",
+    "Chief Minister's Breakfast Scheme",
+    "Illam Thedi Kalvi (Education at Doorstep)",
+    "Makkalai Thedi Maruthuvam (Healthcare at Doorstep)",
+    "Free Bus Travel Scheme for Women",
+    "Tamil Nadu Industrial Development Initiatives",
+    "Social Justice and Reservation Policies"
+  ],
+
+  "timeline": [
+    "1949 - DMK founded by C. N. Annadurai after separating from Dravidar Kazhagam.",
+    "1967 - DMK won Tamil Nadu Assembly election and formed its first government under C. N. Annadurai.",
+    "1969 - M. Karunanidhi became Chief Minister after Annadurai's death.",
+    "1972 - M. G. Ramachandran separated from DMK and formed AIADMK.",
+    "1989 - DMK returned to power in Tamil Nadu.",
+    "1996 - DMK formed government under M. Karunanidhi.",
+    "2006 - DMK formed Tamil Nadu government.",
+    "2011 - Lost Tamil Nadu Assembly election.",
+    "2019 - Became a major partner of the UPA alliance in Tamil Nadu Lok Sabha elections.",
+    "2021 - DMK won Tamil Nadu Assembly election; M. K. Stalin became Chief Minister.",
+    "2024 - DMK-led INDIA Alliance performed strongly in Tamil Nadu Lok Sabha elections."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 23.90,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA Alliance",
+      "seatsWon": 23,
+      "voteShare": 24.89,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 22,
+      "voteShare": 1.82,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Tamil Nadu",
+      "status": "Governed multiple times (1967–1976, 1989–1991, 1996–2001, 2006–2011, 2021–present)"
+    },
+    {
+      "state": "Puducherry",
+      "status": "Participated in government formations through alliances"
+    }
+  ],
+
+  "gallery": [
+    "dmk1.jpg",
+    "dmk2.jpg",
+    "dmk3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "development.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was DMK founded?",
+      "answer": "The Dravida Munnetra Kazhagam was founded on 17 September 1949."
+    },
+    {
+      "question": "Who founded the DMK?",
+      "answer": "C. N. Annadurai founded the DMK."
+    },
+    {
+      "question": "What is the election symbol of DMK?",
+      "answer": "The Rising Sun."
+    },
+    {
+      "question": "Who is the current president of DMK?",
+      "answer": "M. K. Stalin is the current president of DMK."
+    },
+    {
+      "question": "Which state is the main base of DMK?",
+      "answer": "Tamil Nadu."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.dmk.in",
+    "twitter": "https://x.com/arivalayam",
+    "facebook": "https://www.facebook.com/DMKParty",
+    "instagram": "https://www.instagram.com/dmkparty",
+    "youtube": "https://www.youtube.com/@DMKPartyOfficial"
+  }
+}

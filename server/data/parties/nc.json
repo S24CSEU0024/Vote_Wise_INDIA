@@ -1,0 +1,190 @@
+{
+  "name": "Jammu & Kashmir National Conference",
+  "shortName": "NC",
+
+  "description": "The Jammu & Kashmir National Conference (NC) is one of the oldest regional political parties in India, primarily based in Jammu and Kashmir. Founded in 1932 by Sheikh Abdullah as the All Jammu and Kashmir Muslim Conference and later renamed the National Conference in 1939, the party has played a central role in Jammu and Kashmir politics. It focuses on regional autonomy, democratic rights, economic development, social welfare and the interests of the people of Jammu and Kashmir.",
+
+  "assets": {
+    "logo": "/logos/nc.png",
+    "flag": "/flags/nc_flag.png",
+    "symbol": "/symbols/plough.png",
+    "gallery": [
+      "/gallery/nc1.jpg",
+      "/gallery/nc2.jpg",
+      "/gallery/nc3.jpg"
+    ],
+    "manifesto": "/manifestos/nc2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Plough",
+
+  "founded": "15 October 1932",
+
+  "founders": [
+    "Sheikh Abdullah",
+    "Chaudhry Ghulam Abbas"
+  ],
+
+  "headquarters": "Srinagar, Jammu and Kashmir, India",
+
+  "website": "https://jknc.co.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Farooq Abdullah (President) / Omar Abdullah (Vice President and senior leader)",
+
+  "alliance": "INDIA Alliance",
+
+  "ideology": [
+    "Regional Autonomy",
+    "Kashmir Identity",
+    "Democratic Socialism",
+    "Secularism",
+    "Social Welfare",
+    "Economic Development",
+    "Federalism"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Former Chief Ministers of Jammu and Kashmir": [
+        "Sheikh Abdullah",
+        "Farooq Abdullah",
+        "Omar Abdullah"
+      ]
+    }
+  },
+
+  "achievements": [
+    "Played a historic role in Jammu and Kashmir politics since the 1930s.",
+    "Led the movement for democratic representation in Jammu and Kashmir.",
+    "Formed governments in Jammu and Kashmir multiple times.",
+    "Introduced land reforms under Sheikh Abdullah's leadership.",
+    "Focused on education, healthcare and rural development.",
+    "Promoted regional identity and cultural preservation.",
+    "Worked on infrastructure and tourism development in Jammu and Kashmir.",
+    "Maintained political representation of Jammu and Kashmir at the national level."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised NC over its governance record.",
+    "Critics have questioned the party's approach towards autonomy and regional politics.",
+    "Opponents have accused the party of dynastic politics.",
+    "The party has faced criticism over handling of security and development issues.",
+    "Political rivals have challenged its policies regarding Jammu and Kashmir's special status."
+  ],
+
+  "protests": [
+    "Campaigns for restoration of Jammu and Kashmir's political rights.",
+    "Movements related to statehood and regional autonomy.",
+    "Campaigns for employment and economic development.",
+    "Protests on issues affecting farmers and local communities.",
+    "Public campaigns supporting democratic representation."
+  ],
+
+  "majorSchemes": [
+    "Land Reform Programme",
+    "Rural Development Initiatives",
+    "Education Expansion Programmes",
+    "Healthcare Development Initiatives",
+    "Tourism Development Projects",
+    "Social Welfare Programmes"
+  ],
+
+  "timeline": [
+    "1932 - All Jammu and Kashmir Muslim Conference founded by Sheikh Abdullah.",
+    "1939 - Organisation renamed Jammu and Kashmir National Conference.",
+    "1947 - Sheikh Abdullah became an important political leader in Jammu and Kashmir.",
+    "1953 - Sheikh Abdullah was removed from office and arrested.",
+    "1975 - Sheikh Abdullah returned as Chief Minister after an agreement with the Government of India.",
+    "1981 - Farooq Abdullah became leader of National Conference.",
+    "1996 - NC returned to power after elections in Jammu and Kashmir.",
+    "2002 - NC lost power but remained a major regional party.",
+    "2009 - Omar Abdullah became Chief Minister of Jammu and Kashmir.",
+    "2019 - Article 370 changes led to major political changes in Jammu and Kashmir.",
+    "2024 - NC contested Lok Sabha elections as part of INDIA Alliance."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 0.4,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 3,
+      "voteShare": 0.5,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 2,
+      "voteShare": 0.3,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Jammu and Kashmir",
+      "status": "Governed multiple times (including periods under Sheikh Abdullah, Farooq Abdullah and Omar Abdullah)"
+    }
+  ],
+
+  "gallery": [
+    "nc1.jpg",
+    "nc2.jpg",
+    "nc3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "jammu_kashmir_politics.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was National Conference founded?",
+      "answer": "The party was founded on 15 October 1932 as the All Jammu and Kashmir Muslim Conference and renamed National Conference in 1939."
+    },
+    {
+      "question": "Who founded National Conference?",
+      "answer": "Sheikh Abdullah and Chaudhry Ghulam Abbas were among the founders."
+    },
+    {
+      "question": "What is the election symbol of NC?",
+      "answer": "The Plough."
+    },
+    {
+      "question": "Who is the current leader of NC?",
+      "answer": "Farooq Abdullah is the party president and Omar Abdullah is a senior leader."
+    },
+    {
+      "question": "Which region is the main base of NC?",
+      "answer": "Jammu and Kashmir."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://jknc.co.in",
+    "twitter": "https://x.com/JKNC_",
+    "facebook": "https://www.facebook.com/jknationalconference",
+    "instagram": "https://www.instagram.com/jknc_official",
+    "youtube": "https://www.youtube.com/@JKNCOfficial"
+  }
+}

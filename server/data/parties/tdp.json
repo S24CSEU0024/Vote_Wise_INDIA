@@ -1,0 +1,194 @@
+{
+  "name": "Telugu Desam Party",
+  "shortName": "TDP",
+
+  "description": "The Telugu Desam Party (TDP) is a regional political party based primarily in Andhra Pradesh. Founded in 1982 by Telugu film actor and politician N. T. Rama Rao (NTR), the party was established to promote Telugu self-respect, regional development, good governance and welfare-oriented policies. TDP has played a major role in Andhra Pradesh politics and has formed governments multiple times. The party is currently led by N. Chandrababu Naidu.",
+
+  "assets": {
+    "logo": "/logos/tdp.png",
+    "flag": "/flags/tdp_flag.png",
+    "symbol": "/symbols/bicycle.png",
+    "gallery": [
+      "/gallery/tdp1.jpg",
+      "/gallery/tdp2.jpg",
+      "/gallery/tdp3.jpg"
+    ],
+    "manifesto": "/manifestos/tdp2024.pdf"
+  },
+
+  "themeColor": "#FFD700",
+
+  "symbolName": "Bicycle",
+
+  "founded": "29 March 1982",
+
+  "founders": [
+    "N. T. Rama Rao (NTR)"
+  ],
+
+  "headquarters": "Amaravati, Andhra Pradesh, India",
+
+  "website": "https://www.telugudesam.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "N. Chandrababu Naidu",
+
+  "alliance": "National Democratic Alliance (NDA)",
+
+  "ideology": [
+    "Telugu Regionalism",
+    "Good Governance",
+    "Economic Development",
+    "Welfare State",
+    "Federalism",
+    "Technology and Innovation",
+    "Agricultural Development"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Civil Aviation Minister": "Kinjarapu Ram Mohan Naidu"
+    },
+    "State Ministers": {
+      "Chief Minister of Andhra Pradesh": "N. Chandrababu Naidu"
+    }
+  },
+
+  "achievements": [
+    "Founded in 1982 and quickly became a major political force in Andhra Pradesh.",
+    "N. T. Rama Rao introduced several welfare schemes including subsidised rice programmes.",
+    "Chandrababu Naidu promoted information technology and attracted investment to Hyderabad during his tenure.",
+    "Developed Hyderabad as a major IT and technology hub during the united Andhra Pradesh period.",
+    "Introduced e-governance and administrative reforms.",
+    "Focused on infrastructure development and urban planning.",
+    "Promoted Amaravati as the planned capital city of Andhra Pradesh.",
+    "Implemented women self-help group programmes and rural development initiatives.",
+    "Returned to power in Andhra Pradesh in 2024 as part of NDA alliance."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised TDP over land acquisition policies related to Amaravati.",
+    "Critics have questioned the party's focus on urban development compared to rural welfare.",
+    "The party has faced criticism regarding alliance changes over the years.",
+    "Opponents have accused the party of favouring corporate investment.",
+    "Political rivals have raised concerns over governance decisions during previous governments."
+  ],
+
+  "protests": [
+    "Campaigns supporting Andhra Pradesh special category status.",
+    "Movements related to Amaravati capital development.",
+    "Protests on farmer issues and agricultural concerns.",
+    "Campaigns demanding greater financial support for Andhra Pradesh after bifurcation.",
+    "Public movements on unemployment and economic development."
+  ],
+
+  "majorSchemes": [
+    "Rs. 2 per kg Rice Scheme",
+    "Janmabhoomi Programme",
+    "DWCRA Women Self Help Groups",
+    "Cyberabad Development Initiative",
+    "Amaravati Capital Development Project",
+    "Skill Development Programmes",
+    "Anna Canteens",
+    "Farmer Welfare Initiatives"
+  ],
+
+  "timeline": [
+    "1982 - Telugu Desam Party founded by N. T. Rama Rao.",
+    "1983 - TDP won Andhra Pradesh Assembly election and formed government within one year of formation.",
+    "1984 - NTR government was briefly dismissed and later restored after political protests.",
+    "1985 - NTR returned as Chief Minister after winning elections.",
+    "1995 - N. Chandrababu Naidu became Chief Minister after internal party changes.",
+    "1999 - TDP formed alliance with BJP-led NDA and performed strongly in elections.",
+    "2004 - TDP lost Andhra Pradesh Assembly election.",
+    "2014 - After Andhra Pradesh bifurcation, TDP formed the first elected government of Andhra Pradesh under Chandrababu Naidu.",
+    "2018 - TDP left the NDA alliance.",
+    "2019 - TDP lost Andhra Pradesh Assembly election.",
+    "2024 - TDP returned to power in Andhra Pradesh and joined NDA alliance."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 16,
+      "voteShare": 2.55,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 3,
+      "voteShare": 1.04,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 16,
+      "voteShare": 1.98,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Andhra Pradesh",
+      "status": "Governed multiple times (1983–1989, 1994–2004, 2014–2019, 2024–present)"
+    },
+    {
+      "state": "United Andhra Pradesh",
+      "status": "Governed before state bifurcation"
+    }
+  ],
+
+  "gallery": [
+    "tdp1.jpg",
+    "tdp2.jpg",
+    "tdp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "development.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was TDP founded?",
+      "answer": "Telugu Desam Party was founded on 29 March 1982."
+    },
+    {
+      "question": "Who founded TDP?",
+      "answer": "N. T. Rama Rao founded the Telugu Desam Party."
+    },
+    {
+      "question": "What is the election symbol of TDP?",
+      "answer": "The Bicycle."
+    },
+    {
+      "question": "Who is the current leader of TDP?",
+      "answer": "N. Chandrababu Naidu is the current president and leader of TDP."
+    },
+    {
+      "question": "Which state is the main base of TDP?",
+      "answer": "Andhra Pradesh."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.telugudesam.org",
+    "twitter": "https://x.com/JaiTDP",
+    "facebook": "https://www.facebook.com/JaiTDP",
+    "instagram": "https://www.instagram.com/jaitdp",
+    "youtube": "https://www.youtube.com/@JaiTDPOfficial"
+  }
+}

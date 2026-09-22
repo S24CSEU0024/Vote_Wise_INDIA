@@ -1,0 +1,181 @@
+{
+  "name": "Bharatiya Janata Party",
+  "shortName": "BJP",
+  "description": "The Bharatiya Janata Party (BJP) is one of India’s major national political parties and currently leads the National Democratic Alliance (NDA). It was founded in 1980 and traces its roots to the Bharatiya Jana Sangh (1951).",
+
+  "assets": {
+    "logo": "/logos/bjp.png",
+    "flag": "/flags/bjp_flag.png",
+    "symbol": "/symbols/lotus.png",
+    "gallery": [
+      "/gallery/bjp1.jpg",
+      "/gallery/bjp2.jpg",
+      "/gallery/bjp3.jpg"
+    ],
+    "manifesto": "/manifestos/bjp2024.pdf"
+  },
+
+  "symbolName": "Lotus",
+  "themeColor": "#FF9933",
+
+  "founded": "6 April 1980",
+
+  "founders": [
+    "Atal Bihari Vajpayee",
+    "L. K. Advani",
+    "Bhairon Singh Shekhawat",
+    "Sikander Bakht"
+  ],
+
+  "headquarters": "New Delhi",
+  "website": "https://www.bjp.org",
+
+  "socialMedia": {
+    "twitter": "https://x.com/BJP4India",
+    "facebook": "https://www.facebook.com/BJP4India",
+    "instagram": "https://www.instagram.com/bjp4india",
+    "youtube": "https://www.youtube.com/@BJP"
+  },
+
+  "currentLeader": "J. P. Nadda",
+  "alliance": "National Democratic Alliance (NDA)",
+  "currentPMCandidate": "Narendra Modi",
+
+  "ideology": [
+    "Nationalism",
+    "Conservatism",
+    "Integral Humanism",
+    "Cultural Nationalism"
+  ],
+
+  "ministers": {
+    "primeMinister": "Narendra Modi",
+    "homeMinister": "Amit Shah",
+    "financeMinister": "Nirmala Sitharaman",
+    "defenceMinister": "Rajnath Singh",
+    "educationMinister": "Dharmendra Pradhan",
+    "externalAffairsMinister": "S. Jaishankar"
+  },
+
+  "achievements": [
+    "Expansion of UPI digital payments",
+    "Digital India programme",
+    "Ayushman Bharat health insurance scheme",
+    "Swachh Bharat Mission",
+    "PM Awas Yojana",
+    "Jal Jeevan Mission",
+    "Startup India and Make in India initiatives",
+    "Expansion of highway and railway infrastructure"
+  ],
+
+  "criticisms": [
+    "Debate over the economic impact of demonetisation",
+    "Concerns raised regarding unemployment and inflation",
+    "Criticism from opposition parties regarding the implementation of CAA",
+    "Debate surrounding the Electoral Bonds scheme"
+  ],
+
+  "protests": [
+    "2020–2021 Farmers’ Protest",
+    "CAA-NRC related protests",
+    "Agnipath recruitment protests"
+  ],
+
+  "majorSchemes": [
+    "PM Kisan",
+    "Ayushman Bharat",
+    "Digital India",
+    "Smart Cities Mission",
+    "PM Gati Shakti",
+    "Ujjwala Yojana",
+    "PM Mudra Yojana"
+  ],
+
+  "timeline": [
+    "1951 – Bharatiya Jana Sangh founded",
+    "1980 – Bharatiya Janata Party established",
+    "1996 – First BJP Prime Minister",
+    "1998 – NDA Government formed",
+    "2014 – Won majority in Lok Sabha",
+    "2019 – Re-elected with a larger majority",
+    "2024 – Formed Government with NDA allies"
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA",
+      "seatsWon": 282,
+      "voteShare": 31.34,
+      "governmentFormed": true
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA",
+      "seatsWon": 303,
+      "voteShare": 37.36,
+      "governmentFormed": true
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA",
+      "seatsWon": 240,
+      "voteShare": 36.56,
+      "governmentFormed": true
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Uttar Pradesh",
+      "chiefMinister": "Yogi Adityanath",
+      "status": "Current"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "chiefMinister": "Mohan Yadav",
+      "status": "Current"
+    },
+    {
+      "state": "Gujarat",
+      "chiefMinister": "Bhupendra Patel",
+      "status": "Current"
+    },
+    {
+      "state": "Assam",
+      "chiefMinister": "Himanta Biswa Sarma",
+      "status": "Current"
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "When was BJP founded?",
+      "answer": "The BJP was founded on 6 April 1980."
+    },
+    {
+      "question": "What is the election symbol of BJP?",
+      "answer": "The election symbol of BJP is the Lotus."
+    },
+    {
+      "question": "Which alliance does BJP lead?",
+      "answer": "BJP leads the National Democratic Alliance (NDA)."
+    },
+    {
+      "question": "Who is the current party president?",
+      "answer": "J. P. Nadda is the current president of BJP."
+    }
+  ],
+
+  "recentNews": [
+    {
+      "title": "Add latest verified BJP news dynamically",
+      "date": "",
+      "summary": "",
+      "source": ""
+    }
+  ]
+}

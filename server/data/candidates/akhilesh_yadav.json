@@ -1,0 +1,18 @@
+{
+  "name": "Akhilesh Yadav",
+  "party": "SP",
+  "state": "Uttar Pradesh",
+  "constituency": "Kannauj",
+  "position": "Party President",
+  "age": 53,
+  "education": "Master's in Environmental Engineering",
+  "experience": "Former Chief Minister of Uttar Pradesh",
+  "achievements": [
+    "Lucknow Metro",
+    "Agra-Lucknow Expressway",
+    "Laptop Distribution Scheme",
+    "UP Dial 100",
+    "Infrastructure development"
+  ],
+  "image": "akhilesh_yadav.jpg"
+}

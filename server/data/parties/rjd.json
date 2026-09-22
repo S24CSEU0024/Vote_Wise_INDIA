@@ -1,0 +1,187 @@
+{
+  "name": "Rashtriya Janata Dal",
+  "shortName": "RJD",
+
+  "description": "The Rashtriya Janata Dal (RJD) is a regional political party primarily based in Bihar. Founded in 1997 by Lalu Prasad Yadav after separating from Janata Dal, the party focuses on social justice, secularism, welfare of backward classes, Dalits, minorities and economically weaker sections. RJD has played a major role in Bihar politics and has formed the state government multiple times. The party is currently led by Lalu Prasad Yadav and his son Tejashwi Yadav.",
+
+  "assets": {
+    "logo": "/logos/rjd.png",
+    "flag": "/flags/rjd_flag.png",
+    "symbol": "/symbols/lantern.png",
+    "gallery": [
+      "/gallery/rjd1.jpg",
+      "/gallery/rjd2.jpg",
+      "/gallery/rjd3.jpg"
+    ],
+    "manifesto": "/manifestos/rjd2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Lantern",
+
+  "founded": "5 July 1997",
+
+  "founders": [
+    "Lalu Prasad Yadav"
+  ],
+
+  "headquarters": "Patna, Bihar, India",
+
+  "website": "https://rjd.co.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Lalu Prasad Yadav (National President) / Tejashwi Yadav (Senior Leader)",
+
+  "alliance": "INDIA Alliance",
+
+  "ideology": [
+    "Social Justice",
+    "Secularism",
+    "Backward Class Empowerment",
+    "Minority Welfare",
+    "Social Equality",
+    "Welfare Politics",
+    "Federalism"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Former Chief Ministers of Bihar": [
+        "Lalu Prasad Yadav",
+        "Rabri Devi"
+      ]
+    }
+  },
+
+  "achievements": [
+    "Played a major role in Bihar politics since its formation in 1997.",
+    "Focused on representation of backward classes, Dalits and minorities.",
+    "Implemented social welfare policies during its governments in Bihar.",
+    "Expanded political participation of historically marginalised communities.",
+    "Formed Bihar governments multiple times through alliances.",
+    "Tejashwi Yadav promoted employment-focused political campaigns.",
+    "Advocated for caste census and social justice policies.",
+    "Maintained strong grassroots organisation in Bihar."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised RJD governments over law and order issues during the 1990s.",
+    "The party has faced allegations of corruption involving senior leaders.",
+    "Critics have accused the party of promoting family-based politics.",
+    "Opponents have questioned Bihar's development outcomes during RJD rule.",
+    "The party has been criticised for its governance record during earlier periods."
+  ],
+
+  "protests": [
+    "Campaigns supporting caste census and social justice.",
+    "Movements for reservation and backward class rights.",
+    "Protests against unemployment and inflation.",
+    "Campaigns supporting farmers and rural communities.",
+    "Demonstrations against policies considered harmful to disadvantaged groups."
+  ],
+
+  "majorSchemes": [
+    "Social Justice and Reservation Policies",
+    "Backward Class Welfare Initiatives",
+    "Minority Welfare Programmes",
+    "Rural Development Initiatives",
+    "Employment Generation Campaigns",
+    "Education Support Programmes"
+  ],
+
+  "timeline": [
+    "1997 - Rashtriya Janata Dal founded by Lalu Prasad Yadav after separating from Janata Dal.",
+    "1997 - Lalu Prasad Yadav became the first president of RJD.",
+    "2000 - RJD formed Bihar government under Rabri Devi.",
+    "2004 - RJD became an important partner in the UPA government at the Centre.",
+    "2009 - RJD faced decline in Lok Sabha elections.",
+    "2015 - RJD formed Mahagathbandhan alliance with JDU and Congress and won Bihar Assembly election.",
+    "2017 - RJD returned to opposition after JDU left the Mahagathbandhan alliance.",
+    "2020 - RJD emerged as the largest party in Bihar Assembly election.",
+    "2022 - RJD joined government in Bihar with JDU alliance.",
+    "2024 - RJD contested Lok Sabha election as part of INDIA Alliance."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 4,
+      "voteShare": 1.19,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA Alliance",
+      "seatsWon": 0,
+      "voteShare": 0.93,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 4,
+      "voteShare": 1.57,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Bihar",
+      "status": "Governed multiple times (1997–2005 through Lalu Prasad Yadav and Rabri Devi)"
+    }
+  ],
+
+  "gallery": [
+    "rjd1.jpg",
+    "rjd2.jpg",
+    "rjd3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "social_justice.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was RJD founded?",
+      "answer": "Rashtriya Janata Dal was founded on 5 July 1997."
+    },
+    {
+      "question": "Who founded RJD?",
+      "answer": "Lalu Prasad Yadav founded the Rashtriya Janata Dal."
+    },
+    {
+      "question": "What is the election symbol of RJD?",
+      "answer": "The Lantern."
+    },
+    {
+      "question": "Who is the current leader of RJD?",
+      "answer": "Lalu Prasad Yadav is the national president, while Tejashwi Yadav is a prominent leader."
+    },
+    {
+      "question": "Which state is the main base of RJD?",
+      "answer": "Bihar."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://rjd.co.in",
+    "twitter": "https://x.com/RJDforIndia",
+    "facebook": "https://www.facebook.com/RJDforIndia",
+    "instagram": "https://www.instagram.com/rjdforindia",
+    "youtube": "https://www.youtube.com/@RJDforIndia"
+  }
+}

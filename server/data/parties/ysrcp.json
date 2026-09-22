@@ -1,0 +1,185 @@
+{
+  "name": "Yuvajana Sramika Rythu Congress Party",
+  "shortName": "YSRCP",
+
+  "description": "The Yuvajana Sramika Rythu Congress Party (YSRCP) is a regional political party based in Andhra Pradesh. Founded in 2011 by Y. S. Jagan Mohan Reddy after separating from the Indian National Congress, the party is named after his father and former Andhra Pradesh Chief Minister Y. S. Rajasekhara Reddy (YSR). YSRCP focuses on welfare governance, farmers' welfare, healthcare, education, social justice and inclusive development. The party formed the government in Andhra Pradesh from 2019 to 2024 under Jagan Mohan Reddy.",
+
+  "assets": {
+    "logo": "/logos/ysrcp.png",
+    "flag": "/flags/ysrcp_flag.png",
+    "symbol": "/symbols/ceiling_fan.png",
+    "gallery": [
+      "/gallery/ysrcp1.jpg",
+      "/gallery/ysrcp2.jpg",
+      "/gallery/ysrcp3.jpg"
+    ],
+    "manifesto": "/manifestos/ysrcp2024.pdf"
+  },
+
+  "themeColor": "#0057B8",
+
+  "symbolName": "Ceiling Fan",
+
+  "founded": "12 March 2011",
+
+  "founders": [
+    "Y. S. Jagan Mohan Reddy"
+  ],
+
+  "headquarters": "Tadepalli, Andhra Pradesh, India",
+
+  "website": "https://www.ysrcongress.com",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Y. S. Jagan Mohan Reddy",
+
+  "alliance": "Independent (Alliance position varies by election)",
+
+  "ideology": [
+    "Welfare Politics",
+    "Social Justice",
+    "Farmers Welfare",
+    "Inclusive Development",
+    "Regional Development",
+    "Healthcare and Education Reform",
+    "Economic Growth"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Former Chief Minister of Andhra Pradesh": "Y. S. Jagan Mohan Reddy"
+    }
+  },
+
+  "achievements": [
+    "Formed the Andhra Pradesh government in 2019 with a strong majority.",
+    "Implemented large-scale welfare schemes under the Navaratnalu programme.",
+    "Expanded direct benefit transfer schemes for citizens.",
+    "Introduced Amma Vodi scheme providing financial assistance to mothers for children's education.",
+    "Implemented YSR Rythu Bharosa for farmer support.",
+    "Expanded healthcare access through YSR Aarogyasri scheme.",
+    "Focused on village-level governance through Village and Ward Secretariats.",
+    "Introduced reforms in government schools through Nadu-Nedu programme.",
+    "Promoted women's welfare through financial assistance schemes."
+  ],
+
+  "criticisms": [
+    "Opposition parties criticised the party over state debt and financial management.",
+    "Critics questioned the effectiveness and sustainability of welfare schemes.",
+    "The party faced criticism regarding the Amaravati capital issue and administrative decisions.",
+    "Opponents accused the government of political targeting of rivals.",
+    "Critics raised concerns about industrial investment and employment generation."
+  ],
+
+  "protests": [
+    "Campaigns supporting farmers and agricultural welfare.",
+    "Movements demanding special category status for Andhra Pradesh.",
+    "Protests regarding development and state financial issues.",
+    "Campaigns supporting welfare programmes.",
+    "Public demonstrations on issues affecting Andhra Pradesh's interests."
+  ],
+
+  "majorSchemes": [
+    "Navaratnalu Welfare Programme",
+    "YSR Rythu Bharosa",
+    "Amma Vodi Scheme",
+    "YSR Aarogyasri Health Scheme",
+    "Nadu-Nedu School Development Programme",
+    "Village and Ward Secretariats",
+    "YSR Cheyutha",
+    "YSR Asara",
+    "Housing for Poor under YSR Housing Scheme"
+  ],
+
+  "timeline": [
+    "2011 - YSR Congress Party founded by Y. S. Jagan Mohan Reddy.",
+    "2012 - Jagan Mohan Reddy won Kadapa Lok Sabha by-election with a large majority.",
+    "2014 - YSRCP became the main opposition party in Andhra Pradesh after state bifurcation.",
+    "2019 - YSRCP won Andhra Pradesh Assembly election with a large majority; Jagan Mohan Reddy became Chief Minister.",
+    "2021 - Continued implementation of welfare-focused governance programmes.",
+    "2023 - Andhra Pradesh politics focused heavily on capital development and welfare debates.",
+    "2024 - YSRCP lost Andhra Pradesh Assembly election and became opposition party."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 9,
+      "voteShare": 2.53,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 22,
+      "voteShare": 2.53,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 4,
+      "voteShare": 2.06,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Andhra Pradesh",
+      "status": "Governed from 2019 to 2024 under Y. S. Jagan Mohan Reddy"
+    }
+  ],
+
+  "gallery": [
+    "ysrcp1.jpg",
+    "ysrcp2.jpg",
+    "ysrcp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "welfare.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was YSRCP founded?",
+      "answer": "YSR Congress Party was founded on 12 March 2011."
+    },
+    {
+      "question": "Who founded YSRCP?",
+      "answer": "Y. S. Jagan Mohan Reddy founded YSRCP."
+    },
+    {
+      "question": "What is the election symbol of YSRCP?",
+      "answer": "The Ceiling Fan."
+    },
+    {
+      "question": "Who is the current leader of YSRCP?",
+      "answer": "Y. S. Jagan Mohan Reddy is the president and leader of YSRCP."
+    },
+    {
+      "question": "Which state is the main base of YSRCP?",
+      "answer": "Andhra Pradesh."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.ysrcongress.com",
+    "twitter": "https://x.com/ysjagan",
+    "facebook": "https://www.facebook.com/YSRCParty",
+    "instagram": "https://www.instagram.com/ysrcparty",
+    "youtube": "https://www.youtube.com/@YSRCPOfficial"
+  }
+}

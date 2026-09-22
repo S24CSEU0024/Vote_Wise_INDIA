@@ -1,0 +1,807 @@
+/* =========================================
+   VOTEWISE INDIA - ELECTIONS PAGE
+   ========================================= */
+
+.elections-page {
+    min-height: 100vh;
+    background: #f6f8fc;
+    color: #172033;
+    padding-bottom: 80px;
+}
+
+
+/* =========================================
+   HERO
+   ========================================= */
+
+.elections-hero {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 70px 24px 45px;
+    text-align: center;
+}
+
+.hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 8px 16px;
+    border-radius: 999px;
+
+    background: #fff3e8;
+    color: #e87516;
+
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.8px;
+
+    margin-bottom: 18px;
+}
+
+.elections-hero h1 {
+    margin: 0;
+
+    font-size: 52px;
+    line-height: 1.1;
+    font-weight: 800;
+
+    color: #172033;
+}
+
+.elections-hero p {
+    max-width: 720px;
+
+    margin: 18px auto 0;
+
+    font-size: 18px;
+    line-height: 1.7;
+
+    color: #687386;
+}
+
+
+/* =========================================
+   STATISTICS
+   ========================================= */
+
+.election-stats {
+    max-width: 1150px;
+    margin: 0 auto;
+
+    padding: 0 24px 35px;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+}
+
+.stat-card {
+    background: white;
+
+    border: 1px solid #e8ebf1;
+
+    border-radius: 18px;
+
+    padding: 22px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 16px;
+
+    box-shadow:
+        0 5px 20px rgba(23, 32, 51, 0.05);
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 12px 30px rgba(23, 32, 51, 0.10);
+}
+
+.stat-icon {
+    width: 52px;
+    height: 52px;
+
+    border-radius: 14px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 25px;
+
+    flex-shrink: 0;
+}
+
+.stat-icon.blue {
+    background: #eaf2ff;
+}
+
+.stat-icon.orange {
+    background: #fff0e3;
+}
+
+.stat-icon.green {
+    background: #eaf8f0;
+}
+
+.stat-icon.purple {
+    background: #f1edff;
+}
+
+.stat-number {
+    display: block;
+
+    font-size: 26px;
+    font-weight: 800;
+
+    color: #172033;
+}
+
+.stat-label {
+    display: block;
+
+    margin-top: 3px;
+
+    font-size: 13px;
+    color: #7b8495;
+}
+
+
+/* =========================================
+   CONTROLS
+   ========================================= */
+
+.election-controls {
+    max-width: 1150px;
+
+    margin: 10px auto 35px;
+
+    padding: 0 24px;
+
+    display: flex;
+    gap: 14px;
+}
+
+.search-wrapper {
+    position: relative;
+
+    flex: 1;
+}
+
+.search-wrapper input {
+    width: 100%;
+    height: 54px;
+
+    box-sizing: border-box;
+
+    padding:
+        0 45px
+        0 48px;
+
+    border-radius: 14px;
+
+    border: 1px solid #dfe4ec;
+
+    background: white;
+
+    font-size: 15px;
+
+    outline: none;
+
+    color: #172033;
+
+    transition:
+        border-color 0.2s,
+        box-shadow 0.2s;
+}
+
+.search-wrapper input:focus {
+    border-color: #f28a25;
+
+    box-shadow:
+        0 0 0 4px rgba(242, 138, 37, 0.10);
+}
+
+.search-wrapper input::placeholder {
+    color: #a1a8b5;
+}
+
+.search-icon {
+    position: absolute;
+
+    left: 17px;
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    font-size: 19px;
+
+    z-index: 2;
+}
+
+.clear-search {
+    position: absolute;
+
+    right: 14px;
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    border: none;
+    background: transparent;
+
+    font-size: 22px;
+
+    color: #9aa1ae;
+
+    cursor: pointer;
+}
+
+.election-controls select {
+    height: 54px;
+
+    min-width: 175px;
+
+    padding: 0 16px;
+
+    border-radius: 14px;
+
+    border: 1px solid #dfe4ec;
+
+    background: white;
+
+    color: #172033;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    outline: none;
+}
+
+
+/* =========================================
+   RESULTS HEADER
+   ========================================= */
+
+.results-header {
+    max-width: 1150px;
+
+    margin: 0 auto 20px;
+
+    padding: 0 24px;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.results-header h2 {
+    margin: 0;
+
+    font-size: 25px;
+
+    color: #172033;
+}
+
+.results-header p {
+    margin: 5px 0 0;
+
+    color: #8992a3;
+
+    font-size: 14px;
+}
+
+
+/* =========================================
+   ELECTION GRID
+   ========================================= */
+
+.election-grid {
+    max-width: 1150px;
+
+    margin: 0 auto;
+
+    padding: 0 24px;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: 22px;
+}
+
+
+/* =========================================
+   ELECTION CARD
+   ========================================= */
+
+.election-card {
+    background: white;
+
+    border: 1px solid #e5e9f0;
+
+    border-radius: 20px;
+
+    padding: 25px;
+
+    box-shadow:
+        0 5px 20px rgba(23, 32, 51, 0.05);
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+
+    overflow: hidden;
+}
+
+.election-card:hover {
+    transform: translateY(-6px);
+
+    border-color: #f3c18f;
+
+    box-shadow:
+        0 16px 35px rgba(23, 32, 51, 0.11);
+}
+
+
+/* CARD TOP */
+
+.card-top {
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 18px;
+}
+
+.year-badge {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 7px 12px;
+
+    border-radius: 9px;
+
+    background: #fff1e5;
+
+    color: #df6d0c;
+
+    font-size: 14px;
+
+    font-weight: 800;
+}
+
+.election-type {
+    font-size: 12px;
+
+    font-weight: 700;
+
+    padding: 7px 11px;
+
+    border-radius: 999px;
+
+    background: #f0f3f8;
+
+    color: #657083;
+}
+
+
+/* TITLE */
+
+.election-card h3 {
+    margin: 0 0 20px;
+
+    font-size: 22px;
+
+    line-height: 1.35;
+
+    color: #172033;
+}
+
+
+/* WINNER */
+
+.winner-section {
+    display: flex;
+
+    align-items: center;
+
+    gap: 13px;
+
+    padding: 15px;
+
+    background: #faf7f2;
+
+    border-radius: 14px;
+
+    margin-bottom: 18px;
+}
+
+.winner-icon {
+    width: 42px;
+    height: 42px;
+
+    border-radius: 11px;
+
+    background: #fff0d5;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 20px;
+
+    flex-shrink: 0;
+}
+
+.winner-section span {
+    display: block;
+
+    font-size: 11px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.5px;
+
+    color: #8a92a1;
+
+    margin-bottom: 4px;
+}
+
+.winner-section strong {
+    display: block;
+
+    font-size: 15px;
+
+    color: #293348;
+}
+
+
+/* =========================================
+   DETAILS
+   ========================================= */
+
+.election-details {
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 12px;
+
+    padding-bottom: 18px;
+
+    border-bottom: 1px solid #edf0f4;
+}
+
+.detail {
+    display: flex;
+
+    align-items: flex-start;
+
+    gap: 9px;
+}
+
+.detail-icon {
+    font-size: 16px;
+
+    margin-top: 2px;
+}
+
+.detail small {
+    display: block;
+
+    font-size: 11px;
+
+    color: #929aaa;
+
+    margin-bottom: 3px;
+}
+
+.detail strong {
+    display: block;
+
+    font-size: 13px;
+
+    color: #30394b;
+
+    line-height: 1.3;
+}
+
+
+/* =========================================
+   ISSUES
+   ========================================= */
+
+.issues-section {
+    padding: 17px 0 10px;
+}
+
+.issues-section > span {
+    display: block;
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+    color: #697385;
+
+    margin-bottom: 9px;
+}
+
+.issue-tags {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 7px;
+}
+
+.issue-tags span {
+    padding: 6px 10px;
+
+    border-radius: 8px;
+
+    background: #f4f6f9;
+
+    color: #5f6979;
+
+    font-size: 11px;
+
+    font-weight: 600;
+}
+
+
+/* =========================================
+   HIGHLIGHT
+   ========================================= */
+
+.highlight {
+    display: flex;
+
+    gap: 9px;
+
+    margin-top: 8px;
+
+    padding: 11px;
+
+    background: #f8f9fb;
+
+    border-radius: 10px;
+}
+
+.highlight span {
+    flex-shrink: 0;
+}
+
+.highlight p {
+    margin: 0;
+
+    color: #667084;
+
+    font-size: 12px;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================
+   CARD FOOTER
+   ========================================= */
+
+.card-footer {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    margin-top: 18px;
+
+    padding-top: 15px;
+
+    border-top: 1px solid #edf0f4;
+}
+
+.card-footer span {
+    color: #a0a7b3;
+
+    font-size: 10px;
+}
+
+.card-footer a {
+    display: inline-flex;
+
+    align-items: center;
+
+    padding: 9px 14px;
+
+    border-radius: 9px;
+
+    background: #f47d19;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+    transition: background 0.2s;
+}
+
+.card-footer a:hover {
+    background: #d96608;
+}
+
+
+/* =========================================
+   LOADING
+   ========================================= */
+
+.loading-box {
+    max-width: 1150px;
+
+    margin: 40px auto;
+
+    text-align: center;
+
+    padding: 60px 20px;
+}
+
+.spinner {
+    width: 38px;
+    height: 38px;
+
+    border: 4px solid #e9edf3;
+
+    border-top-color: #f47d19;
+
+    border-radius: 50%;
+
+    animation: spin 0.8s linear infinite;
+
+    margin: 0 auto 15px;
+}
+
+.loading-box p {
+    color: #7e8796;
+
+    font-size: 14px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+/* =========================================
+   NO RESULTS
+   ========================================= */
+
+.no-results {
+    max-width: 600px;
+
+    margin: 60px auto;
+
+    padding: 50px 30px;
+
+    background: white;
+
+    border-radius: 20px;
+
+    text-align: center;
+
+    border: 1px solid #e7eaf0;
+}
+
+.no-results > div {
+    font-size: 40px;
+
+    margin-bottom: 15px;
+}
+
+.no-results h3 {
+    margin: 0;
+
+    font-size: 21px;
+}
+
+.no-results p {
+    color: #7f8795;
+
+    font-size: 14px;
+}
+
+
+/* =========================================
+   TABLET
+   ========================================= */
+
+@media (max-width: 900px) {
+
+    .election-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .election-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .elections-hero h1 {
+        font-size: 44px;
+    }
+}
+
+
+/* =========================================
+   MOBILE
+   ========================================= */
+
+@media (max-width: 600px) {
+
+    .elections-hero {
+        padding-top: 45px;
+    }
+
+    .elections-hero h1 {
+        font-size: 36px;
+    }
+
+    .elections-hero p {
+        font-size: 15px;
+    }
+
+    .election-stats {
+        grid-template-columns: 1fr;
+
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .election-controls {
+        flex-direction: column;
+
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .election-controls select {
+        width: 100%;
+    }
+
+    .results-header {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .election-grid {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .election-details {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .election-card {
+        padding: 20px;
+    }
+}

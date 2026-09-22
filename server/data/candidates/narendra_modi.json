@@ -1,0 +1,23 @@
+{
+  "name": "Narendra Modi",
+  "party": "BJP",
+  "state": "Gujarat",
+  "constituency": "Varanasi",
+  "position": "Prime Minister",
+  "age": 75,
+  "education": "Bachelor of Arts (Distance Education)",
+  "experience": "Chief Minister of Gujarat (2001–2014), Prime Minister of India (2014–Present)",
+  "achievements": [
+    "Digital India Mission",
+    "Ayushman Bharat",
+    "Make in India",
+    "Startup India",
+    "GST Implementation",
+    "Article 370 Abrogation",
+    "Ram Mandir Inauguration",
+    "Expansion of National Highways",
+    "UPI Digital Payment Revolution",
+    "International Solar Alliance"
+  ],
+  "image": "narendra_modi.jpg"
+}

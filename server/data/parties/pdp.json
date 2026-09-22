@@ -1,0 +1,190 @@
+{
+  "name": "Jammu and Kashmir Peoples Democratic Party",
+  "shortName": "PDP",
+
+  "description": "The Jammu and Kashmir Peoples Democratic Party (PDP) is a regional political party based in Jammu and Kashmir. Founded in 1999 by Mufti Mohammad Sayeed, the party emerged as an alternative political force in the region. PDP focuses on peace, dialogue, regional development, social welfare, democratic rights and political engagement for Jammu and Kashmir. The party formed governments in Jammu and Kashmir multiple times, including a coalition government with the Bharatiya Janata Party from 2015 to 2018.",
+
+  "assets": {
+    "logo": "/logos/pdp.png",
+    "flag": "/flags/pdp_flag.png",
+    "symbol": "/symbols/inkpot.png",
+    "gallery": [
+      "/gallery/pdp1.jpg",
+      "/gallery/pdp2.jpg",
+      "/gallery/pdp3.jpg"
+    ],
+    "manifesto": "/manifestos/pdp2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Inkpot and Pen",
+
+  "founded": "28 July 1999",
+
+  "founders": [
+    "Mufti Mohammad Sayeed",
+    "Mehbooba Mufti"
+  ],
+
+  "headquarters": "Srinagar, Jammu and Kashmir, India",
+
+  "website": "https://jkpdp.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Mehbooba Mufti",
+
+  "alliance": "Independent (Previously allied with NDA)",
+
+  "ideology": [
+    "Regional Autonomy",
+    "Peace and Dialogue",
+    "Democratic Rights",
+    "Social Welfare",
+    "Economic Development",
+    "Federalism",
+    "Inclusive Politics"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Former Union Home Minister": "Mufti Mohammad Sayeed"
+    },
+    "State Ministers": {
+      "Former Chief Ministers of Jammu and Kashmir": [
+        "Mufti Mohammad Sayeed",
+        "Mehbooba Mufti"
+      ]
+    }
+  },
+
+  "achievements": [
+    "Established itself as a major political party in Jammu and Kashmir after 1999.",
+    "Formed the Jammu and Kashmir government in 2002 with Congress support.",
+    "Introduced the 'Healing Touch' policy focusing on reconciliation and peace efforts.",
+    "Worked on tourism promotion and economic development initiatives.",
+    "Focused on dialogue-based approaches for resolving regional issues.",
+    "Mehbooba Mufti became the first woman Chief Minister of Jammu and Kashmir.",
+    "Participated in national discussions on Jammu and Kashmir's political future.",
+    "Promoted welfare and development programmes during its governments."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised PDP's alliance with BJP from 2015 to 2018.",
+    "Critics have questioned the party's handling of security and political issues.",
+    "The party faced criticism after changes related to Article 370 in 2019.",
+    "Opponents have accused the party of inconsistent political positions.",
+    "The party has experienced organisational decline after losing power."
+  ],
+
+  "protests": [
+    "Campaigns for restoration of political rights in Jammu and Kashmir.",
+    "Movements supporting dialogue and peace initiatives.",
+    "Protests regarding changes to Jammu and Kashmir's constitutional status.",
+    "Campaigns for employment and economic opportunities.",
+    "Public demonstrations on regional development issues."
+  ],
+
+  "majorSchemes": [
+    "Healing Touch Policy",
+    "Tourism Development Initiatives",
+    "Rural Development Programmes",
+    "Youth Employment Initiatives",
+    "Education and Healthcare Support Programmes",
+    "Infrastructure Development Projects"
+  ],
+
+  "timeline": [
+    "1999 - Peoples Democratic Party founded by Mufti Mohammad Sayeed.",
+    "2002 - PDP formed government in Jammu and Kashmir with Congress support.",
+    "2005 - Mufti Mohammad Sayeed completed his term as Chief Minister.",
+    "2008 - PDP became a major opposition party in Jammu and Kashmir.",
+    "2014 - PDP emerged as the largest party in Jammu and Kashmir Assembly election.",
+    "2015 - PDP formed coalition government with BJP; Mufti Mohammad Sayeed became Chief Minister.",
+    "2016 - Mehbooba Mufti became the first woman Chief Minister of Jammu and Kashmir.",
+    "2018 - BJP withdrew support from PDP government.",
+    "2019 - Article 370 changes created major political changes in Jammu and Kashmir.",
+    "2024 - PDP contested Lok Sabha elections independently."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 3,
+      "voteShare": 0.3,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 0.2,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 0.1,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Jammu and Kashmir",
+      "status": "Governed multiple times (2002–2005 and 2015–2018 through coalition governments)"
+    }
+  ],
+
+  "gallery": [
+    "pdp1.jpg",
+    "pdp2.jpg",
+    "pdp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "jammu_kashmir_politics.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was PDP founded?",
+      "answer": "Peoples Democratic Party was founded on 28 July 1999."
+    },
+    {
+      "question": "Who founded PDP?",
+      "answer": "Mufti Mohammad Sayeed founded the Peoples Democratic Party."
+    },
+    {
+      "question": "What is the election symbol of PDP?",
+      "answer": "The Inkpot and Pen."
+    },
+    {
+      "question": "Who is the current leader of PDP?",
+      "answer": "Mehbooba Mufti is the current president of PDP."
+    },
+    {
+      "question": "Which region is the main base of PDP?",
+      "answer": "Jammu and Kashmir."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://jkpdp.in",
+    "twitter": "https://x.com/jkpdp",
+    "facebook": "https://www.facebook.com/jkpdp",
+    "instagram": "https://www.instagram.com/jkpdp",
+    "youtube": "https://www.youtube.com/@JKPDPOfficial"
+  }
+}

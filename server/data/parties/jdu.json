@@ -1,0 +1,189 @@
+{
+  "name": "Janata Dal (United)",
+  "shortName": "JDU",
+
+  "description": "Janata Dal (United) (JDU) is a regional political party primarily based in Bihar. Formed in 2003 through the merger of the Samata Party, Janata Dal (United) faction and other groups, the party follows principles of social justice, secularism, good governance, federalism and development. JDU has been a major political force in Bihar and has formed the state government multiple times under the leadership of Nitish Kumar.",
+
+  "assets": {
+    "logo": "/logos/jdu.png",
+    "flag": "/flags/jdu_flag.png",
+    "symbol": "/symbols/arrow.png",
+    "gallery": [
+      "/gallery/jdu1.jpg",
+      "/gallery/jdu2.jpg",
+      "/gallery/jdu3.jpg"
+    ],
+    "manifesto": "/manifestos/jdu2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Arrow",
+
+  "founded": "30 October 2003",
+
+  "founders": [
+    "George Fernandes",
+    "Nitish Kumar",
+    "Sharad Yadav"
+  ],
+
+  "headquarters": "New Delhi, India",
+
+  "website": "https://www.janatadalunited.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Nitish Kumar",
+
+  "alliance": "National Democratic Alliance (NDA)",
+
+  "ideology": [
+    "Social Justice",
+    "Good Governance",
+    "Secularism",
+    "Federalism",
+    "Development-Oriented Politics",
+    "Backward Class Empowerment",
+    "Welfare Policies"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Union Minister": "Rajiv Ranjan Singh (Lalan Singh)"
+    },
+    "State Ministers": {
+      "Chief Minister of Bihar": "Nitish Kumar"
+    }
+  },
+
+  "achievements": [
+    "Governed Bihar for multiple terms under Nitish Kumar's leadership.",
+    "Focused on infrastructure development including roads and electricity expansion.",
+    "Implemented prohibition policy on alcohol in Bihar.",
+    "Expanded women's empowerment initiatives including reservation in local bodies.",
+    "Introduced bicycle and uniform schemes for school students.",
+    "Improved law and order situation compared to previous periods according to supporters.",
+    "Focused on education, healthcare and rural development.",
+    "Implemented caste survey initiative in Bihar.",
+    "Promoted governance reforms through administrative changes."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised frequent alliance changes by Nitish Kumar.",
+    "Critics have questioned the effectiveness of the alcohol prohibition policy.",
+    "Opponents have raised concerns about unemployment and migration from Bihar.",
+    "The party has been criticised for dependence on Nitish Kumar's leadership.",
+    "Political rivals have questioned development outcomes in Bihar."
+  ],
+
+  "protests": [
+    "Campaigns for special category status for Bihar.",
+    "Movements supporting backward class and social justice policies.",
+    "Campaigns on Bihar development and employment issues.",
+    "Protests related to federal rights and state interests.",
+    "Public campaigns on education and welfare issues."
+  ],
+
+  "majorSchemes": [
+    "Mukhyamantri Balika Cycle Yojana",
+    "Mukhyamantri Kanya Utthan Yojana",
+    "Jal Jeevan Hariyali Mission",
+    "Saat Nischay Programme",
+    "Bihar Rural Development Initiatives",
+    "Women Reservation in Panchayati Raj Institutions",
+    "Student Credit Card Scheme"
+  ],
+
+  "timeline": [
+    "2003 - Janata Dal (United) formed after merger of different Janata Dal factions.",
+    "2005 - JDU-BJP alliance formed government in Bihar; Nitish Kumar became Chief Minister.",
+    "2010 - JDU-BJP alliance won Bihar Assembly election.",
+    "2013 - JDU broke alliance with BJP.",
+    "2015 - JDU joined Mahagathbandhan alliance with RJD and Congress and formed government.",
+    "2017 - JDU returned to NDA alliance with BJP.",
+    "2020 - NDA alliance won Bihar Assembly election; Nitish Kumar continued as Chief Minister.",
+    "2022 - JDU left NDA and formed government with RJD-led alliance.",
+    "2024 - JDU returned to NDA alliance before Lok Sabha elections."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 2,
+      "voteShare": 1.12,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 16,
+      "voteShare": 1.45,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 12,
+      "voteShare": 1.22,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Bihar",
+      "status": "Governed multiple times under Nitish Kumar (2005–present with alliance changes)"
+    }
+  ],
+
+  "gallery": [
+    "jdu1.jpg",
+    "jdu2.jpg",
+    "jdu3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "governance.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was JDU founded?",
+      "answer": "Janata Dal (United) was founded on 30 October 2003."
+    },
+    {
+      "question": "Who founded JDU?",
+      "answer": "JDU was founded by leaders including George Fernandes, Nitish Kumar and Sharad Yadav."
+    },
+    {
+      "question": "What is the election symbol of JDU?",
+      "answer": "The Arrow."
+    },
+    {
+      "question": "Who is the current leader of JDU?",
+      "answer": "Nitish Kumar is the president and prominent leader of JDU."
+    },
+    {
+      "question": "Which state is the main base of JDU?",
+      "answer": "Bihar."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.janatadalunited.org",
+    "twitter": "https://x.com/jduonline",
+    "facebook": "https://www.facebook.com/janatadalunited",
+    "instagram": "https://www.instagram.com/jduonline",
+    "youtube": "https://www.youtube.com/@JDUOfficial"
+  }
+}

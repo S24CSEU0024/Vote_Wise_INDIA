@@ -1,0 +1,57 @@
+{
+  "name": "Bharatiya Janata Party",
+  "logo": "Lotus",
+  "founded": "1980",
+  "founders": [
+    "Atal Bihari Vajpayee",
+    "L. K. Advani"
+  ],
+  "currentLeader": "J. P. Nadda",
+  "alliance": "NDA",
+  "ideology": [
+    "Nationalism",
+    "Conservatism",
+    "Integral Humanism"
+  ],
+  "headquarters": "New Delhi",
+  "website": "https://www.bjp.org",
+  "currentPMCandidate": "Narendra Modi",
+  "ministers": {
+    "primeMinister": "Narendra Modi",
+    "homeMinister": "Amit Shah",
+    "financeMinister": "Nirmala Sitharaman",
+    "educationMinister": "Dharmendra Pradhan",
+    "defenceMinister": "Rajnath Singh",
+    "externalAffairsMinister": "S. Jaishankar"
+  },
+  "achievements": [
+    "Digital India",
+    "UPI expansion",
+    "Swachh Bharat Mission",
+    "Ayushman Bharat"
+  ],
+  "criticisms": [
+    "Critics have raised concerns about the implementation and impacts of demonetisation.",
+    "Critics have raised concerns about inflation and unemployment."
+  ],
+  "protests": [
+    "2020–21 Farmers' Protest"
+  ],
+  "majorSchemes": [
+    "PM Awas Yojana",
+    "Jal Jeevan Mission",
+    "Startup India"
+  ],
+  "electionPerformance": [
+    "2014: Formed Union Government",
+    "2019: Re-elected",
+    "2024: Formed Government with NDA"
+  ],
+  "timeline": [
+    "1980: Party founded",
+    "1998: Led Union Government",
+    "2014: Won majority",
+    "2019: Re-elected",
+    "2024: Formed Government with allies"
+  ]
+}

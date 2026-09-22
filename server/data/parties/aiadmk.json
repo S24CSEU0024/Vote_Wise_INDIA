@@ -1,0 +1,192 @@
+{
+  "name": "All India Anna Dravida Munnetra Kazhagam",
+  "shortName": "AIADMK",
+
+  "description": "The All India Anna Dravida Munnetra Kazhagam (AIADMK) is a major regional political party based in Tamil Nadu. Founded in 1972 by actor-turned-politician M. G. Ramachandran (MGR) after splitting from the Dravida Munnetra Kazhagam (DMK), the party follows Dravidian ideology with emphasis on social welfare, regional development, Tamil identity, and populist welfare programmes. AIADMK has been one of the two dominant political forces in Tamil Nadu along with DMK and has formed the state government multiple times.",
+
+  "assets": {
+    "logo": "/logos/aiadmk.png",
+    "flag": "/flags/aiadmk_flag.png",
+    "symbol": "/symbols/two_leaves.png",
+    "gallery": [
+      "/gallery/aiadmk1.jpg",
+      "/gallery/aiadmk2.jpg",
+      "/gallery/aiadmk3.jpg"
+    ],
+    "manifesto": "/manifestos/aiadmk2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Two Leaves",
+
+  "founded": "17 October 1972",
+
+  "founders": [
+    "M. G. Ramachandran (MGR)"
+  ],
+
+  "headquarters": "Chennai, Tamil Nadu, India",
+
+  "website": "https://aiadmk.com",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Edappadi K. Palaniswami",
+
+  "alliance": "Varies by election; aligned with NDA in some elections",
+
+  "ideology": [
+    "Dravidian Ideology",
+    "Social Welfare",
+    "Tamil Regionalism",
+    "Populism",
+    "Economic Development",
+    "Social Justice",
+    "Women Empowerment"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {}
+  },
+
+  "achievements": [
+    "Formed the Tamil Nadu government multiple times since its formation.",
+    "Introduced large-scale welfare schemes focused on women, students and economically weaker sections.",
+    "Implemented the Amma brand welfare programmes including Amma Canteens and Amma Water.",
+    "Expanded free distribution schemes including laptops for students and household goods.",
+    "Promoted industrial investment and infrastructure development in Tamil Nadu.",
+    "Introduced initiatives for women's self-help groups and empowerment.",
+    "Expanded healthcare and public welfare programmes during AIADMK governments.",
+    "Maintained strong rural welfare networks through subsidised schemes."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised AIADMK governments over corruption allegations involving some leaders.",
+    "The party faced internal leadership conflicts after the death of Jayalalithaa.",
+    "Critics have questioned administrative decisions and governance during certain periods.",
+    "The party has been criticised for depending heavily on personality-based leadership.",
+    "Political opponents have raised concerns about alliance changes and policy consistency."
+  ],
+
+  "protests": [
+    "Campaigns supporting Tamil Nadu farmers and agricultural interests.",
+    "Protests against central government policies affecting Tamil Nadu.",
+    "Movements supporting Tamil language and regional rights.",
+    "Demonstrations regarding water-sharing issues such as the Cauvery dispute.",
+    "Public campaigns focused on welfare schemes and social justice."
+  ],
+
+  "majorSchemes": [
+    "Amma Canteens",
+    "Amma Water Scheme",
+    "Amma Unavagam",
+    "Free Laptop Distribution Scheme",
+    "Cradle Baby Scheme",
+    "Marriage Assistance Scheme for Women",
+    "Free Bicycle Distribution Scheme",
+    "Women Self Help Group Initiatives",
+    "Healthcare Welfare Programmes"
+  ],
+
+  "timeline": [
+    "1972 - AIADMK founded by M. G. Ramachandran after separating from DMK.",
+    "1977 - AIADMK won Tamil Nadu Assembly election; MGR became Chief Minister.",
+    "1980 - AIADMK returned to power in Tamil Nadu.",
+    "1984 - MGR won election while undergoing medical treatment in the United States.",
+    "1987 - MGR died, leading to internal party divisions.",
+    "1989 - Jayalalithaa became the leader of one faction of AIADMK.",
+    "1991 - AIADMK won Tamil Nadu election; Jayalalithaa became Chief Minister.",
+    "2001 - AIADMK returned to power under Jayalalithaa's leadership.",
+    "2011 - AIADMK won a major victory and formed government.",
+    "2016 - Jayalalithaa became the first Tamil Nadu Chief Minister to return to power consecutively after decades.",
+    "2017 - Edappadi K. Palaniswami became Chief Minister after Jayalalithaa's death.",
+    "2021 - AIADMK lost Tamil Nadu Assembly election and became opposition party.",
+    "2024 - AIADMK contested Lok Sabha election independently after leaving NDA alliance."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 37,
+      "voteShare": 3.25,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "NDA Alliance",
+      "seatsWon": 1,
+      "voteShare": 1.64,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 1.5,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Tamil Nadu",
+      "status": "Governed multiple times (1977–1980, 1980–1987, 1991–1996, 2001–2006, 2011–2016, 2016–2021)"
+    },
+    {
+      "state": "Puducherry",
+      "status": "Participated in government formations through alliances"
+    }
+  ],
+
+  "gallery": [
+    "aiadmk1.jpg",
+    "aiadmk2.jpg",
+    "aiadmk3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "welfare.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was AIADMK founded?",
+      "answer": "AIADMK was founded on 17 October 1972."
+    },
+    {
+      "question": "Who founded AIADMK?",
+      "answer": "M. G. Ramachandran (MGR) founded AIADMK."
+    },
+    {
+      "question": "What is the election symbol of AIADMK?",
+      "answer": "The Two Leaves."
+    },
+    {
+      "question": "Who is the current leader of AIADMK?",
+      "answer": "Edappadi K. Palaniswami is the current general secretary and leader of AIADMK."
+    },
+    {
+      "question": "Which state is the main base of AIADMK?",
+      "answer": "Tamil Nadu."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://aiadmk.com",
+    "twitter": "https://x.com/AIADMKOfficial",
+    "facebook": "https://www.facebook.com/AIADMKOfficial",
+    "instagram": "https://www.instagram.com/aiadmkofficial",
+    "youtube": "https://www.youtube.com/@AIADMKOfficial"
+  }
+}

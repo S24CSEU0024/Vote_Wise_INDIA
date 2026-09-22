@@ -1,0 +1,172 @@
+{
+  "name": "Samajwadi Party",
+  "shortName": "SP",
+
+  "description": "The Samajwadi Party (SP) is a regional political party founded in 1992 by Mulayam Singh Yadav. Based primarily in Uttar Pradesh, the party advocates democratic socialism, secularism, social justice and the welfare of farmers, backward classes and minorities. It has been one of the major political parties in Uttar Pradesh and has formed the state government multiple times.",
+
+  "assets": {
+    "logo": "/logos/sp.png",
+    "flag": "/flags/sp_flag.png",
+    "symbol": "/symbols/bicycle.png",
+    "gallery": [
+      "/gallery/sp1.jpg",
+      "/gallery/sp2.jpg",
+      "/gallery/sp3.jpg"
+    ],
+    "manifesto": "/manifestos/sp2024.pdf"
+  },
+
+  "themeColor": "#D32F2F",
+
+  "symbolName": "Bicycle",
+
+  "founded": "4 October 1992",
+
+  "founders": [
+    "Mulayam Singh Yadav"
+  ],
+
+  "headquarters": "Lucknow, Uttar Pradesh, India",
+
+  "website": "https://samajwadiparty.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Akhilesh Yadav",
+
+  "alliance": "INDIA Alliance (varies by election and state)",
+
+  "ideology": [
+    "Democratic Socialism",
+    "Secularism",
+    "Social Justice",
+    "Farmer Welfare",
+    "Backward Class Empowerment",
+    "Inclusive Development"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Formed the Government of Uttar Pradesh on multiple occasions.",
+    "Expanded the Lucknow Metro project during its tenure.",
+    "Developed the Agra–Lucknow Expressway.",
+    "Introduced the Samajwadi Pension Scheme.",
+    "Distributed laptops to eligible students under a state scheme.",
+    "Invested in road and urban infrastructure projects.",
+    "Implemented welfare initiatives for farmers and students."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised the party's law and order record during some periods in government.",
+    "The party has experienced internal leadership disputes.",
+    "Critics have questioned aspects of governance and implementation of some welfare programmes.",
+    "Political opponents have raised concerns regarding candidate selection and organisational issues."
+  ],
+
+  "protests": [
+    "Campaigns on farmers' rights and agricultural issues.",
+    "Protests against inflation and unemployment.",
+    "Participation in demonstrations on social justice and constitutional issues.",
+    "Public rallies on reservation and welfare policies."
+  ],
+
+  "majorSchemes": [
+    "Samajwadi Pension Scheme",
+    "Laptop Distribution Scheme",
+    "Kanya Vidya Dhan Scheme",
+    "Agra–Lucknow Expressway",
+    "Lucknow Metro Development",
+    "Farmer Welfare Initiatives"
+  ],
+
+  "timeline": [
+    "1992 - Samajwadi Party founded by Mulayam Singh Yadav.",
+    "1993 - Formed government in Uttar Pradesh through an alliance.",
+    "2003 - Returned to power in Uttar Pradesh.",
+    "2012 - Won Uttar Pradesh Assembly election; Akhilesh Yadav became Chief Minister.",
+    "2017 - Lost the Uttar Pradesh Assembly election.",
+    "2022 - Emerged as the principal opposition party in Uttar Pradesh.",
+    "2024 - Improved its performance in the Lok Sabha election."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 5,
+      "voteShare": 3.37,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "SP-BSP Alliance (Uttar Pradesh)",
+      "seatsWon": 5,
+      "voteShare": 2.55,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 37,
+      "voteShare": 4.58,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Uttar Pradesh",
+      "status": "Governed multiple times (1993–1995, 2003–2007, 2012–2017)"
+    }
+  ],
+
+  "gallery": [
+    "sp1.jpg",
+    "sp2.jpg",
+    "sp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "development.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was the Samajwadi Party founded?",
+      "answer": "The Samajwadi Party was founded on 4 October 1992."
+    },
+    {
+      "question": "Who founded the Samajwadi Party?",
+      "answer": "Mulayam Singh Yadav founded the party."
+    },
+    {
+      "question": "What is the election symbol of SP?",
+      "answer": "The Bicycle."
+    },
+    {
+      "question": "Who is the current president of the Samajwadi Party?",
+      "answer": "Akhilesh Yadav."
+    },
+    {
+      "question": "Which state has been the primary base of the Samajwadi Party?",
+      "answer": "Uttar Pradesh."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://samajwadiparty.in",
+    "twitter": "https://x.com/samajwadiparty",
+    "facebook": "https://www.facebook.com/samajwadiparty",
+    "instagram": "https://www.instagram.com/samajwadiparty",
+    "youtube": "https://www.youtube.com/@SamajwadiPartyOfficial"
+  }
+}

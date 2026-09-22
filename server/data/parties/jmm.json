@@ -1,0 +1,187 @@
+{
+  "name": "Jharkhand Mukti Morcha",
+  "shortName": "JMM",
+
+  "description": "The Jharkhand Mukti Morcha (JMM) is a regional political party primarily based in Jharkhand. Founded in 1972 by Shibu Soren, Binod Bihari Mahato and A. K. Roy, the party emerged from the movement for a separate Jharkhand state and the rights of tribal communities. JMM focuses on tribal welfare, protection of indigenous rights, regional development, social justice, land rights and environmental protection. The party has played a central role in Jharkhand politics and has formed the state government multiple times.",
+
+  "assets": {
+    "logo": "/logos/jmm.png",
+    "flag": "/flags/jmm_flag.png",
+    "symbol": "/symbols/bow_and_arrow.png",
+    "gallery": [
+      "/gallery/jmm1.jpg",
+      "/gallery/jmm2.jpg",
+      "/gallery/jmm3.jpg"
+    ],
+    "manifesto": "/manifestos/jmm2024.pdf"
+  },
+
+  "themeColor": "#006400",
+
+  "symbolName": "Bow and Arrow",
+
+  "founded": "4 February 1972",
+
+  "founders": [
+    "Shibu Soren",
+    "Binod Bihari Mahato",
+    "A. K. Roy"
+  ],
+
+  "headquarters": "Ranchi, Jharkhand, India",
+
+  "website": "https://jmmjharkhand.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Hemant Soren",
+
+  "alliance": "INDIA Alliance",
+
+  "ideology": [
+    "Tribal Rights",
+    "Jharkhand Regionalism",
+    "Social Justice",
+    "Land Rights Protection",
+    "Environmental Protection",
+    "Welfare Politics",
+    "Inclusive Development"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Chief Minister of Jharkhand": "Hemant Soren"
+    }
+  },
+
+  "achievements": [
+    "Played a historic role in the movement for creation of Jharkhand state.",
+    "Jharkhand was formed as a separate state in 2000 after decades of regional movements.",
+    "Formed Jharkhand governments multiple times.",
+    "Focused on welfare schemes for tribal communities and economically weaker sections.",
+    "Implemented initiatives related to rural development and social security.",
+    "Promoted protection of tribal culture, traditions and land rights.",
+    "Expanded political representation of tribal communities in Jharkhand.",
+    "Introduced welfare programmes including housing, education and livelihood support."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised JMM leaders over corruption allegations.",
+    "Critics have raised concerns about illegal mining and land-related issues.",
+    "Opponents have questioned governance and development outcomes in Jharkhand.",
+    "The party has faced criticism regarding internal family-based leadership.",
+    "Political rivals have accused the party of focusing heavily on identity politics."
+  ],
+
+  "protests": [
+    "Led movements for creation of a separate Jharkhand state.",
+    "Campaigns for tribal rights and protection of indigenous communities.",
+    "Protests against displacement due to mining and industrial projects.",
+    "Movements supporting land rights under tribal protection laws.",
+    "Campaigns for employment and development opportunities in Jharkhand."
+  ],
+
+  "majorSchemes": [
+    "Abua Awas Yojana",
+    "Mukhyamantri Maiya Samman Yojana",
+    "Guruji Credit Card Scheme",
+    "Tribal Welfare Programmes",
+    "Pension and Social Security Schemes",
+    "Rural Development Initiatives",
+    "Forest Rights Protection Initiatives"
+  ],
+
+  "timeline": [
+    "1972 - Jharkhand Mukti Morcha founded to represent Jharkhand regional interests.",
+    "1980s - JMM became a major force in the Jharkhand statehood movement.",
+    "1990s - Party continued its demand for a separate Jharkhand state.",
+    "2000 - Jharkhand became a separate state from Bihar.",
+    "2005 - JMM participated in Jharkhand government formation.",
+    "2009 - JMM leader Shibu Soren became Chief Minister of Jharkhand.",
+    "2013 - JMM formed government in Jharkhand with Congress support.",
+    "2019 - JMM-led alliance won Jharkhand Assembly election; Hemant Soren became Chief Minister.",
+    "2024 - Hemant Soren returned to Jharkhand politics after legal challenges and JMM continued as a major state party.",
+    "2024 - JMM-led alliance retained power in Jharkhand Assembly election."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 2,
+      "voteShare": 0.4,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA Alliance",
+      "seatsWon": 1,
+      "voteShare": 0.3,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 3,
+      "voteShare": 0.5,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Jharkhand",
+      "status": "Governed multiple times (2005, 2009, 2013, 2019–present through alliances)"
+    }
+  ],
+
+  "gallery": [
+    "jmm1.jpg",
+    "jmm2.jpg",
+    "jmm3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "tribal_rights.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was JMM founded?",
+      "answer": "Jharkhand Mukti Morcha was founded on 4 February 1972."
+    },
+    {
+      "question": "Who founded JMM?",
+      "answer": "JMM was founded by Shibu Soren, Binod Bihari Mahato and A. K. Roy."
+    },
+    {
+      "question": "What is the election symbol of JMM?",
+      "answer": "The Bow and Arrow."
+    },
+    {
+      "question": "Who is the current leader of JMM?",
+      "answer": "Hemant Soren is the current executive president and prominent leader of JMM."
+    },
+    {
+      "question": "Which state is the main base of JMM?",
+      "answer": "Jharkhand."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://jmmjharkhand.org",
+    "twitter": "https://x.com/JmmJharkhand",
+    "facebook": "https://www.facebook.com/JharkhandMuktiMorcha",
+    "instagram": "https://www.instagram.com/jmmjharkhand",
+    "youtube": "https://www.youtube.com/@JMMJharkhand"
+  }
+}

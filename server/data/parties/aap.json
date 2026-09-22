@@ -1,0 +1,185 @@
+{
+  "name": "Aam Aadmi Party",
+  "shortName": "AAP",
+
+  "description": "The Aam Aadmi Party (AAP) is an Indian political party founded in 2012 after the India Against Corruption movement. It emphasizes governance reforms, anti-corruption measures, transparency, education, healthcare, and public service delivery.",
+
+  "assets": {
+    "logo": "/logos/aap.png",
+    "flag": "/flags/aap_flag.png",
+    "symbol": "/symbols/broom.png",
+    "gallery": [
+      "/gallery/aap1.jpg",
+      "/gallery/aap2.jpg",
+      "/gallery/aap3.jpg"
+    ],
+    "manifesto": "/manifestos/aap2024.pdf"
+  },
+
+  "themeColor": "#2196F3",
+
+  "symbolName": "Broom",
+
+  "founded": "26 November 2012",
+
+  "founders": [
+    "Arvind Kejriwal",
+    "Manish Sisodia",
+    "Prashant Bhushan",
+    "Yogendra Yadav",
+    "Kumar Vishwas",
+    "Sanjay Singh",
+    "Gopal Rai"
+  ],
+
+  "headquarters": "New Delhi, India",
+
+  "website": "https://aamaadmiparty.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Arvind Kejriwal",
+
+  "alliance": "Contested different elections independently and as part of opposition alliances in some states.",
+
+  "ideology": [
+    "Anti-corruption",
+    "Good Governance",
+    "Participatory Democracy",
+    "Transparency",
+    "Welfare Policies"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Expansion of government schools in Delhi.",
+    "Reforms in Delhi's public healthcare through Mohalla Clinics and related initiatives.",
+    "Subsidised electricity for eligible households under state schemes.",
+    "Subsidised water supply for eligible households under state schemes.",
+    "Expansion of CCTV camera installation in Delhi.",
+    "Doorstep delivery of selected government services in Delhi.",
+    "Improvement of government school infrastructure.",
+    "Introduction of Happiness Curriculum in Delhi government schools.",
+    "Governed Punjab after winning the 2022 Assembly election."
+  ],
+
+  "criticisms": [
+    "Critics have questioned the financial sustainability of some subsidy programmes.",
+    "The party has faced internal leadership disputes over time.",
+    "Some leaders have resigned or been expelled following disagreements.",
+    "The party and some of its leaders have faced legal investigations and court proceedings on various matters.",
+    "Opposition parties have criticised its governance on issues such as pollution, infrastructure and administrative coordination."
+  ],
+
+  "protests": [
+    "Originated from the India Against Corruption movement (2011).",
+    "Participated in protests on governance, inflation and public policy issues.",
+    "Organised demonstrations regarding the powers of the Delhi Government."
+  ],
+
+  "majorSchemes": [
+    "Mohalla Clinics",
+    "Government School Modernisation",
+    "Happiness Curriculum",
+    "Entrepreneurship Mindset Curriculum",
+    "Free Electricity Scheme (eligible consumers)",
+    "Free Water Scheme (eligible consumers)",
+    "Doorstep Delivery of Government Services",
+    "Women Free Bus Travel Scheme in Delhi"
+  ],
+
+  "timeline": [
+    "2011 - India Against Corruption movement gains national attention.",
+    "26 November 2012 - Aam Aadmi Party founded.",
+    "2013 - Contested Delhi Assembly election and formed government for the first time.",
+    "2015 - Won a large majority in the Delhi Assembly election.",
+    "2020 - Returned to power in Delhi with another large majority.",
+    "2022 - Won Punjab Assembly election and formed the state government.",
+    "2024 - Contested Lok Sabha election."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 4,
+      "voteShare": 2.04,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 1,
+      "voteShare": 0.44,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Varied by state",
+      "seatsWon": 3,
+      "voteShare": 1.11,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Delhi",
+      "status": "Governed after multiple Assembly election victories"
+    },
+    {
+      "state": "Punjab",
+      "status": "Governed after 2022 Assembly election victory"
+    }
+  ],
+
+  "gallery": [
+    "aap1.jpg",
+    "aap2.jpg",
+    "aap3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "governance.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was AAP founded?",
+      "answer": "The Aam Aadmi Party was founded on 26 November 2012."
+    },
+    {
+      "question": "What is AAP's election symbol?",
+      "answer": "The Broom."
+    },
+    {
+      "question": "Who is the founder of AAP?",
+      "answer": "Arvind Kejriwal is widely recognised as the principal founder, along with several other founding members."
+    },
+    {
+      "question": "Which movement led to the formation of AAP?",
+      "answer": "The India Against Corruption movement."
+    },
+    {
+      "question": "Which states has AAP governed?",
+      "answer": "AAP has formed governments in Delhi and Punjab."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://aamaadmiparty.org",
+    "twitter": "https://x.com/AamAadmiParty",
+    "facebook": "https://www.facebook.com/AamAadmiParty",
+    "instagram": "https://www.instagram.com/aamaadmiparty",
+    "youtube": "https://www.youtube.com/@AamAadmiParty"
+  }
+}

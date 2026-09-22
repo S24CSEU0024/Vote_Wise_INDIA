@@ -1,0 +1,183 @@
+{
+  "name": "Communist Party of India",
+  "shortName": "CPI",
+
+  "description": "The Communist Party of India (CPI) is one of India's oldest political parties. Established in 1925, it advocates democratic socialism, workers' rights, agrarian reforms, secularism and social justice. It has played an important role in labour movements, student politics and parliamentary democracy in India.",
+
+  "assets": {
+    "logo": "/logos/cpi.png",
+    "flag": "/flags/cpi_flag.png",
+    "symbol": "/symbols/ears_and_sickle.png",
+    "gallery": [
+      "/gallery/cpi1.jpg",
+      "/gallery/cpi2.jpg",
+      "/gallery/cpi3.jpg"
+    ],
+    "manifesto": "/manifestos/cpi2024.pdf"
+  },
+
+  "themeColor": "#D32F2F",
+
+  "symbolName": "Ears of Corn and Sickle",
+
+  "founded": "26 December 1925",
+
+  "founders": [
+    "S. A. Dange",
+    "Muzaffar Ahmed",
+    "M. N. Roy",
+    "Singaravelar",
+    "Nalini Gupta"
+  ],
+
+  "headquarters": "Ajoy Bhavan, New Delhi, India",
+
+  "website": "https://www.communistparty.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "D. Raja",
+
+  "alliance": "INDIA Alliance (varies by election and state)",
+
+  "ideology": [
+    "Communism",
+    "Marxism-Leninism",
+    "Democratic Socialism",
+    "Secularism",
+    "Workers' Rights",
+    "Social Justice"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Contributed to the Indian labour movement.",
+    "Advocated land reforms and agrarian rights.",
+    "Promoted public education and public healthcare.",
+    "Supported expansion of workers' rights and trade unions.",
+    "Participated in coalition governments at the state level.",
+    "Played an active role in parliamentary debates on social welfare."
+  ],
+
+  "criticisms": [
+    "Critics argue that the party's electoral influence has declined over time.",
+    "Political opponents have criticised some of its economic policies.",
+    "The party has faced challenges expanding beyond its traditional support base.",
+    "Analysts have noted reduced parliamentary representation in recent years."
+  ],
+
+  "protests": [
+    "Labour rights demonstrations.",
+    "Farmer protests and agricultural reform campaigns.",
+    "Protests regarding privatisation of public sector enterprises.",
+    "Campaigns on inflation, unemployment and public welfare."
+  ],
+
+  "majorSchemes": [
+    "Support for Universal Public Distribution System",
+    "Employment Guarantee Expansion",
+    "Strengthening Public Healthcare",
+    "Land Reform Advocacy",
+    "Public Education Initiatives"
+  ],
+
+  "timeline": [
+    "1925 - Communist Party of India founded.",
+    "1930s - Participation in labour and peasant movements.",
+    "1951 - First General Election participation.",
+    "1957 - CPI supported India's first democratically elected communist government in Kerala.",
+    "1964 - Split leading to the formation of CPI(M).",
+    "1970s - Continued participation in national politics.",
+    "2004 - Supported the UPA Government from outside.",
+    "2024 - Contested Lok Sabha elections as part of opposition alliances in several states."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Left Front",
+      "seatsWon": 1,
+      "voteShare": 0.79,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Left Front",
+      "seatsWon": 2,
+      "voteShare": 0.62,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance / Left Front",
+      "seatsWon": 2,
+      "voteShare": 0.49,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Kerala",
+      "status": "Part of Left Democratic Front governments"
+    },
+    {
+      "state": "Tamil Nadu",
+      "status": "Alliance partner in state politics"
+    },
+    {
+      "state": "Bihar",
+      "status": "Alliance partner"
+    }
+  ],
+
+  "gallery": [
+    "cpi1.jpg",
+    "cpi2.jpg",
+    "cpi3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "party_ideology.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was CPI founded?",
+      "answer": "The Communist Party of India was founded on 26 December 1925."
+    },
+    {
+      "question": "What is CPI's election symbol?",
+      "answer": "Ears of Corn and Sickle."
+    },
+    {
+      "question": "Who is the current General Secretary?",
+      "answer": "D. Raja."
+    },
+    {
+      "question": "What ideology does CPI follow?",
+      "answer": "Communism, Marxism-Leninism, democratic socialism, secularism and social justice."
+    },
+    {
+      "question": "Which states have had a significant CPI presence?",
+      "answer": "Kerala, Tamil Nadu, Bihar, Andhra Pradesh and several other states through alliances and legislative representation."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.communistparty.in",
+    "twitter": "https://x.com/CPIOfficial",
+    "facebook": "https://www.facebook.com/CommunistPartyofIndia",
+    "instagram": "",
+    "youtube": ""
+  }
+}

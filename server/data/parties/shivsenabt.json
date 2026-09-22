@@ -1,0 +1,163 @@
+{
+  "name": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+  "shortName": "SHS-UBT",
+
+  "description": "Shiv Sena (Uddhav Balasaheb Thackeray), commonly known as Shiv Sena UBT, is a regional political party based in Maharashtra. It emerged after the split of the original Shiv Sena in 2022 following a leadership dispute between Uddhav Thackeray and Eknath Shinde. The party represents the legacy of Bal Thackeray's Shiv Sena while emphasizing Marathi identity, Hindutva, secular values, Maharashtra's interests and democratic institutions. It is part of the opposition INDIA Alliance.",
+
+  "assets": {
+    "logo": "/logos/shivsena_ubt.png",
+    "flag": "/flags/shivsena_ubt_flag.png",
+    "symbol": "/symbols/flaming_torch.png",
+    "gallery": [
+      "/gallery/shivsena_ubt1.jpg",
+      "/gallery/shivsena_ubt2.jpg",
+      "/gallery/shivsena_ubt3.jpg"
+    ],
+    "manifesto": "/manifestos/shivsena_ubt2024.pdf"
+  },
+
+  "themeColor": "#FF6600",
+
+  "symbolName": "Flaming Torch (Mashaal)",
+
+  "founded": "2022 (as a faction after Shiv Sena split)",
+
+  "founders": [
+    "Uddhav Thackeray"
+  ],
+
+  "headquarters": "Mumbai, Maharashtra, India",
+
+  "website": "https://shivsenaubt.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Uddhav Thackeray",
+
+  "alliance": "INDIA Alliance",
+
+  "ideology": [
+    "Marathi Regionalism",
+    "Hindutva",
+    "Maharashtra Identity",
+    "Social Justice",
+    "Federalism",
+    "Democratic Values",
+    "Urban Development"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {
+      "Former Chief Minister of Maharashtra": "Uddhav Thackeray"
+    }
+  },
+
+  "achievements": [
+    "Carried forward the political legacy of Bal Thackeray's Shiv Sena.",
+    "Formed the Maharashtra government in 2019 under Uddhav Thackeray.",
+    "Led Maharashtra during the COVID-19 pandemic period.",
+    "Focused on Mumbai infrastructure and urban development issues.",
+    "Supported environmental protection initiatives including opposition to certain development projects.",
+    "Maintained representation of Shiv Sena's traditional voter base after the party split.",
+    "Won Lok Sabha seats in the 2024 election as part of the INDIA Alliance."
+  ],
+
+  "criticisms": [
+    "Opposition parties have criticised the party's ideological shift after alliance changes.",
+    "Critics question its claim over the original Shiv Sena identity after the 2022 split.",
+    "The party has faced organisational challenges after losing the original party name and symbol.",
+    "Opponents have criticised its alliance with Congress and NCP factions.",
+    "Political rivals have questioned its future electoral strength."
+  ],
+
+  "protests": [
+    "Campaigns for protection of Marathi identity and Maharashtra interests.",
+    "Protests against political decisions affecting Mumbai and Maharashtra.",
+    "Campaigns supporting farmers and local employment.",
+    "Movements related to environmental protection.",
+    "Opposition campaigns against BJP-led government policies."
+  ],
+
+  "majorSchemes": [
+    "Mumbai Infrastructure Development Initiatives",
+    "Urban Development Programmes",
+    "Environmental Protection Campaigns",
+    "Maharashtra Farmer Welfare Initiatives",
+    "Local Employment Promotion Policies"
+  ],
+
+  "timeline": [
+    "1966 - Original Shiv Sena founded by Bal Thackeray.",
+    "2012 - Uddhav Thackeray became Shiv Sena chief after Bal Thackeray's death.",
+    "2019 - Shiv Sena formed Maha Vikas Aghadi government with Congress and NCP; Uddhav Thackeray became Chief Minister.",
+    "2022 - Eknath Shinde rebellion caused split in Shiv Sena.",
+    "2023 - Election Commission recognised Eknath Shinde faction as official Shiv Sena.",
+    "2023 - Uddhav Thackeray faction adopted the name Shiv Sena (Uddhav Balasaheb Thackeray).",
+    "2024 - Shiv Sena UBT contested Lok Sabha election as part of INDIA Alliance."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance",
+      "seatsWon": 9,
+      "voteShare": 0.8,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Maharashtra",
+      "status": "Governed from 2019 to 2022 under Uddhav Thackeray"
+    }
+  ],
+
+  "gallery": [
+    "shivsena_ubt1.jpg",
+    "shivsena_ubt2.jpg",
+    "shivsena_ubt3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "maharashtra_politics.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was Shiv Sena UBT formed?",
+      "answer": "Shiv Sena UBT emerged in 2022 after the split of Shiv Sena."
+    },
+    {
+      "question": "Who leads Shiv Sena UBT?",
+      "answer": "Uddhav Thackeray is the leader of Shiv Sena UBT."
+    },
+    {
+      "question": "What is the election symbol of Shiv Sena UBT?",
+      "answer": "The Flaming Torch (Mashaal)."
+    },
+    {
+      "question": "Why was Shiv Sena divided?",
+      "answer": "The party split in 2022 after a leadership dispute between Uddhav Thackeray and Eknath Shinde."
+    },
+    {
+      "question": "Which state is the main base of Shiv Sena UBT?",
+      "answer": "Maharashtra."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://shivsenaubt.in",
+    "twitter": "https://x.com/ShivsenaUBT",
+    "facebook": "https://www.facebook.com/ShivsenaUBT",
+    "instagram": "https://www.instagram.com/shivsenaubt",
+    "youtube": "https://www.youtube.com/@ShivSenaUBT"
+  }
+}

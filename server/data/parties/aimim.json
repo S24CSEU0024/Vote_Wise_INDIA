@@ -1,0 +1,181 @@
+{
+  "name": "All India Majlis-e-Ittehadul Muslimeen",
+  "shortName": "AIMIM",
+
+  "description": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM) is a political party primarily based in Telangana, with roots in the Majlis-e-Ittehadul Muslimeen organisation founded in 1927 in Hyderabad. The modern political party focuses on representation of minorities, social justice, education, healthcare, employment and constitutional rights. Under the leadership of Asaduddin Owaisi, AIMIM has expanded its electoral presence beyond Telangana into states such as Maharashtra, Bihar and Uttar Pradesh.",
+
+  "assets": {
+    "logo": "/logos/aimim.png",
+    "flag": "/flags/aimim_flag.png",
+    "symbol": "/symbols/kite.png",
+    "gallery": [
+      "/gallery/aimim1.jpg",
+      "/gallery/aimim2.jpg",
+      "/gallery/aimim3.jpg"
+    ],
+    "manifesto": "/manifestos/aimim2024.pdf"
+  },
+
+  "themeColor": "#008000",
+
+  "symbolName": "Kite",
+
+  "founded": "1927 (as Majlis-e-Ittehadul Muslimeen); political party re-established after independence",
+
+  "founders": [
+    "Nawab Mahmood Nawaz Khan Qiledar",
+    "Other leaders of the original MIM organisation"
+  ],
+
+  "headquarters": "Hyderabad, Telangana, India",
+
+  "website": "https://www.aimim.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Asaduddin Owaisi",
+
+  "alliance": "Independent (Alliance positions vary by election)",
+
+  "ideology": [
+    "Social Justice",
+    "Minority Representation",
+    "Constitutional Rights",
+    "Secularism",
+    "Education and Healthcare Access",
+    "Social Welfare",
+    "Federalism"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {}
+  },
+
+  "achievements": [
+    "Established strong political representation in Hyderabad and Telangana.",
+    "Won multiple Lok Sabha elections from Hyderabad constituency.",
+    "Raised issues related to minority education, employment and welfare.",
+    "Expanded party presence beyond Telangana into states like Maharashtra and Bihar.",
+    "Worked on issues related to healthcare, education and social development.",
+    "Represented concerns of urban poor and disadvantaged communities.",
+    "Maintained an active parliamentary presence through Asaduddin Owaisi."
+  ],
+
+  "criticisms": [
+    "Opposition parties have accused AIMIM of practising identity-based politics.",
+    "Critics claim the party may divide opposition votes in some elections.",
+    "Political opponents have questioned its expansion strategy outside Telangana.",
+    "The party has faced criticism regarding its stand on certain religious and political issues.",
+    "Some critics argue that its electoral influence remains limited geographically."
+  ],
+
+  "protests": [
+    "Protests against policies affecting minority communities.",
+    "Campaigns supporting constitutional rights and secular values.",
+    "Movements related to education and employment opportunities.",
+    "Demonstrations on issues concerning social justice.",
+    "Public campaigns against discrimination and inequality."
+  ],
+
+  "majorSchemes": [
+    "Educational Support Initiatives",
+    "Minority Welfare Programmes",
+    "Healthcare Access Campaigns",
+    "Employment and Skill Development Initiatives",
+    "Urban Development Programmes",
+    "Social Justice Campaigns"
+  ],
+
+  "timeline": [
+    "1927 - Majlis-e-Ittehadul Muslimeen was founded in Hyderabad.",
+    "1948 - Organisation underwent major political changes after Hyderabad's integration into India.",
+    "1958 - AIMIM began functioning as a political party in independent India.",
+    "1984 - AIMIM won Hyderabad Lok Sabha seat for the first time.",
+    "2004 - Asaduddin Owaisi became Member of Parliament from Hyderabad.",
+    "2014 - AIMIM won seats in Telangana Assembly after state formation.",
+    "2019 - AIMIM expanded political presence outside Telangana.",
+    "2020 - AIMIM won seats in Bihar Assembly election.",
+    "2024 - AIMIM retained Hyderabad Lok Sabha seat under Asaduddin Owaisi."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 1,
+      "voteShare": 0.25,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 2,
+      "voteShare": 0.25,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 1,
+      "voteShare": 0.18,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Telangana",
+      "status": "Has not formed the state government; maintains influence in Hyderabad"
+    }
+  ],
+
+  "gallery": [
+    "aimim1.jpg",
+    "aimim2.jpg",
+    "aimim3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "parliamentary_work.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was AIMIM founded?",
+      "answer": "AIMIM traces its origins to the Majlis-e-Ittehadul Muslimeen founded in 1927."
+    },
+    {
+      "question": "Who is the current leader of AIMIM?",
+      "answer": "Asaduddin Owaisi is the current president and prominent leader of AIMIM."
+    },
+    {
+      "question": "What is the election symbol of AIMIM?",
+      "answer": "The Kite."
+    },
+    {
+      "question": "Which state is the main base of AIMIM?",
+      "answer": "Telangana, especially Hyderabad."
+    },
+    {
+      "question": "Who represents AIMIM in Lok Sabha?",
+      "answer": "Asaduddin Owaisi represents Hyderabad constituency in Lok Sabha."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.aimim.in",
+    "twitter": "https://x.com/aimim_national",
+    "facebook": "https://www.facebook.com/aimimofficial",
+    "instagram": "https://www.instagram.com/aimimofficial",
+    "youtube": "https://www.youtube.com/@AIMIMOfficial"
+  }
+}

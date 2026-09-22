@@ -1,0 +1,166 @@
+{
+  "name": "Assam Jatiya Parishad",
+  "shortName": "AJP",
+
+  "description": "The Assam Jatiya Parishad (AJP) is a regional political party based in Assam. Founded in 2020 by leaders associated with the anti-Citizenship Amendment Act (CAA) movement, the party focuses on protecting Assamese identity, culture, language and indigenous rights. AJP aims to provide an alternative regional political platform in Assam with emphasis on Assam's interests, employment opportunities, environmental protection and good governance.",
+
+  "assets": {
+    "logo": "/logos/ajp.png",
+    "flag": "/flags/ajp_flag.png",
+    "symbol": "/symbols/lock_and_key.png",
+    "gallery": [
+      "/gallery/ajp1.jpg",
+      "/gallery/ajp2.jpg",
+      "/gallery/ajp3.jpg"
+    ],
+    "manifesto": "/manifestos/ajp2021.pdf"
+  },
+
+  "themeColor": "#1B5E20",
+
+  "symbolName": "Lock and Key",
+
+  "founded": "2020",
+
+  "founders": [
+    "Lurinjyoti Gogoi",
+    "Other leaders from Assam's civil society movement"
+  ],
+
+  "headquarters": "Guwahati, Assam, India",
+
+  "website": "",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Lurinjyoti Gogoi",
+
+  "alliance": "Independent (Has contested elections through alliances with regional parties)",
+
+  "ideology": [
+    "Assamese Regionalism",
+    "Protection of Indigenous Rights",
+    "Cultural Identity Preservation",
+    "Anti-Illegal Immigration Policies",
+    "Youth Employment",
+    "Environmental Protection",
+    "Good Governance"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {},
+    "State Ministers": {}
+  },
+
+  "achievements": [
+    "Provided a new regional political platform after the Assam anti-CAA movement.",
+    "Raised issues related to Assamese identity, indigenous communities and constitutional safeguards.",
+    "Participated in Assam Assembly and parliamentary elections.",
+    "Focused on youth employment and economic opportunities in Assam.",
+    "Highlighted environmental concerns and protection of Assam's natural resources.",
+    "Advocated for stronger implementation of Assam Accord provisions."
+  ],
+
+  "criticisms": [
+    "Critics argue that the party has limited organisational strength compared to established parties.",
+    "The party has struggled to convert public support into electoral victories.",
+    "Opponents have questioned its long-term political viability.",
+    "Some critics have described its policies on immigration as controversial."
+  ],
+
+  "protests": [
+    "Played an active role in movements opposing the Citizenship Amendment Act (CAA).",
+    "Participated in campaigns related to Assamese identity and indigenous rights.",
+    "Raised concerns about unemployment among Assam's youth.",
+    "Organised campaigns regarding implementation of Assam Accord provisions.",
+    "Advocated for protection of Assam's land and resources."
+  ],
+
+  "majorSchemes": [
+    "Protection of Indigenous Rights Agenda",
+    "Employment Generation Initiatives",
+    "Assam Accord Implementation Campaign",
+    "Environmental Protection Policies",
+    "Regional Development Programmes"
+  ],
+
+  "timeline": [
+    "2020 - Assam Jatiya Parishad founded after the anti-CAA movement in Assam.",
+    "2021 - Contested Assam Legislative Assembly election for the first time.",
+    "2021 - Lurinjyoti Gogoi contested from key constituencies including Duliajan and Naharkatia.",
+    "2024 - Contested Lok Sabha election as part of Assam's opposition political efforts.",
+    "2025 - Continued regional political activities focusing on Assamese identity and rights."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2021,
+      "electionType": "Assam Legislative Assembly",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 2.0,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Opposition Coordination",
+      "seatsWon": 0,
+      "voteShare": 0.1,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Assam",
+      "status": "Has not formed government"
+    }
+  ],
+
+  "gallery": [
+    "ajp1.jpg",
+    "ajp2.jpg",
+    "ajp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "campaigns.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was Assam Jatiya Parishad founded?",
+      "answer": "Assam Jatiya Parishad was founded in 2020."
+    },
+    {
+      "question": "Who is the leader of AJP?",
+      "answer": "Lurinjyoti Gogoi is the prominent leader of Assam Jatiya Parishad."
+    },
+    {
+      "question": "What is the election symbol of AJP?",
+      "answer": "The election symbol is Lock and Key."
+    },
+    {
+      "question": "Which state is the main base of AJP?",
+      "answer": "Assam."
+    },
+    {
+      "question": "Why was AJP formed?",
+      "answer": "AJP was formed to represent Assamese regional interests and concerns raised during the anti-CAA movement."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "",
+    "twitter": "https://x.com/ajpassam",
+    "facebook": "https://www.facebook.com/assamjatiyaparishad",
+    "instagram": "https://www.instagram.com/ajpassam",
+    "youtube": ""
+  }
+}

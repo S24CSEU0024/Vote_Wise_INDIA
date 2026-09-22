@@ -1,0 +1,170 @@
+{
+  "name": "Bahujan Samaj Party",
+  "shortName": "BSP",
+
+  "description": "The Bahujan Samaj Party (BSP) is a national political party founded in 1984 by Kanshi Ram. The party advocates social justice, equality and the political empowerment of Bahujan communities, including Scheduled Castes, Scheduled Tribes, Other Backward Classes and religious minorities. It has played a significant role in the politics of Uttar Pradesh and has also contested elections across India.",
+
+  "assets": {
+    "logo": "/logos/bsp.png",
+    "flag": "/flags/bsp_flag.png",
+    "symbol": "/symbols/elephant.png",
+    "gallery": [
+      "/gallery/bsp1.jpg",
+      "/gallery/bsp2.jpg",
+      "/gallery/bsp3.jpg"
+    ],
+    "manifesto": "/manifestos/bsp2024.pdf"
+  },
+
+  "themeColor": "#1565C0",
+
+  "symbolName": "Elephant",
+
+  "founded": "14 April 1984",
+
+  "founders": [
+    "Kanshi Ram"
+  ],
+
+  "headquarters": "New Delhi, India",
+
+  "website": "https://www.bspindia.org",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Mayawati",
+
+  "alliance": "Generally contests elections independently, though it has formed alliances in some elections.",
+
+  "ideology": [
+    "Social Justice",
+    "Ambedkarism",
+    "Democratic Socialism",
+    "Equality",
+    "Bahujan Empowerment"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Expanded political representation for historically underrepresented communities.",
+    "Formed governments in Uttar Pradesh on multiple occasions.",
+    "Focused on law and order during its tenure in Uttar Pradesh.",
+    "Developed public infrastructure including parks and memorials dedicated to social reformers.",
+    "Increased visibility of Dr. B. R. Ambedkar, Kanshi Ram and other social reformers in public institutions.",
+    "Implemented welfare programmes during its governments in Uttar Pradesh."
+  ],
+
+  "criticisms": [
+    "Critics have questioned expenditure on parks and memorials during BSP governments.",
+    "The party has faced criticism regarding its electoral performance in recent national elections.",
+    "Political analysts have discussed organisational challenges and declining vote share in some regions.",
+    "Opposition parties have criticised aspects of governance during BSP administrations."
+  ],
+
+  "protests": [
+    "Campaigns advocating reservation and social justice.",
+    "Public demonstrations on issues affecting Scheduled Castes and other disadvantaged communities.",
+    "Participation in protests concerning constitutional and social equality issues."
+  ],
+
+  "majorSchemes": [
+    "Ambedkar Village Development Programme",
+    "Social Welfare Initiatives",
+    "Infrastructure Development Projects",
+    "Housing and Rural Development Initiatives",
+    "Scholarship Programmes for Students"
+  ],
+
+  "timeline": [
+    "1984 - Bahujan Samaj Party founded by Kanshi Ram.",
+    "1989 - Won representation in the Lok Sabha.",
+    "1995 - Mayawati became the first BSP Chief Minister of Uttar Pradesh.",
+    "1997 - BSP again formed the government in Uttar Pradesh.",
+    "2002 - BSP returned to government in Uttar Pradesh.",
+    "2007 - BSP won a majority in the Uttar Pradesh Assembly election.",
+    "2012 - Lost power in Uttar Pradesh.",
+    "2019 - Contested Lok Sabha election in alliance with Samajwadi Party in Uttar Pradesh.",
+    "2024 - Contested Lok Sabha election independently."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 4.19,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "SP-BSP Alliance (Uttar Pradesh)",
+      "seatsWon": 10,
+      "voteShare": 3.63,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 0,
+      "voteShare": 2.04,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Uttar Pradesh",
+      "status": "Governed multiple times between 1995 and 2012"
+    }
+  ],
+
+  "gallery": [
+    "bsp1.jpg",
+    "bsp2.jpg",
+    "bsp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "party_journey.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was BSP founded?",
+      "answer": "The Bahujan Samaj Party was founded on 14 April 1984."
+    },
+    {
+      "question": "Who founded BSP?",
+      "answer": "Kanshi Ram founded the Bahujan Samaj Party."
+    },
+    {
+      "question": "What is BSP's election symbol?",
+      "answer": "The Elephant."
+    },
+    {
+      "question": "Who is the current national president of BSP?",
+      "answer": "Mayawati."
+    },
+    {
+      "question": "In which state has BSP formed governments?",
+      "answer": "BSP has formed governments in Uttar Pradesh on multiple occasions."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.bspindia.org",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

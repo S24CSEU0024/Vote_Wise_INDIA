@@ -1,0 +1,180 @@
+{
+  "name": "Indian National Congress",
+  "shortName": "INC",
+
+  "description": "The Indian National Congress (INC) is one of India's oldest political parties. Founded in 1885, it played a central role in India's freedom movement and has led several Union Governments after independence.",
+
+  "assets": {
+    "logo": "/logos/congress.png",
+    "flag": "/flags/congress_flag.png",
+    "symbol": "/symbols/hand.png",
+    "gallery": [
+      "/gallery/congress1.jpg",
+      "/gallery/congress2.jpg",
+      "/gallery/congress3.jpg"
+    ],
+    "manifesto": "/manifestos/congress2024.pdf"
+  },
+
+  "themeColor": "#1976D2",
+
+  "symbolName": "Hand",
+
+  "founded": "28 December 1885",
+
+  "founders": [
+    "Allan Octavian Hume",
+    "Dinshaw Wacha",
+    "Dadabhai Naoroji"
+  ],
+
+  "headquarters": "24 Akbar Road, New Delhi",
+
+  "website": "https://www.inc.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Mallikarjun Kharge",
+
+  "alliance": "INDIA",
+
+  "ideology": [
+    "Centre-left",
+    "Social Liberalism",
+    "Secularism",
+    "Democracy",
+    "Social Justice"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {},
+
+  "achievements": [
+    "Played a major role in India's freedom movement.",
+    "Led the first Government of independent India.",
+    "Economic liberalisation reforms initiated in 1991.",
+    "Right to Information Act (RTI).",
+    "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA).",
+    "National Food Security Act.",
+    "National Rural Health Mission.",
+    "Expansion of higher education institutions.",
+    "Growth of the Information Technology sector during UPA years.",
+    "Introduction of Aadhaar during the UPA government."
+  ],
+
+  "criticisms": [
+    "The Emergency period (1975–1977) remains one of the party's most debated decisions.",
+    "Corruption allegations during different periods in office.",
+    "Critics have questioned governance and policy implementation in various periods.",
+    "Internal leadership and organisational challenges have been discussed by political analysts."
+  ],
+
+  "protests": [
+    "Participation in nationwide protests on economic and social issues while in opposition.",
+    "Public demonstrations on unemployment, inflation and agricultural issues."
+  ],
+
+  "majorSchemes": [
+    "MGNREGA",
+    "Right to Information Act",
+    "National Food Security Act",
+    "National Rural Health Mission",
+    "Aadhaar",
+    "Jawaharlal Nehru National Urban Renewal Mission"
+  ],
+
+  "timeline": [
+    "1885 - Party founded.",
+    "1947 - Led the first Government of independent India.",
+    "1950s–1960s - Led nation-building and industrial development.",
+    "1975 - National Emergency declared.",
+    "1991 - Economic liberalisation reforms.",
+    "2004 - Formed the UPA Government.",
+    "2009 - Re-elected to lead the UPA Government.",
+    "2014 - Became principal opposition party.",
+    "2024 - Improved Lok Sabha performance compared with 2019."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA",
+      "seatsWon": 44,
+      "voteShare": 19.52,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA",
+      "seatsWon": 52,
+      "voteShare": 19.49,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA",
+      "seatsWon": 99,
+      "voteShare": 21.19,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Himachal Pradesh",
+      "status": "Current"
+    },
+    {
+      "state": "Karnataka",
+      "status": "Current"
+    },
+    {
+      "state": "Telangana",
+      "status": "Current"
+    }
+  ],
+
+  "gallery": [
+    "congress1.jpg",
+    "congress2.jpg",
+    "congress3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "manifesto.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was the Indian National Congress founded?",
+      "answer": "The Indian National Congress was founded on 28 December 1885."
+    },
+    {
+      "question": "What is the election symbol of Congress?",
+      "answer": "The Hand."
+    },
+    {
+      "question": "Which alliance is Congress part of?",
+      "answer": "The INDIA alliance."
+    },
+    {
+      "question": "What role did Congress play in the freedom movement?",
+      "answer": "The party was a principal political organisation in India's independence movement and included many prominent national leaders."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.inc.in",
+    "twitter": "https://x.com/INCIndia",
+    "facebook": "https://www.facebook.com/IndianNationalCongress",
+    "instagram": "https://www.instagram.com/incindia",
+    "youtube": "https://www.youtube.com/@incindia"
+  }
+}

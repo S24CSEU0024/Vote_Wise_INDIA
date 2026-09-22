@@ -1,0 +1,189 @@
+{
+  "name": "Nationalist Congress Party",
+  "shortName": "NCP",
+
+  "description": "The Nationalist Congress Party (NCP) is an Indian political party founded in 1999 by Sharad Pawar, P. A. Sangma and Tariq Anwar after separating from the Indian National Congress. The party has its main base in Maharashtra and follows principles of democracy, secularism, social justice, federalism and economic development. NCP has played an important role in Maharashtra politics and has participated in coalition governments at both state and national levels.",
+
+  "assets": {
+    "logo": "/logos/ncp.png",
+    "flag": "/flags/ncp_flag.png",
+    "symbol": "/symbols/clock.png",
+    "gallery": [
+      "/gallery/ncp1.jpg",
+      "/gallery/ncp2.jpg",
+      "/gallery/ncp3.jpg"
+    ],
+    "manifesto": "/manifestos/ncp2024.pdf"
+  },
+
+  "themeColor": "#003399",
+
+  "symbolName": "Clock",
+
+  "founded": "25 May 1999",
+
+  "founders": [
+    "Sharad Pawar",
+    "P. A. Sangma",
+    "Tariq Anwar"
+  ],
+
+  "headquarters": "New Delhi, India",
+
+  "website": "https://www.ncp.org.in",
+
+  "email": "",
+
+  "phone": "",
+
+  "currentLeader": "Ajit Pawar (NCP faction) / Sharad Pawar (NCP-SP faction)",
+
+  "alliance": "Varies by faction; NCP (Ajit Pawar) aligned with NDA, NCP (Sharad Pawar) aligned with INDIA Alliance",
+
+  "ideology": [
+    "Democratic Socialism",
+    "Secularism",
+    "Social Justice",
+    "Federalism",
+    "Agricultural Development",
+    "Economic Growth",
+    "Cooperative Movement"
+  ],
+
+  "currentPMCandidate": "Not officially declared",
+
+  "ministers": {
+    "Union Ministers": {
+      "Former Union Minister": "Sharad Pawar"
+    },
+    "State Ministers": {
+      "Former Maharashtra Chief Ministers": [
+        "Sharad Pawar"
+      ]
+    }
+  },
+
+  "achievements": [
+    "Played a major role in Maharashtra coalition governments.",
+    "Sharad Pawar served multiple terms as Chief Minister of Maharashtra before founding NCP.",
+    "Supported development of agriculture and cooperative institutions in Maharashtra.",
+    "Held important Union government portfolios including Agriculture.",
+    "Contributed to expansion of cooperative banking and sugar industries in Maharashtra.",
+    "Participated in the United Progressive Alliance (UPA) government from 2004 to 2014.",
+    "Worked on policies related to farmers, rural development and food security.",
+    "Maintained influence in Maharashtra's political landscape for decades."
+  ],
+
+  "criticisms": [
+    "Opposition parties have accused NCP leaders of corruption and misuse of power.",
+    "The party has faced criticism over family-based leadership structure.",
+    "The 2023 split between Sharad Pawar and Ajit Pawar factions created internal conflicts.",
+    "Critics have questioned frequent alliance changes by party leaders.",
+    "Opponents have raised concerns regarding influence of cooperative sector politics."
+  ],
+
+  "protests": [
+    "Campaigns supporting farmers' rights and agricultural reforms.",
+    "Protests regarding unemployment and economic issues.",
+    "Movements supporting reservation policies.",
+    "Campaigns for federal rights of states.",
+    "Demonstrations on issues affecting Maharashtra farmers."
+  ],
+
+  "majorSchemes": [
+    "Agricultural Development Programmes",
+    "Farmer Welfare Initiatives",
+    "Cooperative Sector Development",
+    "Rural Development Schemes",
+    "Women Empowerment Programmes",
+    "Maharashtra Infrastructure Development Initiatives"
+  ],
+
+  "timeline": [
+    "1999 - Nationalist Congress Party founded by Sharad Pawar, P. A. Sangma and Tariq Anwar.",
+    "1999 - NCP formed alliance with Congress in Maharashtra and joined state government.",
+    "2004 - NCP became part of the UPA alliance at the national level.",
+    "2009 - NCP continued participation in UPA government.",
+    "2014 - NCP contested Maharashtra Assembly elections independently.",
+    "2019 - NCP, Congress and Shiv Sena formed the Maha Vikas Aghadi government in Maharashtra.",
+    "2021 - Sharad Pawar remained a key opposition leader nationally.",
+    "2023 - Ajit Pawar split from Sharad Pawar and joined the Maharashtra government.",
+    "2024 - NCP factions contested Lok Sabha elections under different alliances."
+  ],
+
+  "electionResults": [
+    {
+      "year": 2014,
+      "electionType": "Lok Sabha",
+      "alliance": "Independent",
+      "seatsWon": 6,
+      "voteShare": 1.6,
+      "governmentFormed": false
+    },
+    {
+      "year": 2019,
+      "electionType": "Lok Sabha",
+      "alliance": "UPA Alliance",
+      "seatsWon": 5,
+      "voteShare": 1.5,
+      "governmentFormed": false
+    },
+    {
+      "year": 2024,
+      "electionType": "Lok Sabha",
+      "alliance": "INDIA Alliance (NCP-SP faction)",
+      "seatsWon": 8,
+      "voteShare": 1.9,
+      "governmentFormed": false
+    }
+  ],
+
+  "statesGoverned": [
+    {
+      "state": "Maharashtra",
+      "status": "Participated in coalition governments multiple times (1999–2014, 2019–2022)"
+    }
+  ],
+
+  "gallery": [
+    "ncp1.jpg",
+    "ncp2.jpg",
+    "ncp3.jpg"
+  ],
+
+  "videos": [
+    "history.mp4",
+    "leadership.mp4"
+  ],
+
+  "faqs": [
+    {
+      "question": "When was NCP founded?",
+      "answer": "The Nationalist Congress Party was founded on 25 May 1999."
+    },
+    {
+      "question": "Who founded NCP?",
+      "answer": "NCP was founded by Sharad Pawar, P. A. Sangma and Tariq Anwar."
+    },
+    {
+      "question": "What is the election symbol of NCP?",
+      "answer": "The Clock."
+    },
+    {
+      "question": "Who is the current leader of NCP?",
+      "answer": "The party split into factions led by Ajit Pawar and Sharad Pawar."
+    },
+    {
+      "question": "Which state is the main base of NCP?",
+      "answer": "Maharashtra."
+    }
+  ],
+
+  "socialMedia": {
+    "website": "https://www.ncp.org.in",
+    "twitter": "https://x.com/ncp",
+    "facebook": "https://www.facebook.com/nationalistcongressparty",
+    "instagram": "https://www.instagram.com/ncp",
+    "youtube": "https://www.youtube.com/@NCPOfficial"
+  }
+}
