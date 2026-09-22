@@ -1,0 +1,19 @@
+{
+  "name": "votewise-india",
+  "version": "1.0.0",
+  "description": "VoteWise India - Unified Fullstack Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js"
+  },
+  "keywords": [
+    "election",
+    "india",
+    "voting",
+    "react",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
