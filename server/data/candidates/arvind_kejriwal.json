@@ -3,16 +3,202 @@
   "party": "AAP",
   "state": "Delhi",
   "constituency": "New Delhi",
-  "position": "National Convenor",
-  "age": 58,
-  "education": "B.Tech (Mechanical Engineering), IIT Kharagpur",
-  "experience": "Former Chief Minister of Delhi",
-  "achievements": [
-    "Mohalla Clinics",
-    "Delhi Education Reforms",
-    "Free electricity scheme",
-    "Doorstep government services",
-    "Happiness Curriculum"
+  "position": "National Convenor of Aam Aadmi Party",
+  "age": 57,
+  "education": "B.Tech in Mechanical Engineering (IIT Kharagpur, 1989), Civil Services (IRS, 1995)",
+  "profession": "Social Activist, Politician",
+  "experience": "Chief Minister of Delhi (2013–2014, 2015–2020, 2020–2024), Ramon Magsaysay Awardee (2006)",
+  "image": "/images/candidates/arvind_kejriwal.jpg",
+  "biography": "Arvind Kejriwal is an Indian politician, activist, and former bureaucrat who served as the 7th Chief Minister of Delhi across three terms between 2013 and 2024. A graduate of IIT Kharagpur and former Joint Commissioner of Income Tax, Kejriwal rose to national prominence as a key leader in the 2011 India Against Corruption movement alongside Anna Hazare. In 2012, he founded the Aam Aadmi Party (AAP), transforming grassroots civic activism into an electoral force centered on high-quality public schooling, primary healthcare through Mohalla Clinics, and subsidized utilities. Under his leadership, AAP expanded from a regional Delhi party to achieving National Party status in 2023 with a landslide majority in Punjab.",
+  "earlyLife": "Born on 16 August 1968 in Siwani, Bhiwani district, Haryana to an upper-middle-class family. After graduating in mechanical engineering from IIT Kharagpur in 1989, he worked at Tata Steel before joining the Indian Revenue Service (IRS) as an Assistant Commissioner of Income Tax in 1995. In 1999, while still in service, he co-founded Parivartan, an NGO that assisted citizens with tax transparency, public distribution system leaks, and electricity grievances.",
+  "politicalJourney": [
+    {
+      "year": "2006",
+      "title": "Ramon Magsaysay Award & RTI Advocacy",
+      "description": "Awarded the Ramon Magsaysay Award for Emergent Leadership for activating the grassroots Right to Information movement and empowering poor citizens against municipal graft."
+    },
+    {
+      "year": "2011",
+      "title": "India Against Corruption Movement",
+      "description": "Helped spearhead the nationwide Jan Lokpal anti-corruption movement at Ramlila Maidan alongside Anna Hazare, demanding an independent ombudsman."
+    },
+    {
+      "year": "2012",
+      "title": "Formation of Aam Aadmi Party",
+      "description": "Officially launched AAP on 26 November 2012, asserting that electoral participation was necessary to clean systemic political corruption."
+    },
+    {
+      "year": "2013",
+      "title": "Electoral Upset & 49-Day Government",
+      "description": "Defeated three-term Chief Minister Sheila Dikshit by over 25,000 votes in New Delhi constituency. Formed a minority government for 49 days before resigning over the stalled Jan Lokpal Bill."
+    },
+    {
+      "year": "2015",
+      "title": "Historic Landslide (67/70 Seats)",
+      "description": "Led AAP to an unprecedented landslide victory, winning 67 out of 70 seats in the Delhi Assembly with a 54.34% vote share."
+    },
+    {
+      "year": "2020",
+      "title": "Re-election on Governance Mandate",
+      "description": "Secured a second sweeping majority winning 62 out of 70 seats in Delhi on the basis of public school reforms, Mohalla clinics, and free bus transit for women."
+    },
+    {
+      "year": "2022–2024",
+      "title": "Punjab Expansion & National Party Status",
+      "description": "AAP swept Punjab with 92 of 117 seats in 2022 and won seats in Gujarat and Goa, fulfilling Election Commission criteria to be recognized as India's 6th National Party."
+    }
   ],
-  "image": "arvind_kejriwal.jpg"
+  "partyAssociation": "Aam Aadmi Party (AAP)",
+  "partyReason": "Founding National Convenor, championing participatory swaraj, corruption-free governance, and the 'Delhi Model' of universal public goods.",
+  "politicalMotivation": "Reimagining state governance around high-standard public education, community healthcare, clean energy access, and transparent municipal management.",
+  "priorities": [
+    {
+      "title": "Delhi Model of Public Education",
+      "description": "Modernizing government school infrastructure, international teacher training programs, and introducing the Happiness and Entrepreneurship curricula."
+    },
+    {
+      "title": "Universal Primary Healthcare (Mohalla Clinics)",
+      "description": "Establishing neighborhood clinics providing free diagnostics, consultation, and essential medications within 1 km of every resident."
+    },
+    {
+      "title": "Lifeline Utility Subsidies",
+      "description": "Zero electricity bills up to 200 units, free 20,000 liters of household drinking water monthly, and free bus travel for women."
+    },
+    {
+      "title": "Full Statehood for National Capital Territory",
+      "description": "Advocating for democratic control of land, police, and public order by Delhi's elected government."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2020,
+      "election": "Delhi Legislative Assembly",
+      "constituency": "New Delhi",
+      "party": "AAP",
+      "result": "Won",
+      "votes": 46758,
+      "voteShare": 61.70
+    },
+    {
+      "year": 2015,
+      "election": "Delhi Legislative Assembly",
+      "constituency": "New Delhi",
+      "party": "AAP",
+      "result": "Won",
+      "votes": 57213,
+      "voteShare": 64.34
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "AAP",
+      "result": "Lost",
+      "votes": 209238,
+      "voteShare": 20.30
+    },
+    {
+      "year": 2013,
+      "election": "Delhi Legislative Assembly",
+      "constituency": "New Delhi",
+      "party": "AAP",
+      "result": "Won",
+      "votes": 44269,
+      "voteShare": 53.46
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Chief Minister of Delhi",
+      "from": "2020",
+      "to": "2024"
+    },
+    {
+      "position": "Chief Minister of Delhi",
+      "from": "2015",
+      "to": "2020"
+    },
+    {
+      "position": "Chief Minister of Delhi",
+      "from": "2013",
+      "to": "2014"
+    },
+    {
+      "position": "Member of Legislative Assembly (Delhi - New Delhi)",
+      "from": "2013",
+      "to": "Present"
+    },
+    {
+      "position": "National Convenor, Aam Aadmi Party",
+      "from": "2012",
+      "to": "Present"
+    }
+  ],
+  "achievements": [
+    "Established 500+ Aam Aadmi Mohalla Clinics offering 200+ free medical diagnostic tests and medicines",
+    "Turned around Delhi government school pass percentages, consistently outperforming private schools in CBSE Board results",
+    "Initiated 'Farishtey Dilli Ke' scheme providing free trauma treatment to accident victims regardless of financial background",
+    "Implemented 100% free bus transit for women commuters across DTC and cluster bus fleets",
+    "Built 24x7 doorstep delivery of over 100 public government certificates and services",
+    "Expanded AAP from an activist startup into a recognized National Party governing two distinct states (Delhi and Punjab)"
+  ],
+  "criticisms": [
+    {
+      "title": "2021–22 Delhi Excise Policy Investigation",
+      "description": "Allegations by investigative agencies of irregularities in the formulation and implementation of Delhi's now-scrapped liquor policy, resulting in his arrest in March 2024.",
+      "year": 2024,
+      "category": "Policy & Law",
+      "response": "AAP asserted the policy was aimed at dismantling liquor cartels and that the cases were politically motivated; the Supreme Court granted him regular bail in September 2024.",
+      "source": "Supreme Court Bail Judgment (Criminal Appeal No. 3819/2024)",
+      "sourceUrl": "https://main.sci.gov.in"
+    },
+    {
+      "title": "Official Residence Renovation Debate ('Sheesh Mahal')",
+      "description": "Opposition criticized expenditures of approximately ₹45-50 crore on the renovation and interior work of the 6 Flagstaff Road Chief Minister's official bungalow.",
+      "year": 2023,
+      "category": "Public Expenditure",
+      "response": "Government stated the 80-year-old heritage bungalow was dilapidated with falling ceilings and that PWD executed structural renovations per official CPWD safety norms.",
+      "source": "Delhi Public Works Department (PWD) Audit Statements",
+      "sourceUrl": "https://delhi.gov.in"
+    },
+    {
+      "title": "Persistent Conflicts with Lieutenant Governor",
+      "description": "Frequent administrative standoffs over control of civil services, appointments, and policy clearances between the elected government and the Centre-appointed LG.",
+      "year": 2023,
+      "category": "Federal Governance",
+      "response": "Kejriwal cited the Supreme Court Constitution Bench judgments upholding the primacy of the elected cabinet over civil servants in the National Capital.",
+      "source": "Supreme Court Constitution Bench Judgment (2023 INSC 518)",
+      "sourceUrl": "https://main.sci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Resignation as Chief Minister in February 2014 after just 49 days, later publicly apologizing to Delhi voters and pledging a stable 5-year tenure in 2015.",
+    "Internal party purges in 2015 that resulted in the expulsion of founding leaders Prashant Bhushan and Yogendra Yadav over disagreements on internal democracy.",
+    "Resignation as Chief Minister in September 2024 following bail release to seek a fresh electoral mandate from the people of Delhi."
+  ],
+  "publications": [
+    "Swaraj (HarperCollins India, 2012)"
+  ],
+  "officialWebsite": "https://aamaadmiparty.org",
+  "socialMedia": {
+    "website": "https://aamaadmiparty.org",
+    "twitter": "https://twitter.com/ArvindKejriwal",
+    "facebook": "https://facebook.com/AAPkaArvind",
+    "instagram": "https://instagram.com/arvindkejriwal",
+    "youtube": "https://youtube.com/aamaadmiparty"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (New Delhi 2020)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Delhi Legislative Assembly Official Member Directory",
+      "url": "https://delhiassembly.nic.in"
+    },
+    {
+      "title": "Ramon Magsaysay Award Foundation Citation (2006)",
+      "url": "https://www.rmaward.asia"
+    }
+  ]
 }

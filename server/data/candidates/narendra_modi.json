@@ -1,23 +1,212 @@
 {
   "name": "Narendra Modi",
   "party": "BJP",
-  "state": "Gujarat",
+  "state": "Uttar Pradesh",
   "constituency": "Varanasi",
-  "position": "Prime Minister",
+  "position": "Prime Minister of India",
   "age": 75,
-  "education": "Bachelor of Arts (Distance Education)",
+  "education": "Bachelor of Arts (Delhi University, 1978), Master of Arts in Political Science (Gujarat University, 1983)",
+  "profession": "Politician, Public Servant",
   "experience": "Chief Minister of Gujarat (2001–2014), Prime Minister of India (2014–Present)",
-  "achievements": [
-    "Digital India Mission",
-    "Ayushman Bharat",
-    "Make in India",
-    "Startup India",
-    "GST Implementation",
-    "Article 370 Abrogation",
-    "Ram Mandir Inauguration",
-    "Expansion of National Highways",
-    "UPI Digital Payment Revolution",
-    "International Solar Alliance"
+  "image": "/images/candidates/narendra_modi.jpg",
+  "biography": "Narendra Damodardas Modi is an Indian politician who has been serving as the 14th Prime Minister of India since May 2014. He previously served as the Chief Minister of Gujarat from October 2001 to May 2014 and is the Member of Parliament for Varanasi. He is the longest-serving non-Congress Prime Minister and the second-longest-serving Prime Minister in Indian history after Jawaharlal Nehru. Under his tenure, India has emerged as the world's fifth-largest economy and championed digital public infrastructure, green energy transitions, and comprehensive infrastructure modernization.",
+  "earlyLife": "Born on 17 September 1950 to a Gujarati family in Vadnagar, Mehsana district, Bombay State (present-day Gujarat). He assisted his father selling tea at the Vadnagar railway station and later ran a tea stall with his brother. Modi was introduced to the Rashtriya Swayamsevak Sangh (RSS) at age eight, becoming a full-time worker (pracharak) in 1971 after leaving home to travel across India.",
+  "politicalJourney": [
+    {
+      "year": "1987",
+      "title": "Entry into Mainstream Electoral Politics",
+      "description": "Modi was assigned by the RSS to the Bharatiya Janata Party (BJP) and became Organizing Secretary of the Gujarat state unit, helping secure the party's municipal and state election victories."
+    },
+    {
+      "year": "1995",
+      "title": "National Secretary of BJP",
+      "description": "Appointed BJP National Secretary, handling party affairs in northern states including Haryana and Himachal Pradesh, leading to subsequent coalition election victories."
+    },
+    {
+      "year": "2001",
+      "title": "Chief Minister of Gujarat",
+      "description": "Sworn in as Chief Minister of Gujarat on 7 October 2001, replacing Keshubhai Patel. Initiated the reconstruction of Kutch post-earthquake and structural governance reforms."
+    },
+    {
+      "year": "2002–2012",
+      "title": "Three Consecutive Gujarat Assembly Victories",
+      "description": "Led BJP to successive election victories in 2002, 2007, and 2012, pioneering the 'Vibrant Gujarat' global investment summits and agricultural electrification (Jyotigram Yojana)."
+    },
+    {
+      "year": "2014",
+      "title": "Historic Lok Sabha Victory as Prime Minister",
+      "description": "Nominated as BJP's Prime Ministerial candidate for the 2014 general election. Led NDA to 336 seats, with BJP winning 282 seats—the first single-party majority in 30 years."
+    },
+    {
+      "year": "2019",
+      "title": "Re-elected with Enhanced National Mandate",
+      "description": "Led the BJP to an increased majority of 303 seats in the 2019 Lok Sabha elections, expanding the party's presence in eastern and southern India."
+    },
+    {
+      "year": "2024",
+      "title": "Third Consecutive Term as Prime Minister",
+      "description": "Returned as Prime Minister heading the National Democratic Alliance government, equaling Jawaharlal Nehru's record of three successive electoral terms."
+    }
   ],
-  "image": "narendra_modi.jpg"
+  "partyAssociation": "Bharatiya Janata Party (BJP)",
+  "partyReason": "Deeply grounded in the RSS and BJP's guiding philosophy of 'Antyodaya' (uplifting the last person in society), cultural nationalism, and economic self-reliance (Atmanirbhar Bharat).",
+  "politicalMotivation": "Transforming India into a developed nation ('Viksit Bharat 2047'), eliminating corruption through digital governance, and enhancing India's strategic stature globally.",
+  "priorities": [
+    {
+      "title": "Viksit Bharat 2047",
+      "description": "Long-term development roadmap focusing on economic growth, self-reliance, and advanced technological manufacturing."
+    },
+    {
+      "title": "Digital Public Infrastructure",
+      "description": "Universal financial inclusion via the JAM Trinity (Jan Dhan-Aadhaar-Mobile), UPI open payments, and open digital ecosystems."
+    },
+    {
+      "title": "Modern Infrastructure & Logistics",
+      "description": "Transforming national transportation via PM Gati Shakti, Dedicated Freight Corridors, Bharatmala, and high-speed rail."
+    },
+    {
+      "title": "Renewable Energy Leadership",
+      "description": "Accelerating green hydrogen, solar expansion, and achieving 500 GW of non-fossil energy capacity by 2030."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 612970,
+      "voteShare": 54.24
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 674664,
+      "voteShare": 63.62
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 581022,
+      "voteShare": 56.37
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Vadodara (Gujarat)",
+      "party": "BJP",
+      "result": "Won (Resigned seat)",
+      "votes": 845464,
+      "voteShare": 72.75
+    },
+    {
+      "year": 2012,
+      "election": "Gujarat Legislative Assembly",
+      "constituency": "Maninagar",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 120470,
+      "voteShare": 67.99
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Prime Minister of India",
+      "from": "2014",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Varanasi)",
+      "from": "2014",
+      "to": "Present"
+    },
+    {
+      "position": "Chief Minister of Gujarat",
+      "from": "2001",
+      "to": "2014"
+    },
+    {
+      "position": "Member of Legislative Assembly (Gujarat - Maninagar)",
+      "from": "2002",
+      "to": "2014"
+    }
+  ],
+  "achievements": [
+    "Pradhan Mantri Jan Dhan Yojana: Opened over 500 million bank accounts for unbanked citizens",
+    "Digital India & UPI Revolution: Processed over 10 billion instant digital transactions monthly",
+    "Ayushman Bharat (PM-JAY): World's largest health assurance scheme covering 550 million vulnerable citizens",
+    "Swachh Bharat Mission: Constructed over 110 million household toilets achieving nationwide ODF status",
+    "PM Ujjwala Yojana: Provided free LPG gas connections to over 100 million underprivileged rural households",
+    "Infrastructure Expansion: Doubled national highways network to over 145,000 km and electrified 95%+ of rail tracks",
+    "Abrogation of Article 370: Integrated Jammu & Kashmir fully into the constitutional framework of India",
+    "International Solar Alliance: Co-founded global intergovernmental initiative promoting clean solar energy across 120+ countries"
+  ],
+  "criticisms": [
+    {
+      "title": "2016 Demonetisation Shock",
+      "description": "Sudden withdrawal of ₹500 and ₹1,000 banknotes caused short-term economic disruption, informal sector liquidity contraction, and long ATM queues.",
+      "year": 2016,
+      "category": "Economic Policy",
+      "response": "Government stated it formalized the economy, expanded digital payments, improved tax compliance, and curbed fake currency circulation.",
+      "source": "Reserve Bank of India Reports & Parliamentary Debates",
+      "sourceUrl": "https://rbi.org.in"
+    },
+    {
+      "title": "2020 Farm Laws Debate and Repeal",
+      "description": "Three agricultural deregulation laws faced sustained protests from farmer unions across Punjab, Haryana, and Western UP, leading to their repeal in November 2021.",
+      "year": 2021,
+      "category": "Agriculture & Governance",
+      "response": "Government maintained laws were intended to give farmers choice to sell outside APMCs, but repealed them in the national interest after consultation.",
+      "source": "Parliament of India Records",
+      "sourceUrl": "https://sansad.in"
+    },
+    {
+      "title": "Debate on Central Investigative Agencies",
+      "description": "Opposition parties frequently allege selective scrutiny and investigation of non-BJP leaders by the Enforcement Directorate (ED) and CBI.",
+      "year": 2024,
+      "category": "Democratic Institutions",
+      "response": "Government maintains agencies operate autonomously under statutory mandates and that zero tolerance for corruption applies equally to all public figures.",
+      "source": "Supreme Court of India Proceedings",
+      "sourceUrl": "https://main.sci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Sustained political scrutiny over the 2002 Gujarat riots, though a Supreme Court-appointed Special Investigation Team (SIT) cleared Modi of complicity in 2012 (upheld by Supreme Court in 2022).",
+    "Introduction and subsequent Supreme Court striking down of the Electoral Bonds scheme in February 2024 on grounds of voter right to information.",
+    "Debates around national employment data, manufacturing job creation pace, and youth unemployment statistics."
+  ],
+  "publications": [
+    "Exam Warriors (Penguin India, 2018)",
+    "Convenient Action: Gujarat's Response to Challenges of Climate Change (2010)",
+    "Jyotipunj (Prabhat Prakashan, 2008)"
+  ],
+  "officialWebsite": "https://www.narendramodi.in",
+  "socialMedia": {
+    "website": "https://www.pmindia.gov.in",
+    "twitter": "https://twitter.com/narendramodi",
+    "facebook": "https://facebook.com/narendramodi",
+    "instagram": "https://instagram.com/narendramodi",
+    "youtube": "https://youtube.com/narendramodi"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Varanasi 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Prime Minister's Office Official Portal (PMINDIA)",
+      "url": "https://www.pmindia.gov.in"
+    },
+    {
+      "title": "Lok Sabha Secretariat Member Profile",
+      "url": "https://sansad.in/ls"
+    }
+  ]
 }

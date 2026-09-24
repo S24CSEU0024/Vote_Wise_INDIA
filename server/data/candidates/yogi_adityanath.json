@@ -2,17 +2,208 @@
   "name": "Yogi Adityanath",
   "party": "BJP",
   "state": "Uttar Pradesh",
-  "constituency": "Gorakhpur",
-  "position": "Chief Minister",
-  "age": 54,
-  "education": "B.Sc. Mathematics",
-  "experience": "Five-time MP, Chief Minister since 2017",
-  "achievements": [
-    "Expressway projects",
-    "Law and order reforms",
-    "Infrastructure development",
-    "Religious tourism development",
-    "Investment summits"
+  "constituency": "Gorakhpur Urban",
+  "position": "Chief Minister of Uttar Pradesh",
+  "age": 53,
+  "education": "B.Sc. in Mathematics (Hemwati Nandan Bahuguna Garhwal University, 1992)",
+  "profession": "Spiritual Leader, Politician",
+  "experience": "Chief Minister of Uttar Pradesh (2017–Present), 5-term Member of Parliament for Gorakhpur (1998–2017), Mahant of Gorakhnath Math",
+  "image": "/images/candidates/yogi_adityanath.jpg",
+  "biography": "Yogi Adityanath (born Ajay Mohan Singh Bisht) is an Indian monk and Bharatiya Janata Party politician serving as the 21st Chief Minister of Uttar Pradesh since March 2017. He is the Mahant (Head Priest) of the Gorakhnath Math, a Hindu monastic order based in Gorakhpur. He represented the Gorakhpur parliamentary constituency in the Lok Sabha for five consecutive terms from 1998 to 2017, first elected at the age of 26. In 2022, he led the BJP to a historic consecutive majority in Uttar Pradesh—the first time a Chief Minister completed a full five-year term and returned to power in the state in 37 years. His governance tenure is known for a strict 'zero-tolerance' approach to law and order, large-scale industrial expressway infrastructure, and aggressive religious tourism development.",
+  "earlyLife": "Born on 5 June 1972 in the village of Panchur, Pauri Garhwal district (now in Uttarakhand). He completed his Bachelor's degree in Mathematics from HNB Garhwal University. In the early 1990s, during the Ram Janmabhoomi movement, he left home to become a disciple of Mahant Avaidyanath of the Gorakhnath Math in Gorakhpur, taking the monastic vows of a sannyasi and adopting the name Yogi Adityanath.",
+  "politicalJourney": [
+    {
+      "year": "1998",
+      "title": "Youngest MP in the 12th Lok Sabha",
+      "description": "Succeeded his spiritual guru Mahant Avaidyanath as the candidate for Gorakhpur, becoming the youngest MP in the 12th Lok Sabha at age 26."
+    },
+    {
+      "year": "1999–2014",
+      "title": "Five Consecutive Terms as MP",
+      "description": "Re-elected from Gorakhpur in 1999, 2004, 2009, and 2014 with escalating victory margins, building a dedicated regional following."
+    },
+    {
+      "year": "2014",
+      "title": "Head of Gorakhnath Math",
+      "description": "Formally anointed as the Mahant (head priest) of the influential Gorakhnath Math following the demise of Mahant Avaidyanath."
+    },
+    {
+      "year": "2017",
+      "title": "Chief Minister of Uttar Pradesh",
+      "description": "Appointed Chief Minister on 19 March 2017 after the BJP swept the state with 312 out of 403 assembly seats. Launched anti-mafia crackdowns and administrative overhauls."
+    },
+    {
+      "year": "2022",
+      "title": "Historic Re-election as Chief Minister",
+      "description": "Contested from Gorakhpur Urban and won by over 103,000 votes. Became the first UP Chief Minister in 37 years to win re-election after completing a full 5-year term."
+    }
   ],
-  "image": "yogi_adityanath.jpg"
+  "partyAssociation": "Bharatiya Janata Party (BJP)",
+  "partyReason": "Ideologically aligned with Hindutva, cultural nationalism, Gorakhnath monastic traditions, and the BJP's national vision of economic modernization paired with civilizational heritage.",
+  "politicalMotivation": "Transforming Uttar Pradesh into a $1 trillion state economy, establishing an uncompromising rule of law, and building world-class expressway networks.",
+  "priorities": [
+    {
+      "title": "Zero-Tolerance Law & Order Policy",
+      "description": "Decisive action against organized crime syndicates, seizing illegal properties under the Gangsters Act, and enhancing women's safety through dedicated missions."
+    },
+    {
+      "title": "$1 Trillion Economy Vision",
+      "description": "Attracting domestic and global corporate investments in IT, defense corridors, semiconductors, data centers, and manufacturing."
+    },
+    {
+      "title": "Expressway & Infrastructure Network",
+      "description": "Building India's largest expressway network (Purvanchal, Bundelkhand, Ganga, and Gorakhpur Link Expressways) connecting all corners of UP."
+    },
+    {
+      "title": "Cultural Heritage & Pilgrimage Corridors",
+      "description": "Modernizing major spiritual centers including Kashi Vishwanath Corridor, Ayodhya Dham development, and the Braj-Vrindavan revitalization."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2022,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Gorakhpur Urban",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 165499,
+      "voteShare": 66.18
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Gorakhpur (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 539127,
+      "voteShare": 51.80
+    },
+    {
+      "year": 2009,
+      "election": "15th Lok Sabha",
+      "constituency": "Gorakhpur (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 403272,
+      "voteShare": 53.85
+    },
+    {
+      "year": 2004,
+      "election": "14th Lok Sabha",
+      "constituency": "Gorakhpur (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 353643,
+      "voteShare": 51.31
+    },
+    {
+      "year": 1999,
+      "election": "13th Lok Sabha",
+      "constituency": "Gorakhpur (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 267382,
+      "voteShare": 41.28
+    },
+    {
+      "year": 1998,
+      "election": "12th Lok Sabha",
+      "constituency": "Gorakhpur (Uttar Pradesh)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 268298,
+      "voteShare": 42.60
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "2017",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Legislative Assembly (Gorakhpur Urban)",
+      "from": "2022",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Legislative Council (Uttar Pradesh)",
+      "from": "2017",
+      "to": "2022"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Gorakhpur)",
+      "from": "1998",
+      "to": "2017"
+    }
+  ],
+  "achievements": [
+    "Completed world-class expressway networks including Purvanchal (341 km) and Bundelkhand (296 km) ahead of schedule",
+    "Attracted over ₹33 lakh crore in investment commitments at the UP Global Investors Summit 2023",
+    "Transformed Ayodhya into a global spiritual destination with an international airport, modern railway station, and the Ram Mandir inauguration",
+    "Drastically curtailed organized mafia syndicates and gang networks, seizing over ₹3,000 crore worth of illicit properties",
+    "Transformed UP into a revenue-surplus state and elevated its GDP to become the second largest state economy in India",
+    "Achieved universal electrification in rural Uttar Pradesh under Saubhagya Yojana"
+  ],
+  "criticisms": [
+    {
+      "title": "Use of Bulldozers for Demolitions",
+      "description": "The practice of using municipal bulldozers to demolish residences and commercial structures of criminal suspects faced strong legal scrutiny.",
+      "year": 2024,
+      "category": "Civil Liberties & Due Process",
+      "response": "Government maintained demolitions targeted illegal encroachments and mafia land grabs adhering to municipal laws; the Supreme Court issued nationwide guidelines in 2024 regulating demolition due process.",
+      "source": "Supreme Court of India (Writ Petition (Civil) No. 295/2022)",
+      "sourceUrl": "https://main.sci.gov.in"
+    },
+    {
+      "title": "Police Encounters Scrutiny",
+      "description": "Human rights groups and opposition questioned the high frequency of police encounters and armed shootouts involving wanted criminals.",
+      "year": 2023,
+      "category": "Law Enforcement",
+      "response": "UP Police stated encounters occurred strictly in self-defense against armed gangsters, and all cases are subject to NHRC guidelines and magisterial inquiries.",
+      "source": "National Human Rights Commission (NHRC) Records",
+      "sourceUrl": "https://nhrc.nic.in"
+    },
+    {
+      "title": "Controversies over Speeches and Polarizing Rhetoric",
+      "description": "Past speeches before assuming executive office frequently drew complaints from opposition parties regarding communal polarization.",
+      "year": 2019,
+      "category": "Political Rhetoric",
+      "response": "Adityanath maintained his stance emphasizes 'Sabka Saath, Sabka Vikas' without appeasement or discrimination in welfare distribution.",
+      "source": "Election Commission Notices & UP Govt Statements",
+      "sourceUrl": "https://eci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Formation and leadership of the Hindu Yuva Vahini youth organization in 2002, which was subsequently disbanded after he assumed the Chief Ministership.",
+    "2007 Gorakhpur communal clashes and temporary arrest, where criminal proceedings were later dropped due to lack of state sanction.",
+    "Enactment of the Uttar Pradesh Prohibition of Unlawful Conversion of Religion Act in 2020, sparking constitutional debates regarding interfaith marriages."
+  ],
+  "publications": [
+    "Hathyog: Swaroop evam Sadhana",
+    "Yogik Kriyaen evam unke Labh",
+    "Rajyog: Swaroop evam Parampara"
+  ],
+  "officialWebsite": "https://www.yogiadityanath.in",
+  "socialMedia": {
+    "website": "https://up.gov.in",
+    "twitter": "https://twitter.com/myogiadityanath",
+    "facebook": "https://facebook.com/myogiadityanath",
+    "instagram": "https://instagram.com/myogi_adityanath",
+    "youtube": "https://youtube.com/myogiadityanath"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Gorakhpur Urban 2022)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Government of Uttar Pradesh Official Portal",
+      "url": "https://up.gov.in"
+    },
+    {
+      "title": "Uttar Pradesh Legislative Assembly Member Profile",
+      "url": "https://uplegisassembly.gov.in"
+    }
+  ]
 }

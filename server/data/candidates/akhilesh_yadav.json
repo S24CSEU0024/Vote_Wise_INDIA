@@ -3,16 +3,220 @@
   "party": "SP",
   "state": "Uttar Pradesh",
   "constituency": "Kannauj",
-  "position": "Party President",
-  "age": 53,
-  "education": "Master's in Environmental Engineering",
-  "experience": "Former Chief Minister of Uttar Pradesh",
-  "achievements": [
-    "Lucknow Metro",
-    "Agra-Lucknow Expressway",
-    "Laptop Distribution Scheme",
-    "UP Dial 100",
-    "Infrastructure development"
+  "position": "National President of Samajwadi Party & Member of Parliament",
+  "age": 52,
+  "education": "B.E. in Civil Environmental Engineering (JSS STU, Mysore), Master's in Environmental Engineering (University of Sydney, Australia)",
+  "profession": "Environmental Engineer, Agriculturist, Politician",
+  "experience": "Chief Minister of Uttar Pradesh (2012–2017), Leader of Opposition in UP Assembly (2022–2024), 5-term Member of Parliament",
+  "image": "/images/candidates/akhilesh_yadav.jpg",
+  "biography": "Akhilesh Yadav is an Indian politician and the National President of the Samajwadi Party who served as the 20th Chief Minister of Uttar Pradesh from 2012 to 2017. Taking office at the age of 38, he became the youngest person to hold the Chief Ministership of Uttar Pradesh. With a Master's degree in environmental engineering from the University of Sydney, Yadav blended traditional socialist grassroots politics with modern infrastructure initiatives, constructing the 302 km Agra-Lucknow Expressway, the Lucknow Metro Rail, and the Dial 100 modern police emergency response network. In the 2024 Lok Sabha elections, he spearheaded the 'PDA' (Pichhda, Dalit, Alpsankhyak) coalition strategy, securing 37 seats in Uttar Pradesh and elevating the Samajwadi Party to become the third-largest party in the Indian Parliament.",
+  "earlyLife": "Born on 1 July 1973 in Saifai, Etawah district, Uttar Pradesh to socialist leader and former Defence Minister Mulayam Singh Yadav and Malti Devi. He attended the prestigious Military School in Dholpur, Rajasthan, before obtaining his civil engineering degree in Mysore and advanced environmental engineering degree in Sydney, Australia.",
+  "politicalJourney": [
+    {
+      "year": "2000",
+      "title": "Electoral Debut in Kannauj Bypoll",
+      "description": "Entered active politics winning the Kannauj Lok Sabha bypoll after his father vacated the seat, representing the constituency for three consecutive terms."
+    },
+    {
+      "year": "2009",
+      "title": "State President of Samajwadi Party",
+      "description": "Appointed UP State President of the Samajwadi Party. Modernized the party's cadre outreach, launched the Kranti Rath Yatra, and attracted educated youth into the socialist fold."
+    },
+    {
+      "year": "2012",
+      "title": "Youngest Chief Minister of Uttar Pradesh",
+      "description": "Led the Samajwadi Party to an absolute majority of 224 seats in the UP Assembly, taking the oath as the youngest Chief Minister of the state at age 38."
+    },
+    {
+      "year": "2017",
+      "title": "National President of Samajwadi Party",
+      "description": "Unanimously elected as the National President of the Samajwadi Party at an emergency national convention in Lucknow, consolidating his leadership over the party organization."
+    },
+    {
+      "year": "2022",
+      "title": "Principal Opposition Leader in UP",
+      "description": "Led the SP alliance to win 125 seats and over 32% of the popular vote in the UP assembly, becoming Leader of the Opposition in the state legislature."
+    },
+    {
+      "year": "2024",
+      "title": "Historic Lok Sabha Surge (37 Seats)",
+      "description": "Formulated the PDA social alliance formula and won the Kannauj parliamentary constituency by over 170,000 votes, leading SP to its best-ever national showing."
+    }
   ],
-  "image": "akhilesh_yadav.jpg"
+  "partyAssociation": "Samajwadi Party (SP)",
+  "partyReason": "Carries forward the democratic socialist legacy of Ram Manohar Lohia and Mulayam Singh Yadav, emphasizing agrarian dignity and social justice.",
+  "politicalMotivation": "Empowering the PDA (Pichhda, Dalit, Alpsankhyak) demographic coalition, enacting a national caste census, and creating green industrial employment for youth.",
+  "priorities": [
+    {
+      "title": "PDA Social Justice Coalition",
+      "description": "Ensuring proportionate educational, administrative, and political representation for Backward Classes (Pichhda), Dalits, and Minorities (Alpsankhyak)."
+    },
+    {
+      "title": "Mandatory Caste Census",
+      "description": "Advocating for a comprehensive socio-economic caste census to scientifically direct reservation benefits and welfare schemes."
+    },
+    {
+      "title": "Agri-Industrial Corridors & MSP",
+      "description": "Building farmer-oriented Mandi infrastructure along major expressways and instituting legal guarantees for crop procurement prices."
+    },
+    {
+      "title": "Digital & High-Tech Infrastructure",
+      "description": "Reviving large-scale student laptop and digital literacy initiatives to bridge the digital divide in rural communities."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Kannauj (Uttar Pradesh)",
+      "party": "SP",
+      "result": "Won",
+      "votes": 642292,
+      "voteShare": 52.74
+    },
+    {
+      "year": 2022,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Karhal",
+      "party": "SP",
+      "result": "Won",
+      "votes": 148196,
+      "voteShare": 60.12
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Azamgarh (Uttar Pradesh)",
+      "party": "SP",
+      "result": "Won",
+      "votes": 621578,
+      "voteShare": 60.40
+    },
+    {
+      "year": 2009,
+      "election": "15th Lok Sabha",
+      "constituency": "Kannauj (Uttar Pradesh)",
+      "party": "SP",
+      "result": "Won",
+      "votes": 287011,
+      "voteShare": 42.44
+    },
+    {
+      "year": 2004,
+      "election": "14th Lok Sabha",
+      "constituency": "Kannauj (Uttar Pradesh)",
+      "party": "SP",
+      "result": "Won",
+      "votes": 491294,
+      "voteShare": 61.50
+    },
+    {
+      "year": 2000,
+      "election": "13th Lok Sabha (Bypoll)",
+      "constituency": "Kannauj (Uttar Pradesh)",
+      "party": "SP",
+      "result": "Won",
+      "votes": 284065,
+      "voteShare": 43.14
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Member of Parliament (Lok Sabha - Kannauj)",
+      "from": "2024",
+      "to": "Present"
+    },
+    {
+      "position": "Leader of Opposition, UP Legislative Assembly",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "position": "Member of Legislative Assembly (Karhal)",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Azamgarh)",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "2012",
+      "to": "2017"
+    },
+    {
+      "position": "Member of Legislative Council (Uttar Pradesh)",
+      "from": "2012",
+      "to": "2018"
+    }
+  ],
+  "achievements": [
+    "Constructed the 302 km Agra-Lucknow Expressway in a record 23 months with an airstrip for Indian Air Force fighter aircraft",
+    "Distributed over 1.8 million free laptops to intermediate school graduates, cited as the world's largest student technology distribution program",
+    "Conceptualized and completed Phase 1 of the Lucknow Metro Rail project in record time",
+    "Pioneered the Dial 100 (now UP 112) centralized police control dispatch with GPS-tracked emergency response vehicles",
+    "Established the 108 and 102 free statewide rural ambulance networks and the Gomti Riverfront development in Lucknow",
+    "Secured 37 Lok Sabha seats in 2024, making the Samajwadi Party the third-largest party in the 18th Lok Sabha"
+  ],
+  "criticisms": [
+    {
+      "title": "2013 Muzaffarnagar Riots Handling",
+      "description": "Severe communal violence in western Uttar Pradesh in late 2013 resulted in tragic loss of life and displacement of thousands of families.",
+      "year": 2013,
+      "category": "Law & Order",
+      "response": "Government deployed the army, constituted the Justice Vishnu Sahai judicial inquiry commission, and provided compensation and rehabilitation packages to displaced families.",
+      "source": "Justice Vishnu Sahai Commission of Inquiry Report",
+      "sourceUrl": "https://up.gov.in"
+    },
+    {
+      "title": "Law and Order Criticisms During Chief Ministership",
+      "description": "Opposition parties frequently characterized his 2012–17 tenure as vulnerable to local strongmen, mafia encroachment, and political interference in policing.",
+      "year": 2017,
+      "category": "Governance",
+      "response": "Yadav pointed to the establishment of the modern Dial 100 control room, women's powerline 1090, and professionalization of police forces to refute the claims.",
+      "source": "NCRB Crime in India Reports (2012–2016)",
+      "sourceUrl": "https://ncrb.gov.in"
+    },
+    {
+      "title": "Internal Family Feud of 2016–17",
+      "description": "Public political disagreements with his uncle Shivpal Yadav and senior party leaders ahead of the 2017 assembly elections that affected party morale.",
+      "year": 2017,
+      "category": "Party Politics",
+      "response": "Later achieved political reconciliation within the family and consolidated party authority under a unified generational leadership.",
+      "source": "Samajwadi Party National Executive Resolutions",
+      "sourceUrl": "https://samajwadiparty.in"
+    }
+  ],
+  "controversies": [
+    "Gomti Riverfront Project inquiry initiated by the subsequent state government regarding project expenditure and environmental clearances.",
+    "Bypoll alliances in 2019 with the Bahujan Samaj Party (BSP) that dissolved soon after the election results.",
+    "Debates around illegal sand mining leases during his administrative tenure as Mining Minister in 2012-13."
+  ],
+  "publications": [
+    "Development through Environment: Speeches and Public Addresses (2012–2017)"
+  ],
+  "officialWebsite": "https://samajwadiparty.in",
+  "socialMedia": {
+    "website": "https://samajwadiparty.in",
+    "twitter": "https://twitter.com/yadavakhilesh",
+    "facebook": "https://facebook.com/yadavakhilesh",
+    "instagram": "https://instagram.com/yadavakhilesh",
+    "youtube": "https://youtube.com/SamajwadiPartyOfficial"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Kannauj 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Lok Sabha Secretariat Member Profile",
+      "url": "https://sansad.in/ls"
+    },
+    {
+      "title": "Samajwadi Party Leadership Dossier",
+      "url": "https://samajwadiparty.in"
+    }
+  ]
 }

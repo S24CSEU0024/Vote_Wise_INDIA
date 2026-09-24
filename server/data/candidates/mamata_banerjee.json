@@ -1,18 +1,224 @@
 {
   "name": "Mamata Banerjee",
-  "party": "TMC",
+  "party": "AITC",
   "state": "West Bengal",
   "constituency": "Bhabanipur",
-  "position": "Chief Minister",
+  "position": "Chief Minister of West Bengal",
   "age": 71,
-  "education": "MA, LLB",
-  "experience": "Chief Minister since 2011",
-  "achievements": [
-    "Kanyashree Scheme",
-    "Lakshmir Bhandar",
-    "Swasthya Sathi",
-    "Duare Sarkar",
-    "Women's welfare programmes"
+  "education": "M.A. in Islamic History (University of Calcutta), LL.B. (Jogesh Chandra Chaudhuri Law College)",
+  "profession": "Politician, Author, Painter",
+  "experience": "Chief Minister of West Bengal (2011–Present), Union Minister of Railways (1999–2001, 2009–2011), 7-term Member of Parliament",
+  "image": "/images/candidates/mamata_banerjee.jpg",
+  "biography": "Mamata Banerjee is an Indian politician who has been serving as the 8th Chief Minister of West Bengal since May 2011, becoming the first woman to hold the office. Often referred to as 'Didi', she founded the All India Trinamool Congress (AITC) in 1998 after breaking away from the Indian National Congress. In 2011, she ended the 34-year rule of the Communist Party of India (Marxist)-led Left Front government—the world's longest-serving democratically elected communist government—propelled by her iconic grassroots land movements in Singur and Nandigram. A fierce proponent of cooperative federalism, she has championed globally recognized welfare models including Kanyashree Prakalpa, Lakshmir Bhandar, and Duare Sarkar.",
+  "earlyLife": "Born on 5 January 1955 in Calcutta (now Kolkata) to a lower-middle-class Bengali Brahmin family. Her father Promileswar Banerjee died due to lack of medical treatment when she was 17. She earned her degrees working diverse jobs, entered student politics at Jogamaya Devi College with the Chhatra Parishad (student wing of Congress), and rose to General Secretary of the state Mahila Congress.",
+  "politicalJourney": [
+    {
+      "year": "1984",
+      "title": "Giant Killer Electoral Debut in Jadavpur",
+      "description": "At age 29, became one of India's youngest parliamentarians by defeating veteran CPI(M) stalwart Somnath Chatterjee from the communist citadel of Jadavpur."
+    },
+    {
+      "year": "1991–2004",
+      "title": "Union Minister & Foundation of Trinamool",
+      "description": "Served as Union Minister of State for Youth Affairs. Broke away from the Congress in 1998 to launch the All India Trinamool Congress (AITC), establishing it as Bengal's primary opposition."
+    },
+    {
+      "year": "2006–2008",
+      "title": "Singur and Nandigram Mass Agitations",
+      "description": "Led historic 26-day hunger strikes and farmer agitations against forcible agricultural land acquisition for corporate industrial plants, radically shifting Bengal's political landscape."
+    },
+    {
+      "year": "2009–2011",
+      "title": "Railway Minister & Historic 2011 Transition",
+      "description": "Introduced the Duronto Express trains and suburban connectivity. In May 2011, led Trinamool to sweep 227 seats, overthrowing the 34-year Left Front regime."
+    },
+    {
+      "year": "2016",
+      "title": "Second Consecutive Landslide Term",
+      "description": "Returned with an expanded majority of 211 of 294 seats despite a combined opposition alliance of Congress and the Left Front."
+    },
+    {
+      "year": "2021",
+      "title": "High-Stakes 2021 Re-election Victory",
+      "description": "Overcame intensive multi-phase national campaigning to win 213 seats (48% vote share). Won the subsequent Bhabanipur bypoll with a record margin of 58,835 votes."
+    }
   ],
-  "image": "mamata_banerjee.jpg"
+  "partyAssociation": "All India Trinamool Congress (AITC)",
+  "partyReason": "Founding Chairperson; ideologically focused on 'Maa, Mati, Manush' (Mother, Motherland, and People), secular federalism, and Bengali cultural pride.",
+  "politicalMotivation": "Protecting federal autonomy of states, expanding universal direct benefit cash transfers to women, and countering aggressive centralizing tendencies.",
+  "priorities": [
+    {
+      "title": "Women-Centric Direct Benefit Transfers",
+      "description": "Universal basic income support through Lakshmir Bhandar (₹1,000–₹1,200 monthly) covering over 21 million women across Bengal."
+    },
+    {
+      "title": "Girls' Education & Empowerment (Kanyashree)",
+      "description": "Conditional cash transfers preventing early child marriage and financing higher education, benefiting over 8 million adolescent girls."
+    },
+    {
+      "title": "Universal Health Coverage (Swasthya Sathi)",
+      "description": "Providing smart health insurance cards issued in the name of the female head of the family, covering up to ₹5 lakh annually."
+    },
+    {
+      "title": "Doorstep Governance (Duare Sarkar)",
+      "description": "Organizing bi-annual outreach camps delivering 30+ government welfare schemes directly to citizens in their own neighbourhoods."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2021,
+      "election": "West Bengal Legislative Assembly (Bypoll)",
+      "constituency": "Bhabanipur",
+      "party": "AITC",
+      "result": "Won",
+      "votes": 85263,
+      "voteShare": 71.90
+    },
+    {
+      "year": 2021,
+      "election": "West Bengal Legislative Assembly",
+      "constituency": "Nandigram",
+      "party": "AITC",
+      "result": "Lost",
+      "votes": 108064,
+      "voteShare": 47.64
+    },
+    {
+      "year": 2016,
+      "election": "West Bengal Legislative Assembly",
+      "constituency": "Bhabanipur",
+      "party": "AITC",
+      "result": "Won",
+      "votes": 65520,
+      "voteShare": 47.67
+    },
+    {
+      "year": 2011,
+      "election": "West Bengal Legislative Assembly (Bypoll)",
+      "constituency": "Bhabanipur",
+      "party": "AITC",
+      "result": "Won",
+      "votes": 73077,
+      "voteShare": 77.46
+    },
+    {
+      "year": 2009,
+      "election": "15th Lok Sabha",
+      "constituency": "Kolkata Dakshin (West Bengal)",
+      "party": "AITC",
+      "result": "Won",
+      "votes": 468053,
+      "voteShare": 57.51
+    },
+    {
+      "year": 1984,
+      "election": "8th Lok Sabha",
+      "constituency": "Jadavpur (West Bengal)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 331448,
+      "voteShare": 50.84
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Chief Minister of West Bengal",
+      "from": "2011",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Legislative Assembly (Bhabanipur)",
+      "from": "2021",
+      "to": "Present"
+    },
+    {
+      "position": "Union Minister of Railways",
+      "from": "2009",
+      "to": "2011"
+    },
+    {
+      "position": "Union Minister of Coal & Mines",
+      "from": "2004",
+      "to": "2004"
+    },
+    {
+      "position": "Union Minister of Railways",
+      "from": "1999",
+      "to": "2001"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Kolkata Dakshin)",
+      "from": "1991",
+      "to": "2011"
+    }
+  ],
+  "achievements": [
+    "Received the United Nations Public Service Award (First Prize) in 2017 for the Kanyashree Prakalpa girls' education program",
+    "Ended 34 years of Left Front rule in West Bengal in 2011 through grassroots peasant movements",
+    "Conceptualized and implemented 'Duare Sarkar' (Government at Doorstep), servicing over 100 million citizen applications",
+    "Enacted 'Lakshmir Bhandar', providing guaranteed basic income to over 21 million women across Bengal",
+    "Preserved Trinamool's parliamentary pre-eminence, winning 29 out of 42 Lok Sabha seats in West Bengal in the 2024 elections",
+    "Maintains a prolific creative career as an author of over 100 published books of poetry, essays, and artistic works"
+  ],
+  "criticisms": [
+    {
+      "title": "2024 RG Kar Medical College Protests",
+      "description": "Massive public protests across Kolkata and the medical community following the rape and murder of a trainee doctor, with allegations of administrative negligence.",
+      "year": 2024,
+      "category": "Law & Order and Women Safety",
+      "response": "Government transferred the case to the CBI, replaced the Kolkata Police Commissioner and health officials, and passed the Aparajita Anti-Rape Bill in the state assembly.",
+      "source": "Supreme Court of India Suo Motu Hearings (SMW (Crl) No. 2/2024)",
+      "sourceUrl": "https://main.sci.gov.in"
+    },
+    {
+      "title": "Saradha and Rose Valley Financial Scams",
+      "description": "Multi-crore deposit-taking chit fund scandals that affected millions of poor depositors in Bengal, with several Trinamool leaders questioned by central agencies.",
+      "year": 2014,
+      "category": "Financial Scrutiny",
+      "response": "Banerjee set up a judicial commission to reimburse small investors and maintained the state government took the initial steps to arrest perpetrators before central intervention.",
+      "source": "Shyamal Sen Commission of Inquiry Reports",
+      "sourceUrl": "https://wb.gov.in"
+    },
+    {
+      "title": "2021 Post-Poll Violence Allegations",
+      "description": "Violent clashes between political workers following the 2021 assembly election results that prompted inquiries by the National Human Rights Commission.",
+      "year": 2021,
+      "category": "Electoral Law & Order",
+      "response": "State government stated that incidents were exaggerated by political rivals and occurred while election security was under Election Commission jurisdiction.",
+      "source": "Calcutta High Court Bench Orders",
+      "sourceUrl": "https://calcuttahighcourt.gov.in"
+    }
+  ],
+  "controversies": [
+    "Arrest of a Jadavpur University professor in 2012 over circulating a satirical cartoon, which sparked national debate on free speech.",
+    "Standoff with the CBI in 2019 where she staged a sit-in 'dharna' at Metro Channel when federal investigators attempted to question the Kolkata Police Commissioner.",
+    "Clashes with consecutive West Bengal Governors regarding vice-chancellor appointments and state legislative bill assent."
+  ],
+  "publications": [
+    "My Unforgettable Memories (Rupa Publications, 2012)",
+    "Poriborton (Selected Political Essays)",
+    "Kobita Bitan (Anthology of Poems)"
+  ],
+  "officialWebsite": "https://aitcofficial.org",
+  "socialMedia": {
+    "website": "https://wb.gov.in",
+    "twitter": "https://twitter.com/MamataOfficial",
+    "facebook": "https://facebook.com/MamataBanerjeeOfficial",
+    "instagram": "https://instagram.com/mamataofficial",
+    "youtube": "https://youtube.com/TrinamoolOfficial"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Bhabanipur 2021 Bypoll)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "West Bengal Legislative Assembly Official Member Profile",
+      "url": "https://wbassembly.gov.in"
+    },
+    {
+      "title": "United Nations Public Service Awards Archive (2017)",
+      "url": "https://publicadministration.un.org"
+    }
+  ]
 }

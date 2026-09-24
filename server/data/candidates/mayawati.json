@@ -2,16 +2,226 @@
   "name": "Mayawati",
   "party": "BSP",
   "state": "Uttar Pradesh",
-  "constituency": "",
-  "position": "National President",
+  "constituency": "Bahujan Samaj Party National Head",
+  "position": "National President of Bahujan Samaj Party",
   "age": 70,
-  "education": "B.Ed., LLB",
-  "experience": "Former Chief Minister of Uttar Pradesh",
-  "achievements": [
-    "Dalit empowerment initiatives",
-    "Improved law and order",
-    "Infrastructure development",
-    "Social welfare programmes"
+  "education": "B.A. (Kalindi College, University of Delhi), B.Ed. (Meerut University), LL.B. (Campus Law Centre, University of Delhi)",
+  "profession": "Teacher, Advocate, Politician",
+  "experience": "Four-term Chief Minister of Uttar Pradesh (1995, 1997, 2002–2003, 2007–2012), First Female Dalit Chief Minister of any Indian State",
+  "image": "/images/candidates/mayawati.jpg",
+  "biography": "Mayawati (often referred to as 'Behenji') is an Indian politician and the National President of the Bahujan Samaj Party (BSP). She served as the Chief Minister of Uttar Pradesh across four terms, most notably from 2007 to 2012 when she led the BSP to an absolute single-party majority of 206 seats—the first single-party majority in Uttar Pradesh in 16 years. When she first took office in June 1995 at age 39, she became the first female Scheduled Caste (Dalit) Chief Minister in independent Indian history. Mentored by BSP founder Kanshi Ram, Mayawati transformed the political representation of Dalits, Other Backward Classes (OBCs), and religious minorities across northern India, combining affirmative social representation with a formidable administrative reputation for strict law enforcement and landmark infrastructure projects like the 165 km Yamuna Expressway.",
+  "earlyLife": "Born on 15 January 1956 in New Delhi into a Jatav (Chamar) Dalit family to Prabhu Das, a post office employee, and Ram Rati. She completed her schooling and obtained her law degree from Delhi University while working as a teacher in Inderpuri, Delhi. In 1977, Dalit leader Kanshi Ram visited her family home, impressed by her fiery oratory, and persuaded her to enter public life full-time, declaring she could become a leader who commands rather than an IAS officer who follows orders.",
+  "politicalJourney": [
+    {
+      "year": "1984",
+      "title": "Founding Core of Bahujan Samaj Party",
+      "description": "Helped Kanshi Ram found the BSP on 14 April 1984, mobilizing government employee federations (BAMCEF) and marginalized caste voters across north India."
+    },
+    {
+      "year": "1989",
+      "title": "First Election to the 9th Lok Sabha",
+      "description": "Elected to the Lok Sabha from Bijnor in Uttar Pradesh, marking the national electoral breakthrough of the Bahujan Samaj Party."
+    },
+    {
+      "year": "1995",
+      "title": "First Female Dalit Chief Minister of India",
+      "description": "Sworn in as Chief Minister of Uttar Pradesh on 3 June 1995 at age 39 with external coalition support, creating history as the first Dalit woman to lead an Indian state."
+    },
+    {
+      "year": "2001",
+      "title": "Anointed Successor by Kanshi Ram",
+      "description": "Formally named by Kanshi Ram as his sole political heir and subsequently elected National President of the Bahujan Samaj Party."
+    },
+    {
+      "year": "2007",
+      "title": "Historic Full-Term Majority in Uttar Pradesh",
+      "description": "Engineered an audacious 'Sarvajan Hitay, Sarvajan Sukhay' rainbow coalition uniting Dalits, Brahmins, and Muslims, winning 206 out of 403 seats in the UP Assembly."
+    },
+    {
+      "year": "2012–2017",
+      "title": "Leader in Rajya Sabha",
+      "description": "Served as Member of Parliament in the Rajya Sabha, championing Dalit reservations in promotions and social justice legislations."
+    }
   ],
-  "image": "mayawati.jpg"
+  "partyAssociation": "Bahujan Samaj Party (BSP)",
+  "partyReason": "Founding leader dedicated to the social transformation ideology of B.R. Ambedkar, Jyotirao Phule, Periyar, and Kanshi Ram.",
+  "politicalMotivation": "Overthrowing caste hierarchy, securing self-respect and administrative dignity for the Bahujan majority, and strict governance without fear or favor.",
+  "priorities": [
+    {
+      "title": "Sarvajan Social Representation",
+      "description": "Ensuring educational, administrative, and political equality for Dalits, Adivasis, Backward Classes, and religious minorities."
+    },
+    {
+      "title": "Affirmative Action in Private Sector",
+      "description": "Advocating for constitutional amendments extending reservation quotas to the private corporate and contractor sectors."
+    },
+    {
+      "title": "Strict Administrative Governance",
+      "description": "Uncompromising enforcement of law and order without political interference, cracking down on organized mafia networks."
+    },
+    {
+      "title": "Land & Housing for the Landless",
+      "description": "Continuing the distribution of surplus agricultural land and rural concrete housing (Mahamaya Awas Yojana) to landless Dalit families."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2012,
+      "election": "Rajya Sabha",
+      "constituency": "Uttar Pradesh",
+      "party": "BSP",
+      "result": "Elected Unopposed",
+      "votes": 0,
+      "voteShare": 100.0
+    },
+    {
+      "year": 2004,
+      "election": "14th Lok Sabha",
+      "constituency": "Akbarpur (Uttar Pradesh)",
+      "party": "BSP",
+      "result": "Won",
+      "votes": 325019,
+      "voteShare": 43.81
+    },
+    {
+      "year": 2002,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Harora",
+      "party": "BSP",
+      "result": "Won",
+      "votes": 72547,
+      "voteShare": 44.50
+    },
+    {
+      "year": 1999,
+      "election": "13th Lok Sabha",
+      "constituency": "Akbarpur (Uttar Pradesh)",
+      "party": "BSP",
+      "result": "Won",
+      "votes": 259630,
+      "voteShare": 35.86
+    },
+    {
+      "year": 1998,
+      "election": "12th Lok Sabha",
+      "constituency": "Akbarpur (Uttar Pradesh)",
+      "party": "BSP",
+      "result": "Won",
+      "votes": 263561,
+      "voteShare": 38.41
+    },
+    {
+      "year": 1989,
+      "election": "9th Lok Sabha",
+      "constituency": "Bijnor (Uttar Pradesh)",
+      "party": "BSP",
+      "result": "Won",
+      "votes": 184515,
+      "voteShare": 38.69
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "National President of Bahujan Samaj Party",
+      "from": "2003",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Rajya Sabha - Uttar Pradesh)",
+      "from": "2012",
+      "to": "2017"
+    },
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "2007",
+      "to": "2012"
+    },
+    {
+      "position": "Member of Legislative Council (Uttar Pradesh)",
+      "from": "2007",
+      "to": "2012"
+    },
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "2002",
+      "to": "2003"
+    },
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "1997",
+      "to": "1997"
+    },
+    {
+      "position": "Chief Minister of Uttar Pradesh",
+      "from": "1995",
+      "to": "1995"
+    }
+  ],
+  "achievements": [
+    "Constructed the 165 km 6-lane access-controlled Yamuna Expressway connecting Greater Noida to Agra",
+    "Conceptualized and built the Buddh International Circuit which hosted Formula 1 Grand Prix races in Greater Noida",
+    "Erected monumental public memorials honoring Dr. B.R. Ambedkar, Kanshi Ram, and Buddhist heritage across Lucknow and Noida",
+    "Created the Mahamaya Garib Arthik Madad Yojana, providing direct cash assistance to over 3 million underprivileged families",
+    "Distributed over 2.5 lakh acres of agricultural land and homestead titles to landless Dalits and rural families",
+    "Established a reputation for uncompromising law enforcement, imprisoning notorious regional mafia bosses regardless of political affiliation"
+  ],
+  "criticisms": [
+    {
+      "title": "Memorial and Statue Expenditures",
+      "description": "Opposition and public interest litigants criticized state spending of over ₹4,000 crore on stone memorials and statues of Dalit icons and party symbols in Lucknow and Noida.",
+      "year": 2010,
+      "category": "Public Expenditure",
+      "response": "Mayawati defended the memorials as long-overdue institutional recognition for historic social reformers whose contributions had been deliberately neglected by previous governments.",
+      "source": "Supreme Court of India (Writ Petition (Civil) No. 452/2008)",
+      "sourceUrl": "https://main.sci.gov.in"
+    },
+    {
+      "title": "2002 Taj Corridor Project Scrutiny",
+      "description": "A commercial corridor project near the Taj Mahal initiated in 2002 was stopped by the Supreme Court over environmental clearances, prompting a CBI inquiry.",
+      "year": 2003,
+      "category": "Heritage & Environment",
+      "response": "In 2007, the Governor of UP declined prosecution sanction; the Lucknow bench of the Allahabad High Court dismissed criminal proceedings in 2012.",
+      "source": "Allahabad High Court Judgment (Criminal Revision No. 250/2007)",
+      "sourceUrl": "https://allahabadhighcourt.in"
+    },
+    {
+      "title": "Currency Garland Controversy",
+      "description": "Presented with a large garland made of ₹1,000 currency notes valued at an estimated ₹21 lakh during a BSP silver jubilee rally in Lucknow in March 2010.",
+      "year": 2010,
+      "category": "Political Display",
+      "response": "The BSP stated the garland was compiled from voluntary small contributions made by party workers to honor their leader on the party's 25th anniversary.",
+      "source": "Income Tax Department & BSP Statements (2010)",
+      "sourceUrl": "https://bspindia.org"
+    }
+  ],
+  "controversies": [
+    "State guest house incident of June 1995 where she was physically besieged by political opponents following the collapse of a coalition government.",
+    "Resignation from the Rajya Sabha in July 2017 after protesting being curtailed while raising atrocities against Dalits in Saharanpur.",
+    "Recent decline in BSP's electoral seat count in Uttar Pradesh in 2022 and 2024, with critics questioning the party's solo contest strategy."
+  ],
+  "publications": [
+    "A Travelogue of My Struggle-ridden Life and Bahujan Samaj Movement (Multivolume Hindi Autobiography)"
+  ],
+  "officialWebsite": "https://bspindia.org",
+  "socialMedia": {
+    "website": "https://bspindia.org",
+    "twitter": "https://twitter.com/Mayawati",
+    "facebook": "https://facebook.com/MayawatiBSP",
+    "instagram": "https://instagram.com/mayawatibsp",
+    "youtube": "https://youtube.com/BSPOfficial"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit Archive",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Rajya Sabha Secretariat Member Profile",
+      "url": "https://sansad.in/rs"
+    },
+    {
+      "title": "Bahujan Samaj Party Official Profile",
+      "url": "https://bspindia.org"
+    }
+  ]
 }

@@ -1,16 +1,239 @@
 {
-    "name": "Ajay Rai",
-    "party": "INC",
-    "state": "Uttar Pradesh",
-    "constituency": "Varanasi",
-    "position": "Lok Sabha MP Candidate",
-    "age": 55,
-    "education": "Graduate",
-    "experience": "Congress leader and MLA",
-    "achievements": [
-        "Former MLA",
-        "Senior Congress leader",
-        "Represented Varanasi multiple times"
-    ],
-    "image": "ajay_rai.jpg"
+  "name": "Ajay Rai",
+  "party": "INC",
+  "state": "Uttar Pradesh",
+  "constituency": "Varanasi",
+  "position": "President of Uttar Pradesh Congress Committee & 5-time MLA",
+  "age": 55,
+  "education": "B.A. (Mahatma Gandhi Kashi Vidyapith / Sampurnanand Sanskrit Vishwavidyalaya, Varanasi)",
+  "profession": "Agriculturist, Politician, Social Worker",
+  "experience": "President of UP Congress Committee (2023–Present), 5-term Member of UP Legislative Assembly (1996–2017), Key Opposition Contender in Varanasi",
+  "image": "/images/candidates/ajay_rai.jpg",
+  "biography": "Ajay Rai is an Indian politician and the President of the Uttar Pradesh Congress Committee (UPCC). A veteran grassroots leader from Varanasi, Rai is a five-time Member of the Uttar Pradesh Legislative Assembly, having represented the Kolasla and Pindra constituencies continuously from 1996 to 2017. He first rose through student politics with the Akhil Bharatiya Vidyarthi Parishad before winning multiple assembly elections with the BJP, later contesting as an independent, and joining the Indian National Congress in 2012. He served as the consensus joint opposition candidate against Prime Minister Narendra Modi in the Varanasi parliamentary constituency in 2014, 2019, and 2024. In the 2024 Lok Sabha elections, he polled over 460,000 votes, significantly reducing the victory margin in the high-profile prime ministerial contest.",
+  "earlyLife": "Born on 7 October 1969 in Varanasi, Uttar Pradesh into a prominent local Bhumihar family. He was educated in Varanasi, taking an active role in student union activism and youth community organizations before entering formal electoral politics in the mid-1990s.",
+  "politicalJourney": [
+    {
+      "year": "1996",
+      "title": "First Assembly Victory (Kolasla)",
+      "description": "Entered electoral politics as a BJP candidate, defeating nine-time CPI stalwart Udal from the Kolasla assembly constituency in Varanasi district."
+    },
+    {
+      "year": "2002–2007",
+      "title": "Unbroken Kolasla Tenure",
+      "description": "Retained the Kolasla constituency in consecutive assembly elections in 2002 and 2007, solidifying his regional standing in eastern Uttar Pradesh."
+    },
+    {
+      "year": "2009",
+      "title": "Independent Assembly Victory",
+      "description": "Left the BJP over electoral ticket disputes and won the Kolasla assembly by-election as an independent candidate."
+    },
+    {
+      "year": "2012",
+      "title": "Joined Congress & 5th Assembly Win",
+      "description": "Formally joined the Indian National Congress in 2012 and was elected as MLA for the newly delimited Pindra constituency, securing his fifth consecutive term in the UP Assembly."
+    },
+    {
+      "year": "2014–2019",
+      "title": "Varanasi Parliamentary Contests",
+      "description": "Chosen by the Congress party as its candidate from Varanasi in the 2014 and 2019 general elections, upholding local party presence against national campaigns."
+    },
+    {
+      "year": "2023",
+      "title": "President of Uttar Pradesh Congress",
+      "description": "Appointed President of the Uttar Pradesh Congress Committee (UPCC) in August 2023, tasked with revamping the party's grassroots organization ahead of the 2024 elections."
+    },
+    {
+      "year": "2024",
+      "title": "Unified INDIA Candidate in Varanasi",
+      "description": "Contested Varanasi as the consensus INDIA alliance candidate, polling 460,457 votes (40.74%) and substantially tightening the electoral contest."
+    }
+  ],
+  "partyAssociation": "Indian National Congress (INC)",
+  "partyReason": "President of the Uttar Pradesh state unit; committed to reviving Congress grassroots organization, secular pluralism, and protecting traditional Varanasi artisans.",
+  "politicalMotivation": "Re-establishing grassroots Congress representation in Uttar Pradesh, defending local community rights against heavy-handed urban commercialization, and advocating for rural youth employment.",
+  "priorities": [
+    {
+      "title": "Varanasi Weaver & Artisan Protection",
+      "description": "Advocating for electricity tariff subsidies, raw silk material price caps, and market access for the world-renowned Banarasi saree weavers and local handicraft artisans."
+    },
+    {
+      "title": "Preservation of Heritage & Local Traders",
+      "description": "Protecting historical religious ghats, ancient temple neighborhoods, and small shopkeepers from disruptive displacement caused by tourism corridor projects."
+    },
+    {
+      "title": "Youth Employment & Exam Transparency",
+      "description": "Demanding zero-paper-leak guarantees, strict oversight of UP state recruitment commissions (UPPSC, UPSSSC), and filling vacant government teaching posts."
+    },
+    {
+      "title": "Farmer Support in Eastern Uttar Pradesh",
+      "description": "Ensuring timely payments for sugarcane farmers, expanding vegetable export facilities, and preventing arbitrary land acquisition around highways."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 460457,
+      "voteShare": 40.74
+    },
+    {
+      "year": 2022,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Pindra",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 48189,
+      "voteShare": 22.84
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 152548,
+      "voteShare": 14.38
+    },
+    {
+      "year": 2017,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Pindra",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 48118,
+      "voteShare": 24.36
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Varanasi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 75614,
+      "voteShare": 7.34
+    },
+    {
+      "year": 2012,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Pindra",
+      "party": "INC",
+      "result": "Won",
+      "votes": 62800,
+      "voteShare": 34.61
+    },
+    {
+      "year": 2007,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Kolasla",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 55106,
+      "voteShare": 32.74
+    },
+    {
+      "year": 2002,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Kolasla",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 54628,
+      "voteShare": 36.19
+    },
+    {
+      "year": 1996,
+      "election": "Uttar Pradesh Legislative Assembly",
+      "constituency": "Kolasla",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 46271,
+      "voteShare": 31.91
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "President, Uttar Pradesh Congress Committee",
+      "from": "2023",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Legislative Assembly (Pindra)",
+      "from": "2012",
+      "to": "2017"
+    },
+    {
+      "position": "Member of Legislative Assembly (Kolasla)",
+      "from": "1996",
+      "to": "2012"
+    }
+  ],
+  "achievements": [
+    "Won five consecutive terms as Member of Legislative Assembly in Uttar Pradesh across 21 continuous years (1996–2017)",
+    "Pioneered rural road connectivity, tubewell irrigation, and electrification projects across Kolasla and Pindra assembly segments",
+    "Appointed UP Congress President in 2023, steering the Congress-SP coalition to win 43 out of 80 seats in Uttar Pradesh in 2024",
+    "Stood as the persistent opposition standard-bearer in Varanasi, expanding his tally to 460,457 votes in the 2024 Lok Sabha election",
+    "Consistently mobilized mass protests defending traditional Banarasi weavers, boatmen, and small vendors against arbitrary eviction",
+    "Strengthened district-level Congress committees across all 75 districts of Uttar Pradesh through the 'UP Jodo Yatra' in 2023-24"
+  ],
+  "criticisms": [
+    {
+      "title": "Party Switching History",
+      "description": "Political opponents have highlighted his transition from the BJP to contesting as an independent, briefly affiliating with the SP, and then joining the Congress.",
+      "year": 2012,
+      "category": "Political Consistency",
+      "response": "Rai explained that his departures were principled stands against regional neglect and autocratic leadership, and he has remained loyal to the Congress party since 2012.",
+      "source": "Interviews and Public Statements",
+      "sourceUrl": "https://inc.in"
+    },
+    {
+      "title": "Past Criminal and Gangsters Act Charges",
+      "description": "Faced several politically related criminal charges, including invocation of the National Security Act (NSA) and Gangsters Act during past state administrations.",
+      "year": 2015,
+      "category": "Legal & Public Record",
+      "response": "Rai maintained the charges were politically motivated by rival regimes; in November 2023, the MP-MLA court acquitted him in a 32-year-old case for lack of evidence.",
+      "source": "Varanasi MP-MLA Special Court Orders",
+      "sourceUrl": "https://districts.ecourts.gov.in/varanasi"
+    },
+    {
+      "title": "Consecutive Assembly Defeats in 2017 and 2022",
+      "description": "Suffered electoral defeats in his traditional Pindra assembly constituency during the statewide BJP waves in 2017 and 2022.",
+      "year": 2022,
+      "category": "Electoral Performance",
+      "response": "Maintained active daily public engagement in the constituency, subsequently spearheading the statewide resurgence of the Congress-SP alliance in 2024.",
+      "source": "Election Commission of India",
+      "sourceUrl": "https://results.eci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Arrest in October 2015 under the National Security Act (NSA) following violent clashes during a religious procession in Varanasi; the Allahabad High Court later quashed the NSA detention.",
+    "Heated electoral campaigning remarks during the 2022 UP elections that drew complaints from rival party candidates.",
+    "Public disagreements with local administrative authorities regarding regulatory restrictions on traditional boatmen along the Varanasi ghats."
+  ],
+  "publications": [
+    "Kashi Ki Awaaz: Selected Speeches and Addresses on Banaras Culture and Politics"
+  ],
+  "officialWebsite": "https://inc.in",
+  "socialMedia": {
+    "website": "https://inc.in",
+    "twitter": "https://twitter.com/kashiyana_ajay",
+    "facebook": "https://facebook.com/ajayraikashi",
+    "instagram": "https://instagram.com/ajayraikashi",
+    "youtube": "https://youtube.com/incindia"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Varanasi 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Uttar Pradesh Legislative Assembly Past Member Records",
+      "url": "https://uplegisassembly.gov.in"
+    },
+    {
+      "title": "Indian National Congress State Leadership Directory",
+      "url": "https://inc.in"
+    }
+  ]
 }

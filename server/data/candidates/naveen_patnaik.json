@@ -3,16 +3,231 @@
   "party": "BJD",
   "state": "Odisha",
   "constituency": "Hinjili",
-  "position": "Party President",
+  "position": "President of Biju Janata Dal & Leader of Opposition in Odisha Assembly",
   "age": 79,
-  "education": "Kirori Mal College, University of Delhi",
-  "experience": "Former Chief Minister of Odisha (2000–2024)",
-  "achievements": [
-    "Mission Shakti",
-    "Disaster management reforms",
-    "BSKY Healthcare",
-    "Sports development",
-    "Digital governance"
+  "education": "B.A. (Kirori Mal College, University of Delhi, 1967), The Doon School",
+  "profession": "Author, Politician, Public Servant",
+  "experience": "Chief Minister of Odisha across five terms (2000–2024), Union Minister for Mines (1998–2000), 7-term Member of Legislative Assembly",
+  "image": "/images/candidates/naveen_patnaik.jpg",
+  "biography": "Naveen Patnaik is an Indian politician, author, and the founding President of the Biju Janata Dal (BJD). He served as the 14th Chief Minister of Odisha for 24 continuous years across five terms from March 2000 to June 2024, standing as the second longest-serving Chief Minister of any Indian state. The son of legendary statesman Biju Patnaik, Naveen transitioned from an internationally published author into one of India's most successful and dignified regional leaders. His governance transformed Odisha from an impoverished, cyclone-devastated state into a national fiscal leader, a UN-lauded global benchmark for disaster management, and the premier global hub for Indian hockey. Known for his austere persona and clean public image, Patnaik currently serves as the Leader of the Opposition in the Odisha Legislative Assembly.",
+  "earlyLife": "Born on 16 October 1946 in Cuttack to Biju Patnaik and Gyan Patnaik. He was educated at Welham Boys' School, The Doon School (where he was a classmate of Sanjay Gandhi), and Kirori Mal College, Delhi University. A cultured cosmopolitan, he lived in Delhi and abroad for decades, associating with Jacqueline Kennedy and writing three acclaimed international books on Indian culture, textiles, and desert kingdoms before entering public life in 1997 following his father's demise.",
+  "politicalJourney": [
+    {
+      "year": "1997",
+      "title": "Entry into Politics & Formation of BJD",
+      "description": "Elected to the 11th Lok Sabha from Aska following his father's death. Founded the Biju Janata Dal in December 1997 to champion regional self-respect."
+    },
+    {
+      "year": "1998–2000",
+      "title": "Union Cabinet Minister for Mines",
+      "description": "Served as Union Minister for Mines in the Atal Bihari Vajpayee government before resigning to lead the NDA alliance in Odisha state elections."
+    },
+    {
+      "year": "2000",
+      "title": "Sworn in as Chief Minister of Odisha",
+      "description": "Sworn in as Chief Minister in March 2000, confronting a state bankrupted by the catastrophic 1999 Super Cyclone and chronic fiscal deficits."
+    },
+    {
+      "year": "2004–2014",
+      "title": "Consecutive Mandates & Clean Image",
+      "description": "Secured successive sweeping mandates in 2004, 2009 (severing ties with BJP to pursue strict secular neutrality), and 2014, lifting Odisha from poverty."
+    },
+    {
+      "year": "2019",
+      "title": "Fifth Consecutive Term as Chief Minister",
+      "description": "Won a fifth consecutive term in 2019, securing 112 out of 147 assembly seats and inaugurating the high-impact 5T administrative governance model."
+    },
+    {
+      "year": "2024",
+      "title": "Leader of Opposition in Odisha Assembly",
+      "description": "Retained his Hinjili assembly seat for the sixth consecutive time, transitioning to serve as the constitutional Leader of the Opposition."
+    }
   ],
-  "image": "naveen_patnaik.jpg"
+  "partyAssociation": "Biju Janata Dal (BJD)",
+  "partyReason": "Founding President, carrying forward Biju Patnaik's secular regionalist ideals, social security safety nets, and federal autonomy for Odisha.",
+  "politicalMotivation": "Transforming Odisha into a modernized, disaster-resilient industrial power while lifting millions of women out of poverty through self-help groups.",
+  "priorities": [
+    {
+      "title": "Zero-Casualty Disaster Management",
+      "description": "Constructing over 800 cyclone shelters, community early-warning sirens, and maintaining the specialized ODRAF disaster response force."
+    },
+    {
+      "title": "Mission Shakti Women's Revolution",
+      "description": "Mobilizing over 7 million rural women into 600,000 Self-Help Groups (SHGs) with interest-free micro-credit loans up to ₹5 lakh."
+    },
+    {
+      "title": "Universal Healthcare (BSKY)",
+      "description": "Biju Swasthya Kalyan Yojana providing smart health cards offering cashless hospitalization up to ₹10 lakh for women."
+    },
+    {
+      "title": "Sports Infrastructure & Global Hockey Capital",
+      "description": "Official sponsor of the Indian Men's and Women's National Hockey teams and builder of the world's largest seated hockey stadium in Rourkela."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 66386,
+      "voteShare": 46.84
+    },
+    {
+      "year": 2024,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Kantabanji",
+      "party": "BJD",
+      "result": "Lost",
+      "votes": 65166,
+      "voteShare": 32.14
+    },
+    {
+      "year": 2019,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 94065,
+      "voteShare": 66.32
+    },
+    {
+      "year": 2014,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 89263,
+      "voteShare": 73.14
+    },
+    {
+      "year": 2009,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 72942,
+      "voteShare": 76.04
+    },
+    {
+      "year": 2004,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 51271,
+      "voteShare": 72.71
+    },
+    {
+      "year": 2000,
+      "election": "Odisha Legislative Assembly",
+      "constituency": "Hinjili",
+      "party": "BJD",
+      "result": "Won",
+      "votes": 62517,
+      "voteShare": 65.35
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Leader of Opposition, Odisha Legislative Assembly",
+      "from": "2024",
+      "to": "Present"
+    },
+    {
+      "position": "Chief Minister of Odisha",
+      "from": "2000",
+      "to": "2024"
+    },
+    {
+      "position": "Member of Legislative Assembly (Hinjili)",
+      "from": "2000",
+      "to": "Present"
+    },
+    {
+      "position": "President of Biju Janata Dal",
+      "from": "1997",
+      "to": "Present"
+    },
+    {
+      "position": "Union Minister of Mines",
+      "from": "1998",
+      "to": "2000"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Aska)",
+      "from": "1997",
+      "to": "2000"
+    }
+  ],
+  "achievements": [
+    "Earned high praise from the United Nations for evacuating over 1 million citizens during Cyclone Phailin (2013) with near-zero casualties",
+    "Served 24 continuous years as Chief Minister, governing with clean administrative transparency and zero corruption scandals",
+    "Single-handedly sponsored and revived Indian Hockey, hosting back-to-back Men's Hockey World Cups in 2018 and 2023",
+    "Constructed the Birsa Munda International Hockey Stadium in Rourkela, recognized by Guinness World Records as the world's largest all-seater field hockey stadium",
+    "Created Mission Shakti, organizing 7 million rural women into an independent economic and social empowerment force",
+    "Turned Odisha from a food-deficit state into India's third-largest contributor of food grains to the national Public Distribution System (PDS)"
+  ],
+  "criticisms": [
+    {
+      "title": "Dependence on Bureaucratic Intermediaries",
+      "description": "Criticism from political rivals during the 2024 election alleging that governance decision-making became heavily centralized around key civil service aides.",
+      "year": 2024,
+      "category": "Governance Style",
+      "response": "Patnaik emphasized that his team operated strictly under constitutional ministerial oversight with a transparent 5T (Teamwork, Technology, Transparency, Transformation, Time) metric.",
+      "source": "BJD Media Statements (May 2024)",
+      "sourceUrl": "https://bjdodisha.org.in"
+    },
+    {
+      "title": "Youth Out-Migration & Manufacturing Jobs",
+      "description": "Opposition pointed to continuing migration of skilled and unskilled labor from western and southern Odisha districts to other industrialized states.",
+      "year": 2023,
+      "category": "Economy & Employment",
+      "response": "Government highlighted mega industrial projects like the Paradip petrochemical hub and high steel production capacity, generating localized employment.",
+      "source": "Odisha Economic Survey (2023–24)",
+      "sourceUrl": "https://odisha.gov.in"
+    },
+    {
+      "title": "Puri Heritage Corridor Controversy",
+      "description": "Public debates and ASI litigation in 2022 regarding excavation and structural construction within the 75-meter security zone of the Jagannath Temple in Puri.",
+      "year": 2022,
+      "category": "Heritage Conservation",
+      "response": "Supreme Court cleared the project, affirming that passenger amenities, pilgrim shelters, and emergency passages complied with ancient monuments protection laws.",
+      "source": "Supreme Court of India (SLP (C) Nos. 9496-9497/2022)",
+      "sourceUrl": "https://main.sci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Severing ties with long-time coalition partner BJP in 2009 following communal clashes in Kandhamal, affirming a commitment to secular governance.",
+    "Internal party revolt in 2012 by Pyarimohan Mohapatra while Patnaik was abroad in London, which Patnaik neutralized decisively.",
+    "Loss of assembly majority to the BJP in June 2024, gracefully concluding an unbroken 24-year tenure."
+  ],
+  "publications": [
+    "A Second Paradise: Indian Courtly Life 1590–1947 (Doubleday, 1985)",
+    "Desert Kingdom: The People of Bikaner (Vendome Press, 1990)",
+    "The Garden of Life: An Introduction to the Healing Plants of India (Doubleday, 1993)"
+  ],
+  "officialWebsite": "https://bjdodisha.org.in",
+  "socialMedia": {
+    "website": "https://odisha.gov.in",
+    "twitter": "https://twitter.com/Naveen_Odisha",
+    "facebook": "https://facebook.com/Naveen.Odisha",
+    "instagram": "https://instagram.com/naveen_odisha",
+    "youtube": "https://youtube.com/BJD"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Hinjili 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Odisha Legislative Assembly Official Member Profile",
+      "url": "https://odishaassembly.nic.in"
+    },
+    {
+      "title": "United Nations Office for Disaster Risk Reduction (UNDRR) Citation",
+      "url": "https://www.undrr.org"
+    }
+  ]
 }

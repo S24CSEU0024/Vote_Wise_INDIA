@@ -1,68 +1,390 @@
 const mongoose = require("mongoose");
 const fs = require("fs");
 const path = require("path");
-require("dotenv").config();
+
+require("dotenv").config({
+    path: path.join(__dirname, "../.env")
+});
 
 const Party = require("../models/Party");
 const Candidate = require("../models/Candidate");
 
-mongoose.connect(process.env.MONGO_URI)
-.then(async () => {
 
-    console.log("✅ MongoDB Connected");
+async function seedCandidates() {
 
-    // Remove previous candidates
-    await Candidate.deleteMany({});
+    try {
 
-    // Optional: clear candidate references from all parties
-    await Party.updateMany({}, { $set: { candidates: [] } });
+        // =====================================================
+        // CONNECT TO MONGODB
+        // =====================================================
 
-    const folder = path.join(__dirname, "../data/candidates");
+        await mongoose.connect(process.env.MONGO_URI);
 
-    const files = fs.readdirSync(folder);
+        console.log("✅ MongoDB Connected");
 
-    for (const file of files) {
 
-        const candidateData = JSON.parse(
-            fs.readFileSync(path.join(folder, file), "utf-8")
+        // =====================================================
+        // CANDIDATE DATA FOLDER
+        // =====================================================
+
+        const folder = path.join(
+            __dirname,
+            "../data/candidates"
         );
 
-        // Find the party using shortName
-        const party = await Party.findOne({
-            shortName: candidateData.party
-        });
+        if (!fs.existsSync(folder)) {
 
-        if (!party) {
-            console.log(`❌ Party not found for ${candidateData.name}`);
-            continue;
+            throw new Error(
+                `Candidate folder not found: ${folder}`
+            );
         }
 
-        const candidate = await Candidate.create({
 
-            name: candidateData.name,
-            party: party._id,
-            state: candidateData.state,
-            constituency: candidateData.constituency,
-            position: candidateData.position,
-            age: candidateData.age,
-            education: candidateData.education,
-            experience: candidateData.experience,
-            achievements: candidateData.achievements,
-            image: candidateData.image
+        // =====================================================
+        // GET ALL JSON FILES
+        // =====================================================
 
-        });
+        const files = fs
+            .readdirSync(folder)
+            .filter(file => file.endsWith(".json"));
 
-        party.candidates.push(candidate._id);
+        console.log(
+            `📂 Found ${files.length} candidate files`
+        );
 
-        await party.save();
 
-        console.log(`✅ ${candidate.name} added to ${party.shortName}`);
+        if (files.length === 0) {
 
+            console.log(
+                "❌ No candidate JSON files found."
+            );
+
+            return;
+        }
+
+
+        // =====================================================
+        // CLEAR OLD CANDIDATES
+        // =====================================================
+
+        await Candidate.deleteMany({});
+
+        console.log(
+            "🗑️ Previous candidates deleted"
+        );
+
+
+        // =====================================================
+        // CLEAR CANDIDATE REFERENCES FROM PARTIES
+        // IMPORTANT:
+        // We use updateMany instead of Party.save()
+        // =====================================================
+
+        await Party.updateMany(
+            {},
+            {
+                $set: {
+                    candidates: []
+                }
+            }
+        );
+
+        console.log(
+            "🧹 Cleared candidate references from parties"
+        );
+
+
+        let insertedCount = 0;
+        let skippedCount = 0;
+
+
+        // =====================================================
+        // PROCESS EVERY CANDIDATE FILE
+        // =====================================================
+
+        for (const file of files) {
+
+            try {
+
+                const filePath = path.join(
+                    folder,
+                    file
+                );
+
+
+                // -------------------------------------------------
+                // READ JSON
+                // -------------------------------------------------
+
+                const raw = fs.readFileSync(
+                    filePath,
+                    "utf8"
+                );
+
+                const candidateData = JSON.parse(raw);
+
+
+                console.log("\n--------------------------------");
+                console.log(`📄 Processing: ${file}`);
+                console.log(
+                    `👤 Candidate: ${candidateData.name}`
+                );
+                console.log(
+                    `🏛️ Party: ${candidateData.party}`
+                );
+                console.log("--------------------------------");
+
+
+                // -------------------------------------------------
+                // BASIC VALIDATION
+                // -------------------------------------------------
+
+                if (
+                    !candidateData.name ||
+                    !candidateData.party
+                ) {
+
+                    console.log(
+                        `⚠️ Skipping ${file}: name or party missing`
+                    );
+
+                    skippedCount++;
+
+                    continue;
+                }
+
+
+                // =================================================
+                // FIND PARTY
+                // =================================================
+
+                const partyCode = candidateData.party
+                    .toUpperCase()
+                    .trim();
+
+
+                let party = await Party.findOne({
+                    $or: [
+
+                        {
+                            shortName: partyCode
+                        },
+
+                        {
+                            shortName:
+                                partyCode === "TMC"
+                                    ? "AITC"
+                                    : partyCode
+                        },
+
+                        {
+                            shortName:
+                                partyCode === "AITC"
+                                    ? "TMC"
+                                    : partyCode
+                        },
+
+                        {
+                            name: new RegExp(
+                                `^${partyCode}$`,
+                                "i"
+                            )
+                        }
+
+                    ]
+                });
+
+
+                // -------------------------------------------------
+                // PARTY NOT FOUND
+                // -------------------------------------------------
+
+                if (!party) {
+
+                    console.log(
+                        `❌ Party not found: ${candidateData.party}`
+                    );
+
+                    skippedCount++;
+
+                    continue;
+                }
+
+
+                console.log(
+                    `✅ Party found: ${party.name} (${party.shortName})`
+                );
+
+
+                // =================================================
+                // REMOVE PARTY STRING FROM CANDIDATE DATA
+                // =================================================
+
+                const {
+                    party: ignoredParty,
+                    ...candidateFields
+                } = candidateData;
+
+
+                // =================================================
+                // CREATE CANDIDATE
+                // =================================================
+
+                const candidate = new Candidate({
+
+                    ...candidateFields,
+
+                    party: party._id
+
+                });
+
+
+                await candidate.save();
+
+
+                // IMPORTANT:
+                // Count candidate immediately after successful save
+                insertedCount++;
+
+
+                console.log(
+                    `✅ Candidate inserted: ${candidate.name}`
+                );
+
+
+                // =================================================
+                // ADD CANDIDATE TO PARTY
+                //
+                // DO NOT USE:
+                //
+                // party.candidates.push(...)
+                // await party.save()
+                //
+                // because Party schema currently has validation
+                // problems with majorSchemes/timeline.
+                // =================================================
+
+                await Party.updateOne(
+
+                    {
+                        _id: party._id
+                    },
+
+                    {
+                        $addToSet: {
+                            candidates: candidate._id
+                        }
+                    }
+
+                );
+
+
+                console.log(
+                    `🔗 Linked ${candidate.name} → ${party.shortName}`
+                );
+
+
+            } catch (error) {
+
+                console.error(
+                    `❌ Error processing ${file}:`,
+                    error.message
+                );
+
+                skippedCount++;
+
+            }
+
+        }
+
+
+        // =====================================================
+        // FINAL RESULTS
+        // =====================================================
+
+        console.log("\n======================================");
+        console.log("🎉 CANDIDATE SEEDING COMPLETE");
+        console.log("======================================");
+
+        console.log(
+            `📂 Total files: ${files.length}`
+        );
+
+        console.log(
+            `✅ Successfully inserted: ${insertedCount}`
+        );
+
+        console.log(
+            `⚠️ Skipped: ${skippedCount}`
+        );
+
+
+        // =====================================================
+        // VERIFY DATABASE
+        // =====================================================
+
+        const totalCandidates =
+            await Candidate.countDocuments();
+
+
+        console.log(
+            `📊 Candidates currently in MongoDB: ${totalCandidates}`
+        );
+
+
+        // =====================================================
+        // DISPLAY ALL CANDIDATES
+        // =====================================================
+
+        const allCandidates =
+            await Candidate
+                .find({})
+                .populate(
+                    "party",
+                    "name shortName"
+                )
+                .lean();
+
+
+        console.log("\n👥 Candidates in database:");
+
+        allCandidates.forEach(
+            (candidate, index) => {
+
+                console.log(
+                    `${index + 1}. ${candidate.name} - ${candidate.party
+                        ? candidate.party.shortName
+                        : "No Party"
+                    }`
+                );
+
+            }
+        );
+
+
+        // =====================================================
+        // DISCONNECT
+        // =====================================================
+
+        await mongoose.disconnect();
+
+        console.log(
+            "\n🔌 MongoDB disconnected"
+        );
+
+
+    } catch (error) {
+
+        console.error(
+            "❌ Candidate seeding error:",
+            error
+        );
+
+        await mongoose.disconnect();
+
+        process.exit(1);
     }
+}
 
-    console.log("🎉 Candidate seeding completed");
 
-    mongoose.disconnect();
-
-})
-.catch(err => console.log(err));
+seedCandidates();

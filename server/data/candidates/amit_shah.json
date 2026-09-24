@@ -3,16 +3,211 @@
   "party": "BJP",
   "state": "Gujarat",
   "constituency": "Gandhinagar",
-  "position": "Union Home Minister",
+  "position": "Minister of Home Affairs and Minister of Co-operation",
   "age": 61,
-  "education": "B.Sc. Biochemistry",
-  "experience": "BJP National President, Home Minister",
-  "achievements": [
-    "Implementation of CAA",
-    "Article 370 Reorganisation",
-    "Police reforms",
-    "Strengthened internal security",
-    "Expansion of BJP organisation"
+  "education": "B.Sc. in Biochemistry (CU Shah Science College, Gujarat University)",
+  "profession": "Politician, Public Servant",
+  "experience": "Union Home Minister (2019–Present), Union Minister of Co-operation (2021–Present), BJP National President (2014–2020)",
+  "image": "/images/candidates/amit_shah.jpg",
+  "biography": "Amit Anil Chandra Shah is an Indian politician currently serving as the 31st Minister of Home Affairs since 2019 and the inaugural Minister of Co-operation since 2021. He has been the Member of Parliament for Gandhinagar since 2019. Prior to his central ministerial career, Shah served as the National President of the Bharatiya Janata Party from 2014 to 2020, widely credited with transforming the party into the world's largest political organization by membership. As Home Minister, he piloted landmark legislative overhauls including the abrogation of Article 370 in Jammu & Kashmir, the Citizenship (Amendment) Act, and the complete replacement of colonial-era criminal laws with the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, and Bharatiya Sakshya Adhiniyam.",
+  "earlyLife": "Born on 22 October 1964 in Bombay (now Mumbai) into a Gujarati Hindu Vaishnav baniya family. He grew up in Mansa, Gujarat, where he received early schooling before moving to Ahmedabad to study biochemistry. He joined the Rashtriya Swayamsevak Sangh (RSS) in his youth and became a member of the Akhil Bharatiya Vidyarthi Parishad (ABVP) in 1980, where he first met Narendra Modi in 1982.",
+  "politicalJourney": [
+    {
+      "year": "1987",
+      "title": "Entry into Bharatiya Janata Party",
+      "description": "Joined the BJP youth wing (BJYM) and managed LK Advani's successful 1991 Lok Sabha campaign from Gandhinagar."
+    },
+    {
+      "year": "1997–2010",
+      "title": "Gujarat Assembly & State Home Minister",
+      "description": "Won four consecutive terms from Sarkhej constituency. Appointed Minister of State for Home in Gujarat under CM Narendra Modi, managing state internal security and police modernization."
+    },
+    {
+      "year": "2013–2014",
+      "title": "BJP General Secretary & UP Campaign Mastermind",
+      "description": "Appointed in-charge of Uttar Pradesh for the 2014 general election. Orchestrated the BJP's historic victory in 71 out of 80 seats in Uttar Pradesh."
+    },
+    {
+      "year": "2014–2020",
+      "title": "National President of the BJP",
+      "description": "Became the youngest BJP National President at age 49. Expanded party membership past 100 million and expanded BJP governments into the Northeast, Assam, Tripura, and across heartland states."
+    },
+    {
+      "year": "2019",
+      "title": "Union Minister of Home Affairs",
+      "description": "Won Gandhinagar by over 557,000 votes. In his first parliamentary session, introduced the Jammu and Kashmir Reorganisation Bill, abrogating Article 370."
+    },
+    {
+      "year": "2024",
+      "title": "Second Term as Home Minister",
+      "description": "Re-elected from Gandhinagar with an expanded record margin of 744,716 votes, continuing as Union Home and Co-operation Minister."
+    }
   ],
-  "image": "amit_shah.jpg"
+  "partyAssociation": "Bharatiya Janata Party (BJP)",
+  "partyReason": "Steeped in RSS organizational ideology; chief organizational architect of BJP's national electoral expansion and ideological manifestos.",
+  "politicalMotivation": "Bolstering national security, eradicating left-wing extremism (Naxalism), revamping the criminal justice architecture, and revitalizing the cooperative movement.",
+  "priorities": [
+    {
+      "title": "Decisive Eradication of Left-Wing Extremism",
+      "description": "Setting a defined target to eliminate Naxalite insurgency from remaining pocket districts across Chhattisgarh, Odisha, and Jharkhand by March 2026."
+    },
+    {
+      "title": "Criminal Law Modernization",
+      "description": "Implementing the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, and Bharatiya Sakshya Adhiniyam to replace IPC, CrPC, and Indian Evidence Act."
+    },
+    {
+      "title": "Revitalization of Cooperative Sector",
+      "description": "Computerization of Primary Agricultural Credit Societies (PACS) and establishing multi-state cooperatives for organic farming, seeds, and exports."
+    },
+    {
+      "title": "Border Security & Infrastructure",
+      "description": "Strengthening border fencing, comprehensive surveillance, and developing Vibrant Villages along the northern borders."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Gandhinagar (Gujarat)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 1010972,
+      "voteShare": 76.48
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Gandhinagar (Gujarat)",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 894624,
+      "voteShare": 69.67
+    },
+    {
+      "year": 2012,
+      "election": "Gujarat Legislative Assembly",
+      "constituency": "Naranpura",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 103560,
+      "voteShare": 69.25
+    },
+    {
+      "year": 2007,
+      "election": "Gujarat Legislative Assembly",
+      "constituency": "Sarkhej",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 289304,
+      "voteShare": 74.41
+    },
+    {
+      "year": 2002,
+      "election": "Gujarat Legislative Assembly",
+      "constituency": "Sarkhej",
+      "party": "BJP",
+      "result": "Won",
+      "votes": 288327,
+      "voteShare": 72.82
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Union Minister of Home Affairs",
+      "from": "2019",
+      "to": "Present"
+    },
+    {
+      "position": "Union Minister of Co-operation",
+      "from": "2021",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Gandhinagar)",
+      "from": "2019",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Rajya Sabha - Gujarat)",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "National President of BJP",
+      "from": "2014",
+      "to": "2020"
+    },
+    {
+      "position": "Minister of State for Home, Gujarat",
+      "from": "2003",
+      "to": "2010"
+    }
+  ],
+  "achievements": [
+    "Steered parliamentary passage of Jammu and Kashmir Reorganisation Act, abrogating Article 370 in August 2019",
+    "Authored and implemented the transformation of three new criminal laws (BNS, BNSS, BSA) emphasizing forensic investigation and victim rights",
+    "Reduced Left-Wing Extremism (LWE) violence incidents by over 70% nationwide and shrank affected police stations to record lows",
+    "Established the Ministry of Co-operation to empower 850 million grassroots farmers and primary cooperative societies",
+    "Spearheaded the Citizenship (Amendment) Act (CAA) 2019, providing citizenship rights to persecuted minority migrants from neighbouring nations",
+    "Expanded the BJP's organizational membership past 100 million, making it the largest political organization globally"
+  ],
+  "criticisms": [
+    {
+      "title": "Citizenship (Amendment) Act Protests",
+      "description": "Nationwide demonstrations in late 2019 against the religion-based classification in the CAA, with critics alleging it contravened Article 14.",
+      "year": 2019,
+      "category": "Legislation & Human Rights",
+      "response": "Shah maintained the law was a humanitarian measure specifically meant to grant citizenship to persecuted minorities with nowhere else to seek refuge, not to strip any citizen of rights.",
+      "source": "Parliament of India Rajya Sabha Debates (Dec 2019)",
+      "sourceUrl": "https://sansad.in/rs"
+    },
+    {
+      "title": "2010 Sohrabuddin Encounter Trial and Discharge",
+      "description": "Charged in connection with the 2005 Sohrabuddin encounter while serving as Gujarat Home Minister; briefly arrested before receiving bail.",
+      "year": 2014,
+      "category": "Judicial Proceedings",
+      "response": "A special CBI court fully discharged him in December 2014, finding no prima facie case or evidence against him, a decision later upheld by the Bombay High Court.",
+      "source": "Special CBI Court Mumbai Order (Dec 30, 2014)",
+      "sourceUrl": "https://bombayhighcourt.nic.in"
+    },
+    {
+      "title": "Scrutiny Regarding Federal Agency Mandates",
+      "description": "Criticism from regional and opposition governments over expanded jurisdictions for central agencies like the BSF and ED in state territories.",
+      "year": 2023,
+      "category": "Federal Structure",
+      "response": "Home Ministry clarified that border security and economic offences require unified national coordination while strictly respecting state police jurisdictions.",
+      "source": "Ministry of Home Affairs Annual Reports",
+      "sourceUrl": "https://www.mha.gov.in"
+    }
+  ],
+  "controversies": [
+    "Snooping allegations in Gujarat in 2013 regarding state intelligence monitoring of a private citizen, which state investigative commissions subsequently dismissed.",
+    "Heated parliamentary debates surrounding the abrogation of Article 370 and communication restrictions in Jammu & Kashmir in 2019.",
+    "Electoral rhetoric during state assembly campaigns that drew notices and clarifications from the Election Commission of India."
+  ],
+  "publications": [
+    "Speeches on Internal Security and Cooperative Governance (Ministry of Home Affairs Compendia, 2019–2024)"
+  ],
+  "officialWebsite": "https://www.amitshah.co.in",
+  "socialMedia": {
+    "website": "https://www.mha.gov.in",
+    "twitter": "https://twitter.com/AmitShah",
+    "facebook": "https://facebook.com/AmitShahOnline",
+    "instagram": "https://instagram.com/amitshahofficial",
+    "youtube": "https://youtube.com/AmitShahOfficial"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Gandhinagar 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Ministry of Home Affairs Official Profile",
+      "url": "https://www.mha.gov.in"
+    },
+    {
+      "title": "Lok Sabha Secretariat Official Member Profile",
+      "url": "https://sansad.in/ls"
+    }
+  ]
 }

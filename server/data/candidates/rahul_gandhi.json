@@ -1,18 +1,231 @@
 {
   "name": "Rahul Gandhi",
   "party": "INC",
-  "state": "Kerala",
-  "constituency": "Raebareli",
-  "position": "Leader of Opposition",
-  "age": 56,
-  "education": "M.Phil., Trinity College, Cambridge",
-  "experience": "Member of Parliament since 2004",
-  "achievements": [
-    "Bharat Jodo Yatra",
-    "Bharat Jodo Nyay Yatra",
-    "Strengthening Congress organisation",
-    "Promoting social justice campaigns",
-    "Parliamentary debates on unemployment and economy"
+  "state": "Uttar Pradesh",
+  "constituency": "Rae Bareli",
+  "position": "Leader of Opposition in Lok Sabha",
+  "age": 55,
+  "education": "M.Phil in Development Studies (Trinity College, Cambridge, 1995), B.A. (Rollins College, 1994)",
+  "profession": "Politician, Public Servant",
+  "experience": "Member of Parliament (2004–Present), Congress President (2017–2019), Leader of Opposition (2024–Present)",
+  "image": "/images/candidates/rahul_gandhi.jpg",
+  "biography": "Rahul Gandhi is an Indian politician and the Leader of the Opposition in the 18th Lok Sabha since June 2024. A fifth-term Member of Parliament representing Rae Bareli (and previously Wayanad and Amethi), he served as President of the Indian National Congress from 2017 to 2019. He spearheaded two major cross-country mass mobilization initiatives: the Bharat Jodo Yatra (4,000+ km from Kanyakumari to Kashmir in 2022–23) and the Bharat Jodo Nyay Yatra (2024), focusing on economic justice, social equity, constitutional protection, and youth employment.",
+  "earlyLife": "Born on 19 June 1970 in New Delhi to former Prime Minister Rajiv Gandhi and Sonia Gandhi. Grandson of Prime Minister Indira Gandhi and great-grandson of India's first Prime Minister, Jawaharlal Nehru. Due to security considerations following the assassinations of his grandmother and father, he completed higher education abroad under an assumed identity at Rollins College and Trinity College, Cambridge, subsequently working at the Monitor Group management consulting firm in London.",
+  "politicalJourney": [
+    {
+      "year": "2004",
+      "title": "Electoral Debut in Amethi",
+      "description": "Entered electoral politics by contesting and winning the family bastion seat of Amethi in Uttar Pradesh with an overwhelming 66.18% vote share."
+    },
+    {
+      "year": "2007",
+      "title": "General Secretary of AICC",
+      "description": "Appointed General Secretary of the All India Congress Committee, tasked with democratizing and restructuring the Indian Youth Congress (IYC) and the National Students' Union of India (NSUI) via internal organizational elections."
+    },
+    {
+      "year": "2013",
+      "title": "Vice-President of Indian National Congress",
+      "description": "Elevated to Vice-President of the Congress party at the Jaipur Chintan Shivir, leading the party's national campaign for the 2014 general election."
+    },
+    {
+      "year": "2017–2019",
+      "title": "Congress President",
+      "description": "Elected unopposed as President of the Indian National Congress. Led the party to decisive assembly election victories in Rajasthan, Madhya Pradesh, and Chhattisgarh in late 2018."
+    },
+    {
+      "year": "2022–2023",
+      "title": "Bharat Jodo Yatra",
+      "description": "Walked over 4,000 km across 12 states and 2 Union Territories from Kanyakumari to Srinagar over 146 days, revitalizing grassroots party workers and emphasizing unity, communal harmony, and anti-inflation concerns."
+    },
+    {
+      "year": "2024",
+      "title": "Leader of the Opposition in 18th Lok Sabha",
+      "description": "Won both Wayanad and Rae Bareli with record margins of over 360,000 votes each, retaining Rae Bareli. Appointed as the constitutional Leader of the Opposition in the Lok Sabha."
+    }
   ],
-  "image": "rahul_gandhi.jpg"
+  "partyAssociation": "Indian National Congress (INC)",
+  "partyReason": "Fifth-generation leader of the Congress party, adhering to democratic socialism, secular constitutionalism, welfare safety nets, and federalism.",
+  "politicalMotivation": "Championing social and economic justice (Nyay), instituting a national caste census to determine proportional representation, and protecting constitutional institutional autonomy.",
+  "priorities": [
+    {
+      "title": "Socio-Economic & Caste Census (X-Ray of India)",
+      "description": "Conducting a nationwide caste survey to map representation and wealth distribution among SC, ST, OBC, and minority communities."
+    },
+    {
+      "title": "Legal MSP Guarantee for Farmers",
+      "description": "Enacting a statutory legal guarantee for Minimum Support Prices based on the Swaminathan Commission's C2+50% formula."
+    },
+    {
+      "title": "Right to Apprenticeship (Pehli Naukri Pakki)",
+      "description": "Providing a legal right to a one-year paid apprenticeship of ₹1,00,000 annually for all diploma holders and college graduates under 25."
+    },
+    {
+      "title": "Removal of 50% Cap on Reservations",
+      "description": "Constitutional amendment to remove the Supreme Court-mandated 50% reservation limit for affirmative action."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Rae Bareli (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 687649,
+      "voteShare": 66.17
+    },
+    {
+      "year": 2024,
+      "election": "18th Lok Sabha",
+      "constituency": "Wayanad (Kerala)",
+      "party": "INC",
+      "result": "Won (Resigned seat)",
+      "votes": 647445,
+      "voteShare": 59.69
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Wayanad (Kerala)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 706367,
+      "voteShare": 64.67
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Amethi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 413394,
+      "voteShare": 43.86
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Amethi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 408651,
+      "voteShare": 46.71
+    },
+    {
+      "year": 2009,
+      "election": "15th Lok Sabha",
+      "constituency": "Amethi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 464195,
+      "voteShare": 71.78
+    },
+    {
+      "year": 2004,
+      "election": "14th Lok Sabha",
+      "constituency": "Amethi (Uttar Pradesh)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 390179,
+      "voteShare": 66.18
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "Leader of Opposition in Lok Sabha",
+      "from": "2024",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Rae Bareli)",
+      "from": "2024",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Wayanad)",
+      "from": "2019",
+      "to": "2024"
+    },
+    {
+      "position": "President of Indian National Congress",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "Vice-President of Indian National Congress",
+      "from": "2013",
+      "to": "2017"
+    },
+    {
+      "position": "Member of Parliament (Lok Sabha - Amethi)",
+      "from": "2004",
+      "to": "2019"
+    }
+  ],
+  "achievements": [
+    "Spearheaded the 4,080 km Bharat Jodo Yatra across 12 states in 2022-23, altering national political discourse",
+    "Advocated consistently for the Right to Fair Compensation and Transparency in Land Acquisition Act (2013)",
+    "Pioneered internal democratic primaries and elections within Youth Congress and NSUI",
+    "Championed constitutional rights, environmental clearances for tribal communities (Niyamgiri agitation)",
+    "Led the united opposition INDIA alliance to 234 seats in the 2024 Lok Sabha elections, restoring two-party equilibrium",
+    "Secured the Leader of the Opposition post for the Congress party after a 10-year vacancy in the Lok Sabha"
+  ],
+  "criticisms": [
+    {
+      "title": "Dynastic Politics (Parivarwad) Accusation",
+      "description": "Political opponents frequently accuse Gandhi of benefiting from dynastic entitlement as the son, grandson, and great-grandson of Indian Prime Ministers.",
+      "year": 2024,
+      "category": "Party Structure",
+      "response": "Gandhi has argued that political leadership must be earned through public trust and that he resigned from the party presidency in 2019 taking moral accountability for the election outcome.",
+      "source": "AICC Official Statements & Media Interviews",
+      "sourceUrl": "https://inc.in"
+    },
+    {
+      "title": "2023 Defamation Case and Disqualification",
+      "description": "Convicted by a Surat magistrate court for criminal defamation regarding remarks made in Karnataka in 2019, leading to brief disqualification from Parliament.",
+      "year": 2023,
+      "category": "Legal & Judicial",
+      "response": "The Supreme Court of India stayed his conviction in August 2023, observing that the trial court gave no valid reasons for imposing the maximum sentence, restoring his Lok Sabha membership.",
+      "source": "Supreme Court of India Judgment (SLP Crl No. 8644/2023)",
+      "sourceUrl": "https://main.sci.gov.in"
+    },
+    {
+      "title": "Loss of Traditional Seat Amethi in 2019",
+      "description": "Lost the Amethi parliamentary constituency in 2019 to BJP's Smriti Irani by over 55,000 votes, ending a multi-decade family tenure in the seat.",
+      "year": 2019,
+      "category": "Electoral Performance",
+      "response": "Remained focused on constituency service in Wayanad; Congress later regained the Amethi seat with a decisive 167,000+ vote margin in 2024 through Kishori Lal Sharma.",
+      "source": "Election Commission of India",
+      "sourceUrl": "https://results.eci.gov.in"
+    }
+  ],
+  "controversies": [
+    "Ordinance tearing incident in September 2013 where he publicly criticized a UPA government draft ordinance protecting convicted lawmakers.",
+    "Rafale deal campaign slogan allegations that resulted in an unconditional apology submitted to the Supreme Court during contempt proceedings in 2019.",
+    "Debates around foreign university addresses and remarks regarding Indian democratic institutions during trips to the UK and US."
+  ],
+  "publications": [
+    "Speeches on Idea of India and Nyay Paradigm (Selected Parliamentary Addresses 2004–2024)"
+  ],
+  "officialWebsite": "https://www.rahulgandhi.in",
+  "socialMedia": {
+    "website": "https://inc.in",
+    "twitter": "https://twitter.com/RahulGandhi",
+    "facebook": "https://facebook.com/rahulgandhi",
+    "instagram": "https://instagram.com/rahulgandhi",
+    "youtube": "https://youtube.com/rahulgandhi"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Rae Bareli 2024)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Lok Sabha Secretariat Official Member Profile",
+      "url": "https://sansad.in/ls"
+    },
+    {
+      "title": "Indian National Congress Leader Dossier",
+      "url": "https://inc.in"
+    }
+  ]
 }

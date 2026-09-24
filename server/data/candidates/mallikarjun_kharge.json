@@ -2,16 +2,217 @@
   "name": "Mallikarjun Kharge",
   "party": "INC",
   "state": "Karnataka",
-  "constituency": "Rajya Sabha",
-  "position": "Congress President",
-  "age": 84,
-  "education": "LLB",
-  "experience": "Former Union Minister and Leader of Opposition",
-  "achievements": [
-    "Congress organisational reforms",
-    "Social justice advocacy",
-    "Parliamentary leadership",
-    "Labour welfare initiatives"
+  "constituency": "Rajya Sabha (Karnataka)",
+  "position": "President of Indian National Congress & Leader of Opposition in Rajya Sabha",
+  "age": 83,
+  "education": "B.A. (Government Arts & Science College, Gulbarga), LL.B. (Seth Shankarlal Lahoti Law College, Kalaburagi)",
+  "profession": "Advocate, Trade Unionist, Politician",
+  "experience": "Congress President (2022–Present), Leader of Opposition in Rajya Sabha (2021–Present), Union Minister of Railways & Labour (2009–2014), 9-time Karnataka MLA, 2-time Lok Sabha MP",
+  "image": "/images/candidates/mallikarjun_kharge.jpg",
+  "biography": "Mapanna Mallikarjun Kharge is a senior Indian politician who has served as the President of the Indian National Congress since October 2022 and the Leader of the Opposition in the Rajya Sabha since February 2021. With an extraordinary parliamentary career spanning over five decades, Kharge won nine consecutive elections to the Karnataka Legislative Assembly between 1972 and 2008 and was twice elected to the Lok Sabha from Gulbarga. In 2022, he became the first non-Gandhi Congress President in 24 years after winning an internal party election. A veteran Dalit leader, labor rights lawyer, and polyglot fluent in Hindi, English, Kannada, Marathi, and Urdu, Kharge is recognized as one of India's most seasoned legislative strategists and the chief architect of the united INDIA opposition bloc.",
+  "earlyLife": "Born on 21 July 1942 into a poor Dalit family in Varawatti, Bidar district in the erstwhile Hyderabad State. In 1948, during the Razakar unrest, his family home was set ablaze and his mother and sister tragically died in the fire, after which his father moved with young Mallikarjun to Kalaburagi (Gulbarga). He worked as a student union leader, completed law school, and became an influential labor rights advocate representing the Samyukta Karnataka textile mill workers.",
+  "politicalJourney": [
+    {
+      "year": "1969",
+      "title": "Entry into Indian National Congress",
+      "description": "Joined the Congress party under the mentorship of Devaraj Urs, becoming President of the Kalaburagi City Congress Committee."
+    },
+    {
+      "year": "1972–2008",
+      "title": "Nine Consecutive Assembly Victories",
+      "description": "Achieved a legendary unbeaten record, winning nine consecutive elections from Gurmitkal constituency in Karnataka without a single defeat."
+    },
+    {
+      "year": "1976–2004",
+      "title": "Senior Cabinet Minister in Karnataka",
+      "description": "Held premier portfolios including Home, Rural Development, Revenue, and Large & Medium Industries across successive state governments."
+    },
+    {
+      "year": "2009–2014",
+      "title": "Union Cabinet Minister (Labour & Railways)",
+      "description": "Elected to the 15th Lok Sabha from Gulbarga. Served as Union Minister of Labour & Employment and subsequently Union Minister of Railways."
+    },
+    {
+      "year": "2014–2019",
+      "title": "Leader of Congress in 16th Lok Sabha",
+      "description": "Spearheaded the opposition in the Lok Sabha with 44 Congress MPs, vigorously scrutinizing government policies and legislative bills."
+    },
+    {
+      "year": "2022",
+      "title": "Elected President of Indian National Congress",
+      "description": "Elected Congress President with over 84% of votes in an internal party election, becoming the second Dalit Congress President after Jagjivan Ram."
+    }
   ],
-  "image": "mallikarjun_kharge.jpg"
+  "partyAssociation": "Indian National Congress (INC)",
+  "partyReason": "Committed to secular democracy, social justice for marginalized classes, labor welfare, and inclusive federal governance.",
+  "politicalMotivation": "Defending democratic institutions, championing Dalit and working-class empowerment, and consolidating secular regional coalitions across India.",
+  "priorities": [
+    {
+      "title": "Protection of the Indian Constitution",
+      "description": "Safeguarding fundamental rights, federal devolution to states, and the independent functioning of statutory institutions."
+    },
+    {
+      "title": "Labor & Minimum Wage Protections",
+      "description": "Strengthening the unorganized sector safety net, expanding MGNREGA guarantee wages to ₹400/day, and opposing aggressive contract labor practices."
+    },
+    {
+      "title": "Article 371(J) Special Status Implementation",
+      "description": "Pioneered Article 371(J) of the Constitution granting special developmental status and educational reservation to the Kalyana Karnataka region."
+    },
+    {
+      "title": "Inclusive Coalition Governance",
+      "description": "Unifying diverse regional parties under the INDIA alliance to preserve constitutional pluralism and grassroots federalism."
+    }
+  ],
+  "electoralRecord": [
+    {
+      "year": 2020,
+      "election": "Rajya Sabha",
+      "constituency": "Karnataka",
+      "party": "INC",
+      "result": "Elected Unopposed",
+      "votes": 0,
+      "voteShare": 100.0
+    },
+    {
+      "year": 2019,
+      "election": "17th Lok Sabha",
+      "constituency": "Gulbarga (Karnataka)",
+      "party": "INC",
+      "result": "Lost",
+      "votes": 526270,
+      "voteShare": 44.12
+    },
+    {
+      "year": 2014,
+      "election": "16th Lok Sabha",
+      "constituency": "Gulbarga (Karnataka)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 507193,
+      "voteShare": 50.82
+    },
+    {
+      "year": 2009,
+      "election": "15th Lok Sabha",
+      "constituency": "Gulbarga (Karnataka)",
+      "party": "INC",
+      "result": "Won",
+      "votes": 345241,
+      "voteShare": 45.30
+    },
+    {
+      "year": 2004,
+      "election": "Karnataka Legislative Assembly",
+      "constituency": "Gurmitkal",
+      "party": "INC",
+      "result": "Won",
+      "votes": 79246,
+      "voteShare": 58.12
+    }
+  ],
+  "positionsHeld": [
+    {
+      "position": "President of Indian National Congress",
+      "from": "2022",
+      "to": "Present"
+    },
+    {
+      "position": "Leader of Opposition in Rajya Sabha",
+      "from": "2021",
+      "to": "Present"
+    },
+    {
+      "position": "Member of Parliament (Rajya Sabha - Karnataka)",
+      "from": "2020",
+      "to": "Present"
+    },
+    {
+      "position": "Leader of Indian National Congress in Lok Sabha",
+      "from": "2014",
+      "to": "2019"
+    },
+    {
+      "position": "Union Minister of Railways",
+      "from": "2013",
+      "to": "2014"
+    },
+    {
+      "position": "Union Minister of Labour & Employment",
+      "from": "2009",
+      "to": "2013"
+    },
+    {
+      "position": "Leader of Opposition, Karnataka Legislative Assembly",
+      "from": "2004",
+      "to": "2006"
+    }
+  ],
+  "achievements": [
+    "Successfully steered the 98th Constitutional Amendment (Article 371-J) providing regional reservation and development funds for Hyderabad-Karnataka (Kalyana Karnataka)",
+    "Pioneered the Rashtriya Swasthya Bima Yojana (RSBY) health insurance for unorganized workers during his tenure as Union Labour Minister",
+    "Expanded the Employee State Insurance Corporation (ESIC) medical college and super-specialty hospital infrastructure nationwide",
+    "Maintained an unbroken 9-term legislative assembly electoral victory record over 36 continuous years in Karnataka politics",
+    "Elected as Congress President in October 2022 with 7,897 votes, spearheading the party's decisive Karnataka and Telangana assembly victories in 2023",
+    "Served as the key institutional convener bringing 26 political parties together under the united INDIA coalition"
+  ],
+  "criticisms": [
+    {
+      "title": "Perception of Central Leadership Autonomy",
+      "description": "Opposition frequently questions whether non-Gandhi Congress presidents hold genuine independent organizational decision-making authority.",
+      "year": 2023,
+      "category": "Organizational Autonomy",
+      "response": "Kharge has demonstrated independent decision-making, presiding over Congress Working Committee resolutions, ticket allocations, and national alliance negotiations.",
+      "source": "AICC Working Committee Proceedings",
+      "sourceUrl": "https://inc.in"
+    },
+    {
+      "title": "Defeat in 2019 Lok Sabha Election",
+      "description": "Suffered his first-ever career electoral defeat in the 2019 Gulbarga parliamentary election by a margin of 95,452 votes to BJP's Umesh Jadhav.",
+      "year": 2019,
+      "category": "Electoral Record",
+      "response": "Aided the party's resurgence in Kalyana Karnataka during the 2023 and 2024 elections, regaining substantial ground across his home region.",
+      "source": "Election Commission of India",
+      "sourceUrl": "https://results.eci.gov.in"
+    },
+    {
+      "title": "Allegations Regarding Son-in-Law Land Allotment",
+      "description": "Political opponents raised questions over Karnataka Industrial Area Development Board (KIADB) land allocation for a trust linked to his family members.",
+      "year": 2024,
+      "category": "Administrative Scrutiny",
+      "response": "His family voluntarily surrendered the allotted civic amenity site to prevent political controversies and reaffirmed adherence to state industrial board norms.",
+      "source": "Karnataka High Court Filings & KIADB Records",
+      "sourceUrl": "https://kiadb.karnataka.gov.in"
+    }
+  ],
+  "controversies": [
+    "Heated parliamentary confrontations with Rajya Sabha Chairman Jagdeep Dhankhar regarding suspension of opposition MPs and debating protocol in 2023-24.",
+    "Sharp exchanges with ruling party leaders over references to foundational historical legacy and national freedom movement contributions.",
+    "Internal disputes regarding seat-sharing formulas and candidate selections within the multi-party INDIA alliance in northern states."
+  ],
+  "publications": [
+    "50 Years of Parliamentary Life: Selected Speeches and Debates (Karnataka Legislative Library Compendium)"
+  ],
+  "officialWebsite": "https://inc.in",
+  "socialMedia": {
+    "website": "https://inc.in",
+    "twitter": "https://twitter.com/kharge",
+    "facebook": "https://facebook.com/Kharge",
+    "instagram": "https://instagram.com/m.kharge",
+    "youtube": "https://youtube.com/incindia"
+  },
+  "sources": [
+    {
+      "title": "Election Commission of India - Candidate Affidavit (Rajya Sabha 2020)",
+      "url": "https://affidavit.eci.gov.in"
+    },
+    {
+      "title": "Rajya Sabha Secretariat Official Member Profile",
+      "url": "https://sansad.in/rs"
+    },
+    {
+      "title": "Indian National Congress Presidential Profile",
+      "url": "https://inc.in"
+    }
+  ]
 }

@@ -32,40 +32,6 @@ router.get("/", async (req, res) => {
 
 
 /* =====================================================
-   GET SINGLE CANDIDATE
-   GET /api/candidates/:id
-===================================================== */
-
-router.get("/:id", async (req, res) => {
-
-    try {
-
-        const candidate = await Candidate.findById(req.params.id)
-            .populate("party")
-            .lean();
-
-        if (!candidate) {
-
-            return res.status(404).json({
-                message: "Candidate not found"
-            });
-        }
-
-        res.json(candidate);
-
-    } catch (error) {
-
-        console.error("Error fetching candidate:", error);
-
-        res.status(500).json({
-            message: "Unable to load candidate",
-            error: error.message
-        });
-    }
-});
-
-
-/* =====================================================
    SEARCH CANDIDATES
    GET /api/candidates/search/:keyword
 ===================================================== */
@@ -109,6 +75,40 @@ router.get("/search/:keyword", async (req, res) => {
 
         res.status(500).json({
             message: "Search failed",
+            error: error.message
+        });
+    }
+});
+
+
+/* =====================================================
+   GET SINGLE CANDIDATE
+   GET /api/candidates/:id
+===================================================== */
+
+router.get("/:id", async (req, res) => {
+
+    try {
+
+        const candidate = await Candidate.findById(req.params.id)
+            .populate("party")
+            .lean();
+
+        if (!candidate) {
+
+            return res.status(404).json({
+                message: "Candidate not found"
+            });
+        }
+
+        res.json(candidate);
+
+    } catch (error) {
+
+        console.error("Error fetching candidate:", error);
+
+        res.status(500).json({
+            message: "Unable to load candidate",
             error: error.message
         });
     }
