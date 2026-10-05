@@ -7,13 +7,465 @@ import "./CandidateDetails.css";
 const API_URL = "http://localhost:8000";
 
 
+/* =========================================================
+   PARTY LOGOS
+   All logos are stored inside:
+
+   client/public/party-logos/
+
+   Example:
+   /party-logos/bjp.png
+   /party-logos/congress.png
+   ========================================================= */
+
+const PARTY_LOGOS = {
+
+    bjp: "/party-logos/bjp.png",
+
+    congress: "/party-logos/congress.png",
+
+    aap: "/party-logos/aap.png",
+
+    bsp: "/party-logos/bsp.png",
+
+    sp: "/party-logos/sp.png",
+
+    tmc: "/party-logos/tmc.png",
+
+    cpi: "/party-logos/cpi.png",
+
+    cpim: "/party-logos/cpim.png",
+
+    cpm: "/party-logos/cpim.png",
+
+    dmk: "/party-logos/dmk.png",
+
+    aiadmk: "/party-logos/aiadmk.png",
+
+    jdu: "/party-logos/jdu.png",
+
+    jmm: "/party-logos/jmm.png",
+
+    ncp: "/party-logos/ncp.png",
+
+    bjd: "/party-logos/bjd.png",
+
+    rjd: "/party-logos/rjd.png",
+
+    npp: "/party-logos/npp.png",
+
+    shivsena: "/party-logos/shivsena.png",
+
+    shivsenaubt: "/party-logos/shivsenaubt.png",
+
+    tdp: "/party-logos/tdp.png",
+
+    ysrcp: "/party-logos/ysrcp.png",
+
+    sad: "/party-logos/sad.png",
+
+    nc: "/party-logos/nc.png",
+
+    pdp: "/party-logos/pdp.png",
+
+    aimim: "/party-logos/aimim.png",
+
+    agp: "/party-logos/agp.png",
+    independent: "/party-logos/independent.png"
+
+};
+
+
+/* =========================================================
+   FUNCTION TO FIND PARTY LOGO
+   Handles both party codes and full party names.
+   ========================================================= */
+
+function getPartyLogo(party) {
+
+    if (!party) {
+        return PARTY_LOGOS.independent;
+    }
+
+
+    /*
+       If backend already provides a logo URL,
+       use that first.
+    */
+
+    if (
+        typeof party === "object" &&
+        party.logo
+    ) {
+        return party.logo;
+    }
+
+
+    /*
+       Convert party name into a normalized format.
+       Example:
+
+       "Bharatiya Janata Party"
+       ->
+       "bharatiya janata party"
+    */
+
+    const partyText =
+        typeof party === "object"
+            ? party.name || ""
+            : party;
+
+
+    const normalized =
+        partyText
+            .toString()
+            .toLowerCase()
+            .trim()
+            .replace(/[.,()&]/g, "")
+            .replace(/\s+/g, " ");
+
+
+    /* =====================================================
+       BJP
+       ===================================================== */
+
+    if (
+        normalized === "bjp" ||
+        normalized.includes("bharatiya janata party")
+    ) {
+        return PARTY_LOGOS.bjp;
+    }
+
+
+    /* =====================================================
+       CONGRESS
+       ===================================================== */
+
+    if (
+        normalized === "inc" ||
+        normalized === "congress" ||
+        normalized.includes("indian national congress")
+    ) {
+        return PARTY_LOGOS.congress;
+    }
+
+
+    /* =====================================================
+       AAP
+       ===================================================== */
+
+    if (
+        normalized === "aap" ||
+        normalized.includes("aam aadmi party")
+    ) {
+        return PARTY_LOGOS.aap;
+    }
+
+
+    /* =====================================================
+       BSP
+       ===================================================== */
+
+    if (
+        normalized === "bsp" ||
+        normalized.includes("bahujan samaj party")
+    ) {
+        return PARTY_LOGOS.bsp;
+    }
+
+
+    /* =====================================================
+       SP
+       ===================================================== */
+
+    if (
+        normalized === "sp" ||
+        normalized.includes("samajwadi party")
+    ) {
+        return PARTY_LOGOS.sp;
+    }
+
+
+    /* =====================================================
+       TMC
+       ===================================================== */
+
+    if (
+        normalized === "tmc" ||
+        normalized === "aitc" ||
+        normalized.includes("trinamool congress") ||
+        normalized.includes("all india trinamool")
+    ) {
+        return PARTY_LOGOS.tmc;
+    }
+
+
+    /* =====================================================
+       CPI
+       ===================================================== */
+
+    if (
+        normalized === "cpi" ||
+        normalized.includes("communist party of india")
+    ) {
+
+        /*
+           Prevent CPI(M) from being detected as CPI.
+        */
+
+        if (
+            normalized.includes("marxist") ||
+            normalized.includes("cpim")
+        ) {
+            return PARTY_LOGOS.cpim;
+        }
+
+        return PARTY_LOGOS.cpi;
+    }
+
+
+    /* =====================================================
+       CPI(M)
+       ===================================================== */
+
+    if (
+        normalized === "cpim" ||
+        normalized === "cpm" ||
+        normalized.includes("communist party of india marxist")
+    ) {
+        return PARTY_LOGOS.cpim;
+    }
+
+
+    /* =====================================================
+       DMK
+       ===================================================== */
+
+    if (
+        normalized === "dmk" ||
+        normalized.includes("dravida munnetra kazhagam")
+    ) {
+        return PARTY_LOGOS.dmk;
+    }
+
+
+    /* =====================================================
+       AIADMK
+       ===================================================== */
+
+    if (
+        normalized === "aiadmk" ||
+        normalized.includes("all india anna dravida")
+    ) {
+        return PARTY_LOGOS.aiadmk;
+    }
+
+
+    /* =====================================================
+       JD(U)
+       ===================================================== */
+
+    if (
+        normalized === "jdu" ||
+        normalized === "jd u" ||
+        normalized.includes("janata dal united")
+    ) {
+        return PARTY_LOGOS.jdu;
+    }
+
+
+    /* =====================================================
+       JMM
+       ===================================================== */
+
+    if (
+        normalized === "jmm" ||
+        normalized.includes("jharkhand mukti morcha")
+    ) {
+        return PARTY_LOGOS.jmm;
+    }
+
+
+    /* =====================================================
+       NCP
+       ===================================================== */
+
+    if (
+        normalized === "ncp" ||
+        normalized.includes("nationalist congress party")
+    ) {
+        return PARTY_LOGOS.ncp;
+    }
+
+
+    /* =====================================================
+       BJD
+       ===================================================== */
+
+    if (
+        normalized === "bjd" ||
+        normalized.includes("biju janata dal")
+    ) {
+        return PARTY_LOGOS.bjd;
+    }
+
+
+    /* =====================================================
+       RJD
+       ===================================================== */
+
+    if (
+        normalized === "rjd" ||
+        normalized.includes("rashtriya janata dal")
+    ) {
+        return PARTY_LOGOS.rjd;
+    }
+
+
+    /* =====================================================
+       NPP
+       ===================================================== */
+
+    if (
+        normalized === "npp" ||
+        normalized.includes("national people's party") ||
+        normalized.includes("national peoples party")
+    ) {
+        return PARTY_LOGOS.npp;
+    }
+
+
+    /* =====================================================
+       SHIV SENA UBT
+       ===================================================== */
+
+    if (
+        normalized.includes("shiv sena uddhav") ||
+        normalized.includes("shiv sena ubt") ||
+        normalized.includes("shivsena ubt")
+    ) {
+        return PARTY_LOGOS.shivsenaubt;
+    }
+
+
+    /* =====================================================
+       SHIV SENA
+       ===================================================== */
+
+    if (
+        normalized === "shivsena" ||
+        normalized === "shiv sena" ||
+        normalized.includes("shiv sena")
+    ) {
+        return PARTY_LOGOS.shivsena;
+    }
+
+
+    /* =====================================================
+       TDP
+       ===================================================== */
+
+    if (
+        normalized === "tdp" ||
+        normalized.includes("telugu desam")
+    ) {
+        return PARTY_LOGOS.tdp;
+    }
+
+
+    /* =====================================================
+       YSRCP
+       ===================================================== */
+
+    if (
+        normalized === "ysrcp" ||
+        normalized.includes("ysr congress")
+    ) {
+        return PARTY_LOGOS.ysrcp;
+    }
+
+
+    /* =====================================================
+       SAD
+       ===================================================== */
+
+    if (
+        normalized === "sad" ||
+        normalized.includes("shiromani akali dal")
+    ) {
+        return PARTY_LOGOS.sad;
+    }
+
+
+    /* =====================================================
+       NC
+       ===================================================== */
+
+    if (
+        normalized === "nc" ||
+        normalized.includes("jammu and kashmir national conference") ||
+        normalized.includes("national conference")
+    ) {
+        return PARTY_LOGOS.nc;
+    }
+
+
+    /* =====================================================
+       PDP
+       ===================================================== */
+
+    if (
+        normalized === "pdp" ||
+        normalized.includes("jammu and kashmir peoples democratic")
+    ) {
+        return PARTY_LOGOS.pdp;
+    }
+
+
+    /* =====================================================
+       AIMIM
+       ===================================================== */
+
+    if (
+        normalized === "aimim" ||
+        normalized.includes("all india majlis")
+    ) {
+        return PARTY_LOGOS.aimim;
+    }
+
+
+    /* =====================================================
+       AGP
+       ===================================================== */
+
+    if (
+        normalized === "agp" ||
+        normalized.includes("asam gana parishad") ||
+        normalized.includes("assam gana parishad")
+    ) {
+        return PARTY_LOGOS.agp;
+    }
+
+
+    /*
+       If no party is recognized,
+       use Independent logo.
+    */
+
+    return PARTY_LOGOS.independent;
+}
+
+
 function CandidateDetails() {
 
     const { id } = useParams();
 
+
     const [candidate, setCandidate] = useState(null);
 
+
     const [loading, setLoading] = useState(true);
+
 
     const [error, setError] = useState("");
 
@@ -26,33 +478,46 @@ function CandidateDetails() {
 
                 setLoading(true);
 
+                setError("");
+
+
                 const response = await fetch(
                     `${API_URL}/api/candidates/${id}`
                 );
+
 
                 if (!response.ok) {
 
                     throw new Error(
                         "Unable to load candidate"
                     );
+
                 }
 
-                const data = await response.json();
+
+                const data =
+                    await response.json();
+
 
                 setCandidate(data);
+
 
             } catch (err) {
 
                 console.error(err);
 
+
                 setError(
                     "Unable to load candidate information."
                 );
 
+
             } finally {
 
                 setLoading(false);
+
             }
+
         };
 
 
@@ -61,13 +526,14 @@ function CandidateDetails() {
     }, [id]);
 
 
-    /* =========================
+    /* =====================================================
        LOADING
-    ========================= */
+       ===================================================== */
 
     if (loading) {
 
         return (
+
             <div className="candidate-loading">
 
                 <div className="loading-spinner"></div>
@@ -77,30 +543,36 @@ function CandidateDetails() {
                 </p>
 
             </div>
+
         );
+
     }
 
 
-    /* =========================
+    /* =====================================================
        ERROR
-    ========================= */
+       ===================================================== */
 
     if (error || !candidate) {
 
         return (
+
             <div className="candidate-error-page">
 
                 <div className="error-icon">
                     ⚠️
                 </div>
 
+
                 <h2>
                     Candidate Not Found
                 </h2>
 
+
                 <p>
                     We couldn't load this candidate's profile.
                 </p>
+
 
                 <Link
                     to="/candidates"
@@ -110,9 +582,15 @@ function CandidateDetails() {
                 </Link>
 
             </div>
+
         );
+
     }
 
+
+    /* =====================================================
+       PARTY INFORMATION
+       ===================================================== */
 
     const partyName =
         candidate.party?.name ||
@@ -120,9 +598,12 @@ function CandidateDetails() {
         "Independent";
 
 
+    /*
+       Automatically find the correct logo.
+    */
+
     const partyLogo =
-        candidate.party?.logo ||
-        "";
+        getPartyLogo(candidate.party);
 
 
     const journey =
@@ -166,9 +647,9 @@ function CandidateDetails() {
         <div className="candidate-details-page">
 
 
-            {/* =====================================
+            {/* =================================================
                 TOP NAVIGATION
-            ===================================== */}
+                ================================================= */}
 
             <div className="candidate-topbar">
 
@@ -194,9 +675,9 @@ function CandidateDetails() {
             </div>
 
 
-            {/* =====================================
+            {/* =================================================
                 HERO
-            ===================================== */}
+                ================================================= */}
 
             <section className="candidate-hero">
 
@@ -245,16 +726,26 @@ function CandidateDetails() {
                         )}
 
 
+                        {/* =================================================
+                            PARTY WITH LOGO
+                            ================================================= */}
+
                         <div className="candidate-party">
 
-                            {partyLogo && (
+                            <div className="candidate-party-logo-wrapper">
 
                                 <img
                                     src={partyLogo}
-                                    alt={partyName}
+                                    alt={`${partyName} logo`}
+                                    className="candidate-party-logo"
+                                    onError={(event) => {
+                                        event.currentTarget.src =
+                                            PARTY_LOGOS.independent;
+                                    }}
                                 />
 
-                            )}
+                            </div>
+
 
                             <span>
                                 {partyName}
@@ -266,11 +757,16 @@ function CandidateDetails() {
                         <div className="candidate-location">
 
                             <span>
-                                📍 {candidate.constituency || "Constituency not available"}
+                                📍{" "}
+                                {candidate.constituency ||
+                                    "Constituency not available"}
                             </span>
 
+
                             <span>
-                                🏛️ {candidate.state || "State not available"}
+                                🏛️{" "}
+                                {candidate.state ||
+                                    "State not available"}
                             </span>
 
                         </div>
@@ -282,9 +778,9 @@ function CandidateDetails() {
             </section>
 
 
-            {/* =====================================
+            {/* =================================================
                 QUICK STATS
-            ===================================== */}
+                ================================================= */}
 
             <section className="candidate-stats">
 
@@ -295,6 +791,7 @@ function CandidateDetails() {
                     </span>
 
                     <div>
+
                         <strong>
                             {candidate.age || "—"}
                         </strong>
@@ -302,6 +799,7 @@ function CandidateDetails() {
                         <small>
                             Age
                         </small>
+
                     </div>
 
                 </div>
@@ -314,6 +812,7 @@ function CandidateDetails() {
                     </span>
 
                     <div>
+
                         <strong>
                             {candidate.education || "—"}
                         </strong>
@@ -321,6 +820,7 @@ function CandidateDetails() {
                         <small>
                             Education
                         </small>
+
                     </div>
 
                 </div>
@@ -333,16 +833,24 @@ function CandidateDetails() {
                     </span>
 
                     <div>
+
                         <strong>
-                            {electoralRecord.filter(
-                                item =>
-                                    item.result?.toLowerCase() === "won"
-                            ).length}
+
+                            {
+                                electoralRecord.filter(
+                                    item =>
+                                        item.result
+                                            ?.toLowerCase() ===
+                                        "won"
+                                ).length
+                            }
+
                         </strong>
 
                         <small>
                             Election Wins
                         </small>
+
                     </div>
 
                 </div>
@@ -355,6 +863,7 @@ function CandidateDetails() {
                     </span>
 
                     <div>
+
                         <strong>
                             {positions.length}
                         </strong>
@@ -362,6 +871,7 @@ function CandidateDetails() {
                         <small>
                             Positions Held
                         </small>
+
                     </div>
 
                 </div>
@@ -369,9 +879,9 @@ function CandidateDetails() {
             </section>
 
 
-            {/* =====================================
+            {/* =================================================
                 SECTION NAVIGATION
-            ===================================== */}
+                ================================================= */}
 
             <nav className="candidate-section-nav">
 
@@ -409,9 +919,9 @@ function CandidateDetails() {
             <main className="candidate-content">
 
 
-                {/* =====================================
+                {/* =================================================
                     ABOUT
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="about"
@@ -425,6 +935,7 @@ function CandidateDetails() {
                         </span>
 
                         <div>
+
                             <h2>
                                 About the Candidate
                             </h2>
@@ -432,6 +943,7 @@ function CandidateDetails() {
                             <p>
                                 Background and publicly available information
                             </p>
+
                         </div>
 
                     </div>
@@ -485,6 +997,7 @@ function CandidateDetails() {
                                     {candidate.profession}
                                 </p>
 
+
                                 {candidate.experience && (
 
                                     <p className="secondary-text">
@@ -502,9 +1015,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     POLITICAL CAREER
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="career"
@@ -518,6 +1031,7 @@ function CandidateDetails() {
                         </span>
 
                         <div>
+
                             <h2>
                                 Political Journey
                             </h2>
@@ -525,6 +1039,7 @@ function CandidateDetails() {
                             <p>
                                 Key stages in the candidate's political career
                             </p>
+
                         </div>
 
                     </div>
@@ -545,9 +1060,11 @@ function CandidateDetails() {
                                         {item.year}
                                     </div>
 
+
                                     <div className="timeline-line">
                                         <span></span>
                                     </div>
+
 
                                     <div className="timeline-content">
 
@@ -584,6 +1101,7 @@ function CandidateDetails() {
                                 Positions Held
                             </h3>
 
+
                             <div className="positions-grid">
 
                                 {positions.map((item, index) => (
@@ -596,6 +1114,7 @@ function CandidateDetails() {
                                         <div className="position-icon">
                                             🏛️
                                         </div>
+
 
                                         <div>
 
@@ -626,9 +1145,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
-                    PARTY
-                ===================================== */}
+                {/* =================================================
+                    PARTY ASSOCIATION
+                    ================================================= */}
 
                 <section className="candidate-section">
 
@@ -639,6 +1158,7 @@ function CandidateDetails() {
                         </span>
 
                         <div>
+
                             <h2>
                                 Party Association
                             </h2>
@@ -646,6 +1166,7 @@ function CandidateDetails() {
                             <p>
                                 Political affiliation and publicly stated association
                             </p>
+
                         </div>
 
                     </div>
@@ -653,18 +1174,19 @@ function CandidateDetails() {
 
                     <div className="party-association-card">
 
+
+                        {/* PARTY LOGO */}
+
                         <div className="party-association-logo">
 
-                            {partyLogo ? (
-
-                                <img
-                                    src={partyLogo}
-                                    alt={partyName}
-                                />
-
-                            ) : (
-                                "🇮🇳"
-                            )}
+                            <img
+                                src={partyLogo}
+                                alt={`${partyName} logo`}
+                                onError={(event) => {
+                                    event.currentTarget.src =
+                                        PARTY_LOGOS.independent;
+                                }}
+                            />
 
                         </div>
 
@@ -674,6 +1196,7 @@ function CandidateDetails() {
                             <h3>
                                 {partyName}
                             </h3>
+
 
                             {candidate.partyAssociation && (
 
@@ -728,9 +1251,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     PRIORITIES
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="priorities"
@@ -773,9 +1296,11 @@ function CandidateDetails() {
                                         {String(index + 1).padStart(2, "0")}
                                     </div>
 
+
                                     <h3>
                                         {item.title}
                                     </h3>
+
 
                                     <p>
                                         {item.description}
@@ -798,9 +1323,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     ELECTORAL RECORD
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="elections"
@@ -882,23 +1407,54 @@ function CandidateDetails() {
                                                     {item.year || "—"}
                                                 </td>
 
+
                                                 <td>
                                                     {item.election || "—"}
                                                 </td>
+
 
                                                 <td>
                                                     {item.constituency || "—"}
                                                 </td>
 
+
                                                 <td>
-                                                    {item.party || "—"}
+
+                                                    <div className="table-party">
+
+                                                        <img
+                                                            src={getPartyLogo(
+                                                                item.party ||
+                                                                partyName
+                                                            )}
+                                                            alt={
+                                                                item.party ||
+                                                                partyName
+                                                            }
+                                                            className="table-party-logo"
+                                                            onError={(event) => {
+                                                                event.currentTarget.src =
+                                                                    PARTY_LOGOS.independent;
+                                                            }}
+                                                        />
+
+
+                                                        <span>
+                                                            {item.party || "—"}
+                                                        </span>
+
+                                                    </div>
+
                                                 </td>
+
 
                                                 <td>
 
                                                     <span
                                                         className={
-                                                            item.result?.toLowerCase() === "won"
+                                                            item.result
+                                                                ?.toLowerCase() ===
+                                                                "won"
                                                                 ? "result-won"
                                                                 : "result-other"
                                                         }
@@ -908,11 +1464,13 @@ function CandidateDetails() {
 
                                                 </td>
 
+
                                                 <td>
                                                     {item.votes
                                                         ? item.votes.toLocaleString()
                                                         : "—"}
                                                 </td>
+
 
                                                 <td>
                                                     {item.voteShare
@@ -942,9 +1500,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     ACHIEVEMENTS
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="achievements"
@@ -1010,9 +1568,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     CRITICISM
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="criticism"
@@ -1056,6 +1614,7 @@ function CandidateDetails() {
                                         <h3>
                                             {item.title}
                                         </h3>
+
 
                                         {item.year && (
 
@@ -1124,6 +1683,7 @@ function CandidateDetails() {
                                 Reported Controversies
                             </h3>
 
+
                             {controversies.map(
                                 (item, index) => (
 
@@ -1154,9 +1714,9 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     PUBLICATIONS
-                ===================================== */}
+                    ================================================= */}
 
                 {publications.length > 0 && (
 
@@ -1205,9 +1765,9 @@ function CandidateDetails() {
                 )}
 
 
-                {/* =====================================
+                {/* =================================================
                     SOURCES
-                ===================================== */}
+                    ================================================= */}
 
                 <section
                     id="sources"
@@ -1253,11 +1813,13 @@ function CandidateDetails() {
                                         🔗
                                     </span>
 
+
                                     <div>
 
                                         <strong>
                                             {source.title}
                                         </strong>
+
 
                                         <small>
                                             Open source →
@@ -1282,96 +1844,98 @@ function CandidateDetails() {
                 </section>
 
 
-                {/* =====================================
+                {/* =================================================
                     OFFICIAL LINKS
-                ===================================== */}
+                    ================================================= */}
 
                 {(candidate.officialWebsite ||
                     candidate.socialMedia) && (
 
-                    <section className="official-links-section">
+                        <section className="official-links-section">
 
-                        <h2>
-                            Official Links
-                        </h2>
-
-
-                        <div className="official-links">
-
-                            {candidate.officialWebsite && (
-
-                                <a
-                                    href={candidate.officialWebsite}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    🌐 Official Website
-                                </a>
-
-                            )}
+                            <h2>
+                                Official Links
+                            </h2>
 
 
-                            {candidate.socialMedia?.twitter && (
+                            <div className="official-links">
 
-                                <a
-                                    href={candidate.socialMedia.twitter}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    𝕏 X / Twitter
-                                </a>
+                                {candidate.officialWebsite && (
 
-                            )}
+                                    <a
+                                        href={candidate.officialWebsite}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        🌐 Official Website
+                                    </a>
 
-
-                            {candidate.socialMedia?.facebook && (
-
-                                <a
-                                    href={candidate.socialMedia.facebook}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    📘 Facebook
-                                </a>
-
-                            )}
+                                )}
 
 
-                            {candidate.socialMedia?.instagram && (
+                                {candidate.socialMedia?.twitter && (
 
-                                <a
-                                    href={candidate.socialMedia.instagram}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    📷 Instagram
-                                </a>
+                                    <a
+                                        href={candidate.socialMedia.twitter}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        𝕏 X / Twitter
+                                    </a>
 
-                            )}
+                                )}
 
 
-                            {candidate.socialMedia?.youtube && (
+                                {candidate.socialMedia?.facebook && (
 
-                                <a
-                                    href={candidate.socialMedia.youtube}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    ▶️ YouTube
-                                </a>
+                                    <a
+                                        href={candidate.socialMedia.facebook}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        📘 Facebook
+                                    </a>
 
-                            )}
+                                )}
 
-                        </div>
 
-                    </section>
+                                {candidate.socialMedia?.instagram && (
 
-                )}
+                                    <a
+                                        href={candidate.socialMedia.instagram}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        📷 Instagram
+                                    </a>
+
+                                )}
+
+
+                                {candidate.socialMedia?.youtube && (
+
+                                    <a
+                                        href={candidate.socialMedia.youtube}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        ▶️ YouTube
+                                    </a>
+
+                                )}
+
+                            </div>
+
+                        </section>
+
+                    )}
 
             </main>
 
         </div>
+
     );
+
 }
 
 
